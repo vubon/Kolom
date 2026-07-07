@@ -4,7 +4,6 @@ options:
   deploymentTarget:
     macOS: "13.0"
   createIntermediateGroups: true
-  xcodeVersion: "15.0"
 
 settings:
   base:
@@ -61,6 +60,7 @@ targets:
       base:
         PRODUCT_BUNDLE_IDENTIFIER: com.kolom.inputmethod.KolomTests
         MACOSX_DEPLOYMENT_TARGET: "13.0"
+        GENERATE_INFOPLIST_FILE: YES
         TEST_HOST: "$(BUILT_PRODUCTS_DIR)/Kolom.app/Contents/MacOS/Kolom"
         BUNDLE_LOADER: "$(TEST_HOST)"
 
