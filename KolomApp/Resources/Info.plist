@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDisplayName</key>
+	<string>Kolom</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIconFile</key>
+	<string>BengaliIconTemplate.tiff</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.kolom.inputmethod.Kolom</string>
+	<key>CFBundleName</key>
+	<string>Kolom</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>$(MARKETING_VERSION)</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>$(CURRENT_PROJECT_VERSION)</string>
+	<key>ComponentInputModeDict</key>
+	<dict>
+		<key>tsInputModeListKey</key>
+		<dict>
+			<key>com.kolom.inputmethod.Kolom.Bengali</key>
+			<dict>
+				<key>TISInputSourceID</key>
+				<string>com.kolom.inputmethod.Kolom.Bengali</string>
+				<key>TISIntendedLanguage</key>
+				<string>bn</string>
+				<key>tsInputModeAlternateMenuIconNSImageName</key>
+				<string>BengaliIconTemplate.tiff</string>
+				<key>tsInputModeIsVisibleKey</key>
+				<true/>
+				<key>tsInputModeMenuIconFileKey</key>
+				<string>BengaliIconTemplate.tiff</string>
+				<key>tsInputModeScriptKey</key>
+				<string>smUnicodeScript</string>
+			</dict>
+		</dict>
+		<key>tsVisibleInputModeOrderedArrayKey</key>
+		<array>
+			<string>com.kolom.inputmethod.Kolom.Bengali</string>
+		</array>
+	</dict>
+	<key>InputMethodConnectionName</key>
+	<string>com.kolom.inputmethod.Kolom_Connection</string>
+	<key>InputMethodServerControllerClass</key>
+	<string>KolomInputController</string>
+	<key>LSBackgroundOnly</key>
+	<true/>
+	<key>LSMinimumSystemVersion</key>
+	<string>13.0</string>
+	<key>LSUIElement</key>
+	<true/>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<false/>
+	</dict>
+	<key>NSHumanReadableCopyright</key>
+	<string>© 2025 Kolom. All rights reserved.</string>
+	<key>NSPrincipalClass</key>
+	<string>NSApplication</string>
+	<key>tsInputMethodCharacterRepertoireKey</key>
+	<array>
+		<string>Beng</string>
+	</array>
+	<key>tsInputMethodIconFileKey</key>
+	<string>BengaliIconTemplate.tiff</string>
+</dict>
+</plist>

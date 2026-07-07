@@ -1,0 +1,7 @@
+/* Localized versions of Info.plist keys */
+
+CFBundleDisplayName = "কলম";
+CFBundleName = "কলম";
+
+/* Input Mode Names */
+"com.kolom.inputmethod.Kolom.Bengali" = "কলম বাংলা";

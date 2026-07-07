@@ -1,0 +1,9262 @@
+[
+  {
+    "word": "আমি",
+    "frequency": 1000,
+    "source": "core"
+  },
+  {
+    "word": "তুমি",
+    "frequency": 980,
+    "source": "core"
+  },
+  {
+    "word": "সে",
+    "frequency": 960,
+    "source": "core"
+  },
+  {
+    "word": "আমরা",
+    "frequency": 940,
+    "source": "core"
+  },
+  {
+    "word": "তোমরা",
+    "frequency": 920,
+    "source": "core"
+  },
+  {
+    "word": "তারা",
+    "frequency": 910,
+    "source": "core"
+  },
+  {
+    "word": "এটা",
+    "frequency": 900,
+    "source": "core"
+  },
+  {
+    "word": "ওটা",
+    "frequency": 890,
+    "source": "core"
+  },
+  {
+    "word": "এখানে",
+    "frequency": 880,
+    "source": "core"
+  },
+  {
+    "word": "ওখানে",
+    "frequency": 870,
+    "source": "core"
+  },
+  {
+    "word": "কি",
+    "frequency": 860,
+    "source": "core"
+  },
+  {
+    "word": "কী",
+    "frequency": 855,
+    "source": "core"
+  },
+  {
+    "word": "না",
+    "frequency": 850,
+    "source": "core"
+  },
+  {
+    "word": "হ্যাঁ",
+    "frequency": 840,
+    "source": "core"
+  },
+  {
+    "word": "ভালো",
+    "frequency": 830,
+    "source": "core"
+  },
+  {
+    "word": "ভালোবাসা",
+    "frequency": 820,
+    "source": "core"
+  },
+  {
+    "word": "ভালোবাসি",
+    "frequency": 815,
+    "source": "core"
+  },
+  {
+    "word": "খারাপ",
+    "frequency": 810,
+    "source": "core"
+  },
+  {
+    "word": "বড়",
+    "frequency": 800,
+    "source": "core"
+  },
+  {
+    "word": "ছোট",
+    "frequency": 790,
+    "source": "core"
+  },
+  {
+    "word": "মা",
+    "frequency": 780,
+    "source": "core"
+  },
+  {
+    "word": "বাবা",
+    "frequency": 770,
+    "source": "core"
+  },
+  {
+    "word": "ভাই",
+    "frequency": 760,
+    "source": "core"
+  },
+  {
+    "word": "বোন",
+    "frequency": 750,
+    "source": "core"
+  },
+  {
+    "word": "বন্ধু",
+    "frequency": 740,
+    "source": "core"
+  },
+  {
+    "word": "ঘর",
+    "frequency": 730,
+    "source": "core"
+  },
+  {
+    "word": "বাড়ি",
+    "frequency": 720,
+    "source": "core"
+  },
+  {
+    "word": "রাস্তা",
+    "frequency": 710,
+    "source": "core"
+  },
+  {
+    "word": "স্কুল",
+    "frequency": 700,
+    "source": "core"
+  },
+  {
+    "word": "কলেজ",
+    "frequency": 690,
+    "source": "core"
+  },
+  {
+    "word": "বিশ্ববিদ্যালয়",
+    "frequency": 680,
+    "source": "core"
+  },
+  {
+    "word": "বাংলাদেশ",
+    "frequency": 670,
+    "source": "core"
+  },
+  {
+    "word": "বাংলা",
+    "frequency": 660,
+    "source": "core"
+  },
+  {
+    "word": "বাংলাদেশী",
+    "frequency": 650,
+    "source": "core"
+  },
+  {
+    "word": "পানি",
+    "frequency": 640,
+    "source": "core"
+  },
+  {
+    "word": "পানীয়",
+    "frequency": 635,
+    "source": "core"
+  },
+  {
+    "word": "খাবার",
+    "frequency": 630,
+    "source": "core"
+  },
+  {
+    "word": "খাওয়া",
+    "frequency": 625,
+    "source": "core"
+  },
+  {
+    "word": "সময়",
+    "frequency": 620,
+    "source": "core"
+  },
+  {
+    "word": "দিন",
+    "frequency": 610,
+    "source": "core"
+  },
+  {
+    "word": "রাত",
+    "frequency": 600,
+    "source": "core"
+  },
+  {
+    "word": "সকাল",
+    "frequency": 590,
+    "source": "core"
+  },
+  {
+    "word": "বিকেল",
+    "frequency": 580,
+    "source": "core"
+  },
+  {
+    "word": "রাতে",
+    "frequency": 575,
+    "source": "core"
+  },
+  {
+    "word": "দিনে",
+    "frequency": 572,
+    "source": "core"
+  },
+  {
+    "word": "আসো",
+    "frequency": 570,
+    "source": "core"
+  },
+  {
+    "word": "যাও",
+    "frequency": 560,
+    "source": "core"
+  },
+  {
+    "word": "করো",
+    "frequency": 550,
+    "source": "core"
+  },
+  {
+    "word": "করা",
+    "frequency": 545,
+    "source": "core"
+  },
+  {
+    "word": "করি",
+    "frequency": 542,
+    "source": "core"
+  },
+  {
+    "word": "করছি",
+    "frequency": 540,
+    "source": "core"
+  },
+  {
+    "word": "করেছি",
+    "frequency": 538,
+    "source": "core"
+  },
+  {
+    "word": "বলো",
+    "frequency": 530,
+    "source": "core"
+  },
+  {
+    "word": "বলা",
+    "frequency": 528,
+    "source": "core"
+  },
+  {
+    "word": "বলছি",
+    "frequency": 525,
+    "source": "core"
+  },
+  {
+    "word": "দেখো",
+    "frequency": 520,
+    "source": "core"
+  },
+  {
+    "word": "দেখা",
+    "frequency": 518,
+    "source": "core"
+  },
+  {
+    "word": "শোনো",
+    "frequency": 510,
+    "source": "core"
+  },
+  {
+    "word": "জানো",
+    "frequency": 500,
+    "source": "core"
+  },
+  {
+    "word": "জানা",
+    "frequency": 498,
+    "source": "core"
+  },
+  {
+    "word": "মানুষ",
+    "frequency": 490,
+    "source": "core"
+  },
+  {
+    "word": "দেশ",
+    "frequency": 480,
+    "source": "core"
+  },
+  {
+    "word": "মাটি",
+    "frequency": 470,
+    "source": "core"
+  },
+  {
+    "word": "আকাশ",
+    "frequency": 460,
+    "source": "core"
+  },
+  {
+    "word": "নদী",
+    "frequency": 450,
+    "source": "core"
+  },
+  {
+    "word": "পাখি",
+    "frequency": 440,
+    "source": "core"
+  },
+  {
+    "word": "ফুল",
+    "frequency": 430,
+    "source": "core"
+  },
+  {
+    "word": "গান",
+    "frequency": 420,
+    "source": "core"
+  },
+  {
+    "word": "বই",
+    "frequency": 410,
+    "source": "core"
+  },
+  {
+    "word": "কলম",
+    "frequency": 400,
+    "source": "core"
+  },
+  {
+    "word": "কম্পিউটার",
+    "frequency": 395,
+    "source": "core"
+  },
+  {
+    "word": "ফোন",
+    "frequency": 390,
+    "source": "core"
+  },
+  {
+    "word": "মোবাইল",
+    "frequency": 385,
+    "source": "core"
+  },
+  {
+    "word": "ইন্টারনেট",
+    "frequency": 380,
+    "source": "core"
+  },
+  {
+    "word": "প্রেম",
+    "frequency": 370,
+    "source": "core"
+  },
+  {
+    "word": "স্বপ্ন",
+    "frequency": 360,
+    "source": "core"
+  },
+  {
+    "word": "জীবন",
+    "frequency": 350,
+    "source": "core"
+  },
+  {
+    "word": "মৃত্যু",
+    "frequency": 340,
+    "source": "core"
+  },
+  {
+    "word": "সুখ",
+    "frequency": 330,
+    "source": "core"
+  },
+  {
+    "word": "দুঃখ",
+    "frequency": 325,
+    "source": "core"
+  },
+  {
+    "word": "আনন্দ",
+    "frequency": 320,
+    "source": "core"
+  },
+  {
+    "word": "সত্য",
+    "frequency": 315,
+    "source": "core"
+  },
+  {
+    "word": "মিথ্যা",
+    "frequency": 310,
+    "source": "core"
+  },
+  {
+    "word": "ধন্যবাদ",
+    "frequency": 308,
+    "source": "core"
+  },
+  {
+    "word": "স্বাগতম",
+    "frequency": 305,
+    "source": "core"
+  },
+  {
+    "word": "শুভ",
+    "frequency": 300,
+    "source": "core"
+  },
+  {
+    "word": "শুভেচ্ছা",
+    "frequency": 298,
+    "source": "core"
+  },
+  {
+    "word": "আলো",
+    "frequency": 295,
+    "source": "core"
+  },
+  {
+    "word": "অন্ধকার",
+    "frequency": 290,
+    "source": "core"
+  },
+  {
+    "word": "সবুজ",
+    "frequency": 285,
+    "source": "core"
+  },
+  {
+    "word": "লাল",
+    "frequency": 280,
+    "source": "core"
+  },
+  {
+    "word": "নীল",
+    "frequency": 275,
+    "source": "core"
+  },
+  {
+    "word": "সাদা",
+    "frequency": 270,
+    "source": "core"
+  },
+  {
+    "word": "কালো",
+    "frequency": 265,
+    "source": "core"
+  },
+  {
+    "word": "হলুদ",
+    "frequency": 260,
+    "source": "core"
+  },
+  {
+    "word": "গ্রাম",
+    "frequency": 258,
+    "source": "core"
+  },
+  {
+    "word": "শহর",
+    "frequency": 255,
+    "source": "core"
+  },
+  {
+    "word": "ঢাকা",
+    "frequency": 250,
+    "source": "core"
+  },
+  {
+    "word": "চট্টগ্রাম",
+    "frequency": 248,
+    "source": "core"
+  },
+  {
+    "word": "সিলেট",
+    "frequency": 245,
+    "source": "core"
+  },
+  {
+    "word": "রাজশাহী",
+    "frequency": 242,
+    "source": "core"
+  },
+  {
+    "word": "খুলনা",
+    "frequency": 240,
+    "source": "core"
+  },
+  {
+    "word": "রংপুর",
+    "frequency": 238,
+    "source": "core"
+  },
+  {
+    "word": "ময়মনসিংহ",
+    "frequency": 235,
+    "source": "core"
+  },
+  {
+    "word": "পদ্মা",
+    "frequency": 230,
+    "source": "core"
+  },
+  {
+    "word": "মেঘনা",
+    "frequency": 228,
+    "source": "core"
+  },
+  {
+    "word": "যমুনা",
+    "frequency": 225,
+    "source": "core"
+  },
+  {
+    "word": "সূর্য",
+    "frequency": 220,
+    "source": "core"
+  },
+  {
+    "word": "চাঁদ",
+    "frequency": 218,
+    "source": "core"
+  },
+  {
+    "word": "তারা",
+    "frequency": 215,
+    "source": "core"
+  },
+  {
+    "word": "বৃষ্টি",
+    "frequency": 210,
+    "source": "core"
+  },
+  {
+    "word": "বাতাস",
+    "frequency": 208,
+    "source": "core"
+  },
+  {
+    "word": "আগুন",
+    "frequency": 205,
+    "source": "core"
+  },
+  {
+    "word": "পাথর",
+    "frequency": 202,
+    "source": "core"
+  },
+  {
+    "word": "লোহা",
+    "frequency": 200,
+    "source": "core"
+  },
+  {
+    "word": "সোনা",
+    "frequency": 198,
+    "source": "core"
+  },
+  {
+    "word": "রুপা",
+    "frequency": 195,
+    "source": "core"
+  },
+  {
+    "word": "গাছ",
+    "frequency": 192,
+    "source": "core"
+  },
+  {
+    "word": "পাতা",
+    "frequency": 190,
+    "source": "core"
+  },
+  {
+    "word": "ফল",
+    "frequency": 188,
+    "source": "core"
+  },
+  {
+    "word": "আম",
+    "frequency": 185,
+    "source": "core"
+  },
+  {
+    "word": "কলা",
+    "frequency": 182,
+    "source": "core"
+  },
+  {
+    "word": "লিচু",
+    "frequency": 180,
+    "source": "core"
+  },
+  {
+    "word": "জাম",
+    "frequency": 178,
+    "source": "core"
+  },
+  {
+    "word": "কাঁঠাল",
+    "frequency": 175,
+    "source": "core"
+  },
+  {
+    "word": "মাছ",
+    "frequency": 172,
+    "source": "core"
+  },
+  {
+    "word": "মাংস",
+    "frequency": 170,
+    "source": "core"
+  },
+  {
+    "word": "ভাত",
+    "frequency": 168,
+    "source": "core"
+  },
+  {
+    "word": "রুটি",
+    "frequency": 165,
+    "source": "core"
+  },
+  {
+    "word": "দুধ",
+    "frequency": 162,
+    "source": "core"
+  },
+  {
+    "word": "চা",
+    "frequency": 160,
+    "source": "core"
+  },
+  {
+    "word": "কফি",
+    "frequency": 158,
+    "source": "core"
+  },
+  {
+    "word": "নাম",
+    "frequency": 155,
+    "source": "core"
+  },
+  {
+    "word": "পরিবার",
+    "frequency": 152,
+    "source": "core"
+  },
+  {
+    "word": "সমাজ",
+    "frequency": 150,
+    "source": "core"
+  },
+  {
+    "word": "সরকার",
+    "frequency": 148,
+    "source": "core"
+  },
+  {
+    "word": "রাজনীতি",
+    "frequency": 145,
+    "source": "core"
+  },
+  {
+    "word": "ইতিহাস",
+    "frequency": 142,
+    "source": "core"
+  },
+  {
+    "word": "সংস্কৃতি",
+    "frequency": 140,
+    "source": "core"
+  },
+  {
+    "word": "শিক্ষা",
+    "frequency": 138,
+    "source": "core"
+  },
+  {
+    "word": "স্বাস্থ্য",
+    "frequency": 135,
+    "source": "core"
+  },
+  {
+    "word": "বিজ্ঞান",
+    "frequency": 132,
+    "source": "core"
+  },
+  {
+    "word": "প্রকৃতি",
+    "frequency": 130,
+    "source": "core"
+  },
+  {
+    "word": "পরিবেশ",
+    "frequency": 128,
+    "source": "core"
+  },
+  {
+    "word": "কাজ",
+    "frequency": 125,
+    "source": "core"
+  },
+  {
+    "word": "কাজ করা",
+    "frequency": 122,
+    "source": "core"
+  },
+  {
+    "word": "সংগীত",
+    "frequency": 120,
+    "source": "core"
+  },
+  {
+    "word": "সিনেমা",
+    "frequency": 118,
+    "source": "core"
+  },
+  {
+    "word": "খেলা",
+    "frequency": 115,
+    "source": "core"
+  },
+  {
+    "word": "খেলাধুলা",
+    "frequency": 112,
+    "source": "core"
+  },
+  {
+    "word": "ক্রিকেট",
+    "frequency": 110,
+    "source": "core"
+  },
+  {
+    "word": "ফুটবল",
+    "frequency": 108,
+    "source": "core"
+  },
+  {
+    "word": "শিল্প",
+    "frequency": 105,
+    "source": "core"
+  },
+  {
+    "word": "ধর্ম",
+    "frequency": 102,
+    "source": "core"
+  },
+  {
+    "word": "ইসলাম",
+    "frequency": 100,
+    "source": "core"
+  },
+  {
+    "word": "হিন্দু",
+    "frequency": 98,
+    "source": "core"
+  },
+  {
+    "word": "বৌদ্ধ",
+    "frequency": 95,
+    "source": "core"
+  },
+  {
+    "word": "খ্রিস্টান",
+    "frequency": 92,
+    "source": "core"
+  },
+  {
+    "word": "ঈশ্বর",
+    "frequency": 90,
+    "source": "core"
+  },
+  {
+    "word": "আল্লাহ",
+    "frequency": 88,
+    "source": "core"
+  },
+  {
+    "word": "মসজিদ",
+    "frequency": 85,
+    "source": "core"
+  },
+  {
+    "word": "মন্দির",
+    "frequency": 82,
+    "source": "core"
+  },
+  {
+    "word": "গির্জা",
+    "frequency": 80,
+    "source": "core"
+  },
+  {
+    "word": "ভাষা",
+    "frequency": 78,
+    "source": "core"
+  },
+  {
+    "word": "বর্ণমালা",
+    "frequency": 75,
+    "source": "core"
+  },
+  {
+    "word": "শব্দ",
+    "frequency": 72,
+    "source": "core"
+  },
+  {
+    "word": "বাক্য",
+    "frequency": 70,
+    "source": "core"
+  },
+  {
+    "word": "কবিতা",
+    "frequency": 68,
+    "source": "core"
+  },
+  {
+    "word": "গল্প",
+    "frequency": 65,
+    "source": "core"
+  },
+  {
+    "word": "উপন্যাস",
+    "frequency": 62,
+    "source": "core"
+  },
+  {
+    "word": "নাটক",
+    "frequency": 60,
+    "source": "core"
+  },
+  {
+    "word": "প্রবন্ধ",
+    "frequency": 58,
+    "source": "core"
+  },
+  {
+    "word": "রবীন্দ্রনাথ",
+    "frequency": 55,
+    "source": "core"
+  },
+  {
+    "word": "নজরুল",
+    "frequency": 52,
+    "source": "core"
+  },
+  {
+    "word": "একুশে",
+    "frequency": 50,
+    "source": "core"
+  },
+  {
+    "word": "স্বাধীনতা",
+    "frequency": 48,
+    "source": "core"
+  },
+  {
+    "word": "মুক্তিযুদ্ধ",
+    "frequency": 45,
+    "source": "core"
+  },
+  {
+    "word": "শহীদ",
+    "frequency": 42,
+    "source": "core"
+  },
+  {
+    "word": "বিজয়",
+    "frequency": 40,
+    "source": "core"
+  },
+  {
+    "word": "পতাকা",
+    "frequency": 38,
+    "source": "core"
+  },
+  {
+    "word": "জাতীয়",
+    "frequency": 35,
+    "source": "core"
+  },
+  {
+    "word": "আন্তর্জাতিক",
+    "frequency": 32,
+    "source": "core"
+  },
+  {
+    "word": "অর্থনীতি",
+    "frequency": 30,
+    "source": "core"
+  },
+  {
+    "word": "উন্নয়ন",
+    "frequency": 28,
+    "source": "core"
+  },
+  {
+    "word": "প্রযুক্তি",
+    "frequency": 25,
+    "source": "core"
+  },
+  {
+    "word": "ডিজিটাল",
+    "frequency": 22,
+    "source": "core"
+  },
+  {
+    "word": "সফটওয়্যার",
+    "frequency": 20,
+    "source": "core"
+  },
+  {
+    "word": "হার্ডওয়্যার",
+    "frequency": 18,
+    "source": "core"
+  },
+  {
+    "word": "প্রোগ্রামিং",
+    "frequency": 15,
+    "source": "core"
+  },
+  {
+    "word": "ডেভেলপার",
+    "frequency": 12,
+    "source": "core"
+  },
+  {
+    "word": "বাংলায়",
+    "frequency": 655,
+    "source": "core"
+  },
+  {
+    "word": "বাঙালী",
+    "frequency": 654,
+    "source": "core"
+  },
+  {
+    "word": "বাং",
+    "frequency": 600,
+    "source": "core"
+  },
+  {
+    "word": "ব্যাং",
+    "frequency": 599,
+    "source": "core"
+  },
+  {
+    "word": "এবং",
+    "frequency": 5000,
+    "source": "wikipedia"
+  },
+  {
+    "word": "হয়",
+    "frequency": 4999,
+    "source": "wikipedia"
+  },
+  {
+    "word": "এর",
+    "frequency": 4998,
+    "source": "wikipedia"
+  },
+  {
+    "word": "একটি",
+    "frequency": 4997,
+    "source": "wikipedia"
+  },
+  {
+    "word": "এই",
+    "frequency": 4996,
+    "source": "wikipedia"
+  },
+  {
+    "word": "মন্দিরের",
+    "frequency": 4995,
+    "source": "wikipedia"
+  },
+  {
+    "word": "থেকে",
+    "frequency": 4994,
+    "source": "wikipedia"
+  },
+  {
+    "word": "তিনি",
+    "frequency": 4993,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সালের",
+    "frequency": 4992,
+    "source": "wikipedia"
+  },
+  {
+    "word": "আংকর",
+    "frequency": 4991,
+    "source": "wikipedia"
+  },
+  {
+    "word": "এটি",
+    "frequency": 4990,
+    "source": "wikipedia"
+  },
+  {
+    "word": "হয়েছে",
+    "frequency": 4989,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বা",
+    "frequency": 4988,
+    "source": "wikipedia"
+  },
+  {
+    "word": "হিসেবে",
+    "frequency": 4987,
+    "source": "wikipedia"
+  },
+  {
+    "word": "করেন",
+    "frequency": 4986,
+    "source": "wikipedia"
+  },
+  {
+    "word": "চেক",
+    "frequency": 4985,
+    "source": "wikipedia"
+  },
+  {
+    "word": "করে",
+    "frequency": 4984,
+    "source": "wikipedia"
+  },
+  {
+    "word": "তার",
+    "frequency": 4983,
+    "source": "wikipedia"
+  },
+  {
+    "word": "জন্য",
+    "frequency": 4982,
+    "source": "wikipedia"
+  },
+  {
+    "word": "আইএসবিএন",
+    "frequency": 4981,
+    "source": "wikipedia"
+  },
+  {
+    "word": "যা",
+    "frequency": 4980,
+    "source": "wikipedia"
+  },
+  {
+    "word": "মন্দিরটি",
+    "frequency": 4979,
+    "source": "wikipedia"
+  },
+  {
+    "word": "যে",
+    "frequency": 4978,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সাথে",
+    "frequency": 4977,
+    "source": "wikipedia"
+  },
+  {
+    "word": "যার",
+    "frequency": 4976,
+    "source": "wikipedia"
+  },
+  {
+    "word": "রয়েছে",
+    "frequency": 4975,
+    "source": "wikipedia"
+  },
+  {
+    "word": "মধ্যে",
+    "frequency": 4974,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সালে",
+    "frequency": 4973,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ওয়াট",
+    "frequency": 4972,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পর",
+    "frequency": 4971,
+    "source": "wikipedia"
+  },
+  {
+    "word": "অন্যান্য",
+    "frequency": 4970,
+    "source": "wikipedia"
+  },
+  {
+    "word": "হল",
+    "frequency": 4969,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ম্যানেজার",
+    "frequency": 4968,
+    "source": "wikipedia"
+  },
+  {
+    "word": "হতে",
+    "frequency": 4967,
+    "source": "wikipedia"
+  },
+  {
+    "word": "তথ্যসূত্র",
+    "frequency": 4966,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পরে",
+    "frequency": 4965,
+    "source": "wikipedia"
+  },
+  {
+    "word": "দ্বিতীয়",
+    "frequency": 4964,
+    "source": "wikipedia"
+  },
+  {
+    "word": "দিকে",
+    "frequency": 4963,
+    "source": "wikipedia"
+  },
+  {
+    "word": "তবে",
+    "frequency": 4962,
+    "source": "wikipedia"
+  },
+  {
+    "word": "করেছেন",
+    "frequency": 4961,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ব্যক্তি",
+    "frequency": 4960,
+    "source": "wikipedia"
+  },
+  {
+    "word": "কোন",
+    "frequency": 4959,
+    "source": "wikipedia"
+  },
+  {
+    "word": "রাজা",
+    "frequency": 4958,
+    "source": "wikipedia"
+  },
+  {
+    "word": "তাদের",
+    "frequency": 4957,
+    "source": "wikipedia"
+  },
+  {
+    "word": "অর্থ",
+    "frequency": 4956,
+    "source": "wikipedia"
+  },
+  {
+    "word": "প্রাচীন",
+    "frequency": 4955,
+    "source": "wikipedia"
+  },
+  {
+    "word": "দলের",
+    "frequency": 4954,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ক্রাকোভিয়া",
+    "frequency": 4953,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পোলীয়",
+    "frequency": 4952,
+    "source": "wikipedia"
+  },
+  {
+    "word": "কিছু",
+    "frequency": 4951,
+    "source": "wikipedia"
+  },
+  {
+    "word": "দায়িত্ব",
+    "frequency": 4950,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ছিল",
+    "frequency": 4949,
+    "source": "wikipedia"
+  },
+  {
+    "word": "মাসে",
+    "frequency": 4948,
+    "source": "wikipedia"
+  },
+  {
+    "word": "হন",
+    "frequency": 4947,
+    "source": "wikipedia"
+  },
+  {
+    "word": "নির্মিত",
+    "frequency": 4946,
+    "source": "wikipedia"
+  },
+  {
+    "word": "হয়েছিল",
+    "frequency": 4945,
+    "source": "wikipedia"
+  },
+  {
+    "word": "যায়",
+    "frequency": 4944,
+    "source": "wikipedia"
+  },
+  {
+    "word": "নাই",
+    "frequency": 4943,
+    "source": "wikipedia"
+  },
+  {
+    "word": "মৌসুমে",
+    "frequency": 4942,
+    "source": "wikipedia"
+  },
+  {
+    "word": "কেএস",
+    "frequency": 4941,
+    "source": "wikipedia"
+  },
+  {
+    "word": "একজন",
+    "frequency": 4940,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বিভিন্ন",
+    "frequency": 4939,
+    "source": "wikipedia"
+  },
+  {
+    "word": "অবস্থিত",
+    "frequency": 4938,
+    "source": "wikipedia"
+  },
+  {
+    "word": "স্থান",
+    "frequency": 4937,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পরিচিত",
+    "frequency": 4936,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পূর্ব",
+    "frequency": 4935,
+    "source": "wikipedia"
+  },
+  {
+    "word": "জেমস",
+    "frequency": 4934,
+    "source": "wikipedia"
+  },
+  {
+    "word": "গ্রেগরি",
+    "frequency": 4933,
+    "source": "wikipedia"
+  },
+  {
+    "word": "কাছে",
+    "frequency": 4932,
+    "source": "wikipedia"
+  },
+  {
+    "word": "প্রধান",
+    "frequency": 4931,
+    "source": "wikipedia"
+  },
+  {
+    "word": "রাজধানী",
+    "frequency": 4930,
+    "source": "wikipedia"
+  },
+  {
+    "word": "কম্বোডিয়ার",
+    "frequency": 4929,
+    "source": "wikipedia"
+  },
+  {
+    "word": "হয়ে",
+    "frequency": 4928,
+    "source": "wikipedia"
+  },
+  {
+    "word": "করেছে",
+    "frequency": 4927,
+    "source": "wikipedia"
+  },
+  {
+    "word": "আংকরের",
+    "frequency": 4926,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বর্তমানে",
+    "frequency": 4925,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ফলে",
+    "frequency": 4924,
+    "source": "wikipedia"
+  },
+  {
+    "word": "শুরু",
+    "frequency": 4923,
+    "source": "wikipedia"
+  },
+  {
+    "word": "খ্",
+    "frequency": 4922,
+    "source": "wikipedia"
+  },
+  {
+    "word": "প্রথম",
+    "frequency": 4921,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পশ্চিম",
+    "frequency": 4920,
+    "source": "wikipedia"
+  },
+  {
+    "word": "মতে",
+    "frequency": 4919,
+    "source": "wikipedia"
+  },
+  {
+    "word": "দিকের",
+    "frequency": 4918,
+    "source": "wikipedia"
+  },
+  {
+    "word": "লীগ",
+    "frequency": 4917,
+    "source": "wikipedia"
+  },
+  {
+    "word": "প্রতিশ্রুতি",
+    "frequency": 4916,
+    "source": "wikipedia"
+  },
+  {
+    "word": "আছে",
+    "frequency": 4915,
+    "source": "wikipedia"
+  },
+  {
+    "word": "কোনও",
+    "frequency": 4914,
+    "source": "wikipedia"
+  },
+  {
+    "word": "প্রতিষ্ঠিত",
+    "frequency": 4913,
+    "source": "wikipedia"
+  },
+  {
+    "word": "করতে",
+    "frequency": 4912,
+    "source": "wikipedia"
+  },
+  {
+    "word": "আরও",
+    "frequency": 4911,
+    "source": "wikipedia"
+  },
+  {
+    "word": "কারণে",
+    "frequency": 4910,
+    "source": "wikipedia"
+  },
+  {
+    "word": "দেখুন",
+    "frequency": 4909,
+    "source": "wikipedia"
+  },
+  {
+    "word": "৯৭৮",
+    "frequency": 4908,
+    "source": "wikipedia"
+  },
+  {
+    "word": "২০১১",
+    "frequency": 4907,
+    "source": "wikipedia"
+  },
+  {
+    "word": "নামে",
+    "frequency": 4906,
+    "source": "wikipedia"
+  },
+  {
+    "word": "হলো",
+    "frequency": 4905,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বছর",
+    "frequency": 4904,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ধর্মীয়",
+    "frequency": 4903,
+    "source": "wikipedia"
+  },
+  {
+    "word": "স্থাপনা",
+    "frequency": 4902,
+    "source": "wikipedia"
+  },
+  {
+    "word": "অংকোর",
+    "frequency": 4901,
+    "source": "wikipedia"
+  },
+  {
+    "word": "খেমার",
+    "frequency": 4900,
+    "source": "wikipedia"
+  },
+  {
+    "word": "প্রতীক",
+    "frequency": 4899,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ধারণা",
+    "frequency": 4898,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ওয়াটের",
+    "frequency": 4897,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পর্বতের",
+    "frequency": 4896,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পরিখা",
+    "frequency": 4895,
+    "source": "wikipedia"
+  },
+  {
+    "word": "দ্বারা",
+    "frequency": 4894,
+    "source": "wikipedia"
+  },
+  {
+    "word": "কেন্দ্রীয়",
+    "frequency": 4893,
+    "source": "wikipedia"
+  },
+  {
+    "word": "স্থাপত্য",
+    "frequency": 4892,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বেশি",
+    "frequency": 4891,
+    "source": "wikipedia"
+  },
+  {
+    "word": "নগর",
+    "frequency": 4890,
+    "source": "wikipedia"
+  },
+  {
+    "word": "আঙ্কোর",
+    "frequency": 4889,
+    "source": "wikipedia"
+  },
+  {
+    "word": "আঙ্করভাটের",
+    "frequency": 4888,
+    "source": "wikipedia"
+  },
+  {
+    "word": "স্থানে",
+    "frequency": 4887,
+    "source": "wikipedia"
+  },
+  {
+    "word": "মের",
+    "frequency": 4886,
+    "source": "wikipedia"
+  },
+  {
+    "word": "করার",
+    "frequency": 4885,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ওয়তের",
+    "frequency": 4884,
+    "source": "wikipedia"
+  },
+  {
+    "word": "মিটার",
+    "frequency": 4883,
+    "source": "wikipedia"
+  },
+  {
+    "word": "২০১৪",
+    "frequency": 4882,
+    "source": "wikipedia"
+  },
+  {
+    "word": "২০১৫",
+    "frequency": 4881,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ফার্স্ট",
+    "frequency": 4880,
+    "source": "wikipedia"
+  },
+  {
+    "word": "নিয়ে",
+    "frequency": 4879,
+    "source": "wikipedia"
+  },
+  {
+    "word": "মার্কিন",
+    "frequency": 4878,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ব্রা",
+    "frequency": 4877,
+    "source": "wikipedia"
+  },
+  {
+    "word": "যেমন",
+    "frequency": 4876,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সামাজিক",
+    "frequency": 4875,
+    "source": "wikipedia"
+  },
+  {
+    "word": "মে",
+    "frequency": 4874,
+    "source": "wikipedia"
+  },
+  {
+    "word": "২০০৬",
+    "frequency": 4873,
+    "source": "wikipedia"
+  },
+  {
+    "word": "মার্চ",
+    "frequency": 4872,
+    "source": "wikipedia"
+  },
+  {
+    "word": "তারিখে",
+    "frequency": 4871,
+    "source": "wikipedia"
+  },
+  {
+    "word": "চেলায়ুর",
+    "frequency": 4870,
+    "source": "wikipedia"
+  },
+  {
+    "word": "শহরের",
+    "frequency": 4869,
+    "source": "wikipedia"
+  },
+  {
+    "word": "তাম্বরম",
+    "frequency": 4868,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বলে",
+    "frequency": 4867,
+    "source": "wikipedia"
+  },
+  {
+    "word": "অক্টোবর",
+    "frequency": 4866,
+    "source": "wikipedia"
+  },
+  {
+    "word": "এক",
+    "frequency": 4865,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বিশাল",
+    "frequency": 4864,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ধীরে",
+    "frequency": 4863,
+    "source": "wikipedia"
+  },
+  {
+    "word": "মন্দিরে",
+    "frequency": 4862,
+    "source": "wikipedia"
+  },
+  {
+    "word": "শতাব্দীতে",
+    "frequency": 4861,
+    "source": "wikipedia"
+  },
+  {
+    "word": "নির্মাণ",
+    "frequency": 4860,
+    "source": "wikipedia"
+  },
+  {
+    "word": "মূল",
+    "frequency": 4859,
+    "source": "wikipedia"
+  },
+  {
+    "word": "অনেক",
+    "frequency": 4858,
+    "source": "wikipedia"
+  },
+  {
+    "word": "রাজনৈতিক",
+    "frequency": 4857,
+    "source": "wikipedia"
+  },
+  {
+    "word": "আঙ্করভাট",
+    "frequency": 4856,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ব্যবহার",
+    "frequency": 4855,
+    "source": "wikipedia"
+  },
+  {
+    "word": "এলাকা",
+    "frequency": 4854,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সংস্কার",
+    "frequency": 4853,
+    "source": "wikipedia"
+  },
+  {
+    "word": "খুব",
+    "frequency": 4852,
+    "source": "wikipedia"
+  },
+  {
+    "word": "নকশা",
+    "frequency": 4851,
+    "source": "wikipedia"
+  },
+  {
+    "word": "অর্জন",
+    "frequency": 4850,
+    "source": "wikipedia"
+  },
+  {
+    "word": "টাওয়ার",
+    "frequency": 4849,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পালন",
+    "frequency": 4848,
+    "source": "wikipedia"
+  },
+  {
+    "word": "করছেন",
+    "frequency": 4847,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ভিক্টোরিয়া",
+    "frequency": 4846,
+    "source": "wikipedia"
+  },
+  {
+    "word": "শিরোপা",
+    "frequency": 4845,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ক্লাবটি",
+    "frequency": 4844,
+    "source": "wikipedia"
+  },
+  {
+    "word": "শীর্ষ",
+    "frequency": 4843,
+    "source": "wikipedia"
+  },
+  {
+    "word": "এফসি",
+    "frequency": 4842,
+    "source": "wikipedia"
+  },
+  {
+    "word": "লীগে",
+    "frequency": 4841,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বিক্রি",
+    "frequency": 4840,
+    "source": "wikipedia"
+  },
+  {
+    "word": "২০২৬",
+    "frequency": 4839,
+    "source": "wikipedia"
+  },
+  {
+    "word": "অব",
+    "frequency": 4838,
+    "source": "wikipedia"
+  },
+  {
+    "word": "নিজ",
+    "frequency": 4837,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পূজা",
+    "frequency": 4836,
+    "source": "wikipedia"
+  },
+  {
+    "word": "এমন",
+    "frequency": 4835,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সত্তাকে",
+    "frequency": 4834,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ধরে",
+    "frequency": 4833,
+    "source": "wikipedia"
+  },
+  {
+    "word": "গণ্য",
+    "frequency": 4832,
+    "source": "wikipedia"
+  },
+  {
+    "word": "তা",
+    "frequency": 4831,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বিষয়ে",
+    "frequency": 4830,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বহিঃসংযোগ",
+    "frequency": 4829,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ওয়েব্যাক",
+    "frequency": 4828,
+    "source": "wikipedia"
+  },
+  {
+    "word": "মেশিনে",
+    "frequency": 4827,
+    "source": "wikipedia"
+  },
+  {
+    "word": "আর্কাইভকৃত",
+    "frequency": 4826,
+    "source": "wikipedia"
+  },
+  {
+    "word": "দক্ষিণ",
+    "frequency": 4825,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পূর্বে",
+    "frequency": 4824,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ভারতীয়",
+    "frequency": 4823,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সবচেয়ে",
+    "frequency": 4822,
+    "source": "wikipedia"
+  },
+  {
+    "word": "এখানকার",
+    "frequency": 4821,
+    "source": "wikipedia"
+  },
+  {
+    "word": "উত্তর",
+    "frequency": 4820,
+    "source": "wikipedia"
+  },
+  {
+    "word": "এছাড়াও",
+    "frequency": 4819,
+    "source": "wikipedia"
+  },
+  {
+    "word": "গুরুত্বপূর্ণ",
+    "frequency": 4818,
+    "source": "wikipedia"
+  },
+  {
+    "word": "অনুসারে",
+    "frequency": 4817,
+    "source": "wikipedia"
+  },
+  {
+    "word": "প্রমাণ",
+    "frequency": 4816,
+    "source": "wikipedia"
+  },
+  {
+    "word": "জন",
+    "frequency": 4815,
+    "source": "wikipedia"
+  },
+  {
+    "word": "তাকে",
+    "frequency": 4814,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ডেভিড",
+    "frequency": 4813,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বিশ্বের",
+    "frequency": 4812,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সূর্যবর্মণ",
+    "frequency": 4811,
+    "source": "wikipedia"
+  },
+  {
+    "word": "১১৫০",
+    "frequency": 4810,
+    "source": "wikipedia"
+  },
+  {
+    "word": "মূলত",
+    "frequency": 4809,
+    "source": "wikipedia"
+  },
+  {
+    "word": "শতাব্দীর",
+    "frequency": 4808,
+    "source": "wikipedia"
+  },
+  {
+    "word": "কেন্দ্র",
+    "frequency": 4807,
+    "source": "wikipedia"
+  },
+  {
+    "word": "অন্যতম",
+    "frequency": 4806,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সাম্রাজ্যের",
+    "frequency": 4805,
+    "source": "wikipedia"
+  },
+  {
+    "word": "নির্মাণের",
+    "frequency": 4804,
+    "source": "wikipedia"
+  },
+  {
+    "word": "রাজকীয়",
+    "frequency": 4803,
+    "source": "wikipedia"
+  },
+  {
+    "word": "তাঁর",
+    "frequency": 4802,
+    "source": "wikipedia"
+  },
+  {
+    "word": "তিনটি",
+    "frequency": 4801,
+    "source": "wikipedia"
+  },
+  {
+    "word": "গ্যালারি",
+    "frequency": 4800,
+    "source": "wikipedia"
+  },
+  {
+    "word": "চার",
+    "frequency": 4799,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বিংশ",
+    "frequency": 4798,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পুনরুদ্ধার",
+    "frequency": 4797,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সংরক্ষণ",
+    "frequency": 4796,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সমন্বয়",
+    "frequency": 4795,
+    "source": "wikipedia"
+  },
+  {
+    "word": "১৯৯২",
+    "frequency": 4794,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বিশ্ব",
+    "frequency": 4793,
+    "source": "wikipedia"
+  },
+  {
+    "word": "আসেন",
+    "frequency": 4792,
+    "source": "wikipedia"
+  },
+  {
+    "word": "নামটির",
+    "frequency": 4791,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সংস্কৃত",
+    "frequency": 4790,
+    "source": "wikipedia"
+  },
+  {
+    "word": "উদ্ভূত",
+    "frequency": 4789,
+    "source": "wikipedia"
+  },
+  {
+    "word": "আর",
+    "frequency": 4788,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ভাষার",
+    "frequency": 4787,
+    "source": "wikipedia"
+  },
+  {
+    "word": "মন্দিরটির",
+    "frequency": 4786,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বিষ্ণুলোক",
+    "frequency": 4785,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বিষ্ণুর",
+    "frequency": 4784,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পর্যন্ত",
+    "frequency": 4783,
+    "source": "wikipedia"
+  },
+  {
+    "word": "২৮",
+    "frequency": 4782,
+    "source": "wikipedia"
+  },
+  {
+    "word": "দেয়ালের",
+    "frequency": 4781,
+    "source": "wikipedia"
+  },
+  {
+    "word": "নতুন",
+    "frequency": 4780,
+    "source": "wikipedia"
+  },
+  {
+    "word": "রক্ষা",
+    "frequency": 4779,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ওয়ত",
+    "frequency": 4778,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বর্ণনা",
+    "frequency": 4777,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ভবন",
+    "frequency": 4776,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সৌন্দর্যের",
+    "frequency": 4775,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ক্ষতি",
+    "frequency": 4774,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পরবর্তী",
+    "frequency": 4773,
+    "source": "wikipedia"
+  },
+  {
+    "word": "মেরু",
+    "frequency": 4772,
+    "source": "wikipedia"
+  },
+  {
+    "word": "দেবতাদের",
+    "frequency": 4771,
+    "source": "wikipedia"
+  },
+  {
+    "word": "দেয়াল",
+    "frequency": 4770,
+    "source": "wikipedia"
+  },
+  {
+    "word": "দেয়া",
+    "frequency": 4769,
+    "source": "wikipedia"
+  },
+  {
+    "word": "৫টি",
+    "frequency": 4768,
+    "source": "wikipedia"
+  },
+  {
+    "word": "প্রবেশ",
+    "frequency": 4767,
+    "source": "wikipedia"
+  },
+  {
+    "word": "হত",
+    "frequency": 4766,
+    "source": "wikipedia"
+  },
+  {
+    "word": "আরো",
+    "frequency": 4765,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বাইরের",
+    "frequency": 4764,
+    "source": "wikipedia"
+  },
+  {
+    "word": "৩০",
+    "frequency": 4763,
+    "source": "wikipedia"
+  },
+  {
+    "word": "যথাক্রমে",
+    "frequency": 4762,
+    "source": "wikipedia"
+  },
+  {
+    "word": "গেছে",
+    "frequency": 4761,
+    "source": "wikipedia"
+  },
+  {
+    "word": "স্তরের",
+    "frequency": 4760,
+    "source": "wikipedia"
+  },
+  {
+    "word": "২০০৫",
+    "frequency": 4759,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সেপ্টেম্বর",
+    "frequency": 4758,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ফিরে",
+    "frequency": 4757,
+    "source": "wikipedia"
+  },
+  {
+    "word": "২০০৯",
+    "frequency": 4756,
+    "source": "wikipedia"
+  },
+  {
+    "word": "জুনে",
+    "frequency": 4755,
+    "source": "wikipedia"
+  },
+  {
+    "word": "২০১০",
+    "frequency": 4754,
+    "source": "wikipedia"
+  },
+  {
+    "word": "দলটিকে",
+    "frequency": 4753,
+    "source": "wikipedia"
+  },
+  {
+    "word": "২০২৫",
+    "frequency": 4752,
+    "source": "wikipedia"
+  },
+  {
+    "word": "২০২৪",
+    "frequency": 4751,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বইটি",
+    "frequency": 4750,
+    "source": "wikipedia"
+  },
+  {
+    "word": "প্রেস",
+    "frequency": 4749,
+    "source": "wikipedia"
+  },
+  {
+    "word": "আলোচনা",
+    "frequency": 4748,
+    "source": "wikipedia"
+  },
+  {
+    "word": "দলগুলি",
+    "frequency": 4747,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পূরণ",
+    "frequency": 4746,
+    "source": "wikipedia"
+  },
+  {
+    "word": "প্ল্যাটফর্মের",
+    "frequency": 4745,
+    "source": "wikipedia"
+  },
+  {
+    "word": "দেবী",
+    "frequency": 4744,
+    "source": "wikipedia"
+  },
+  {
+    "word": "কোনো",
+    "frequency": 4743,
+    "source": "wikipedia"
+  },
+  {
+    "word": "হচ্ছে",
+    "frequency": 4742,
+    "source": "wikipedia"
+  },
+  {
+    "word": "একস্ত্রাকলাসা",
+    "frequency": 4741,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বিশেষ",
+    "frequency": 4740,
+    "source": "wikipedia"
+  },
+  {
+    "word": "চেতনা",
+    "frequency": 4739,
+    "source": "wikipedia"
+  },
+  {
+    "word": "কিংবা",
+    "frequency": 4738,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সম্পত্তির",
+    "frequency": 4737,
+    "source": "wikipedia"
+  },
+  {
+    "word": "আইনি",
+    "frequency": 4736,
+    "source": "wikipedia"
+  },
+  {
+    "word": "অংশ",
+    "frequency": 4735,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ব্যক্তিসত্তার",
+    "frequency": 4734,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সূত্র",
+    "frequency": 4733,
+    "source": "wikipedia"
+  },
+  {
+    "word": "হবে",
+    "frequency": 4732,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পারে",
+    "frequency": 4731,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ব্যক্তিগত",
+    "frequency": 4730,
+    "source": "wikipedia"
+  },
+  {
+    "word": "নির্দিষ্ট",
+    "frequency": 4729,
+    "source": "wikipedia"
+  },
+  {
+    "word": "স্বতন্ত্র",
+    "frequency": 4728,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বর্তমান",
+    "frequency": 4727,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সময়ের",
+    "frequency": 4726,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পরিবর্তন",
+    "frequency": 4725,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ব্যবহৃত",
+    "frequency": 4724,
+    "source": "wikipedia"
+  },
+  {
+    "word": "১৩",
+    "frequency": 4723,
+    "source": "wikipedia"
+  },
+  {
+    "word": "২৯",
+    "frequency": 4722,
+    "source": "wikipedia"
+  },
+  {
+    "word": "১৮",
+    "frequency": 4721,
+    "source": "wikipedia"
+  },
+  {
+    "word": "জুন",
+    "frequency": 4720,
+    "source": "wikipedia"
+  },
+  {
+    "word": "২০১৩",
+    "frequency": 4719,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ভারতের",
+    "frequency": 4718,
+    "source": "wikipedia"
+  },
+  {
+    "word": "চেন্নাই",
+    "frequency": 4717,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ওপর",
+    "frequency": 4716,
+    "source": "wikipedia"
+  },
+  {
+    "word": "অবস্থিত৷",
+    "frequency": 4715,
+    "source": "wikipedia"
+  },
+  {
+    "word": "যায়৷",
+    "frequency": 4714,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পার্শ্ববর্তী",
+    "frequency": 4713,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বিমানবাহিনীর",
+    "frequency": 4712,
+    "source": "wikipedia"
+  },
+  {
+    "word": "অঞ্চলের",
+    "frequency": 4711,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বছরে",
+    "frequency": 4710,
+    "source": "wikipedia"
+  },
+  {
+    "word": "রেলওয়ে",
+    "frequency": 4709,
+    "source": "wikipedia"
+  },
+  {
+    "word": "কিলোমিটারের",
+    "frequency": 4708,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বাস",
+    "frequency": 4707,
+    "source": "wikipedia"
+  },
+  {
+    "word": "মাধ্যমে",
+    "frequency": 4706,
+    "source": "wikipedia"
+  },
+  {
+    "word": "জলাশয়",
+    "frequency": 4705,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পেরুমাল",
+    "frequency": 4704,
+    "source": "wikipedia"
+  },
+  {
+    "word": "যথেষ্ট",
+    "frequency": 4703,
+    "source": "wikipedia"
+  },
+  {
+    "word": "চোল",
+    "frequency": 4702,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সময়কালীন",
+    "frequency": 4701,
+    "source": "wikipedia"
+  },
+  {
+    "word": "প্রায়",
+    "frequency": 4700,
+    "source": "wikipedia"
+  },
+  {
+    "word": "নভেম্বর",
+    "frequency": 4699,
+    "source": "wikipedia"
+  },
+  {
+    "word": "১৬৩৮",
+    "frequency": 4698,
+    "source": "wikipedia"
+  },
+  {
+    "word": "১৬৭৫",
+    "frequency": 4697,
+    "source": "wikipedia"
+  },
+  {
+    "word": "গণিতবিদ",
+    "frequency": 4696,
+    "source": "wikipedia"
+  },
+  {
+    "word": "১৬৬৮",
+    "frequency": 4695,
+    "source": "wikipedia"
+  },
+  {
+    "word": "প্রকাশ",
+    "frequency": 4694,
+    "source": "wikipedia"
+  },
+  {
+    "word": "প্রাথমিক",
+    "frequency": 4693,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পিতা",
+    "frequency": 4692,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ছিলেন",
+    "frequency": 4691,
+    "source": "wikipedia"
+  },
+  {
+    "word": "মাতা",
+    "frequency": 4690,
+    "source": "wikipedia"
+  },
+  {
+    "word": "চাচা",
+    "frequency": 4689,
+    "source": "wikipedia"
+  },
+  {
+    "word": "নেন",
+    "frequency": 4688,
+    "source": "wikipedia"
+  },
+  {
+    "word": "জর্জ",
+    "frequency": 4687,
+    "source": "wikipedia"
+  },
+  {
+    "word": "গ্রেগরির",
+    "frequency": 4686,
+    "source": "wikipedia"
+  },
+  {
+    "word": "হওয়ার",
+    "frequency": 4685,
+    "source": "wikipedia"
+  },
+  {
+    "word": "নগরী",
+    "frequency": 4684,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সিয়েম",
+    "frequency": 4683,
+    "source": "wikipedia"
+  },
+  {
+    "word": "অন্তর্গত",
+    "frequency": 4682,
+    "source": "wikipedia"
+  },
+  {
+    "word": "শাসনামলে",
+    "frequency": 4681,
+    "source": "wikipedia"
+  },
+  {
+    "word": "১১১৩",
+    "frequency": 4680,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ভগবান",
+    "frequency": 4679,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বিষ্ণুকে",
+    "frequency": 4678,
+    "source": "wikipedia"
+  },
+  {
+    "word": "উৎসর্গ",
+    "frequency": 4677,
+    "source": "wikipedia"
+  },
+  {
+    "word": "স্থাপনাটি",
+    "frequency": 4676,
+    "source": "wikipedia"
+  },
+  {
+    "word": "রূপান্তরিত",
+    "frequency": 4675,
+    "source": "wikipedia"
+  },
+  {
+    "word": "শতাব্দী",
+    "frequency": 4674,
+    "source": "wikipedia"
+  },
+  {
+    "word": "আসছে",
+    "frequency": 4673,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বিস্তৃত",
+    "frequency": 4672,
+    "source": "wikipedia"
+  },
+  {
+    "word": "প্রাচীর",
+    "frequency": 4671,
+    "source": "wikipedia"
+  },
+  {
+    "word": "স্থাপত্যশৈলীর",
+    "frequency": 4670,
+    "source": "wikipedia"
+  },
+  {
+    "word": "অনন্য",
+    "frequency": 4669,
+    "source": "wikipedia"
+  },
+  {
+    "word": "নকশার",
+    "frequency": 4668,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বিশেষভাবে",
+    "frequency": 4667,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পতাকায়",
+    "frequency": 4666,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পেয়েছে",
+    "frequency": 4665,
+    "source": "wikipedia"
+  },
+  {
+    "word": "রূপ",
+    "frequency": 4664,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সাধারণত",
+    "frequency": 4663,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ক্রমশ",
+    "frequency": 4662,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পাঁচটি",
+    "frequency": 4661,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বৈশিষ্ট্য",
+    "frequency": 4660,
+    "source": "wikipedia"
+  },
+  {
+    "word": "অবহেলিত",
+    "frequency": 4659,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পরিত্যক্ত",
+    "frequency": 4658,
+    "source": "wikipedia"
+  },
+  {
+    "word": "কার্যক্রমের",
+    "frequency": 4657,
+    "source": "wikipedia"
+  },
+  {
+    "word": "আসে",
+    "frequency": 4656,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সংস্থা",
+    "frequency": 4655,
+    "source": "wikipedia"
+  },
+  {
+    "word": "অংশগ্রহণ",
+    "frequency": 4654,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ঐতিহাসিক",
+    "frequency": 4653,
+    "source": "wikipedia"
+  },
+  {
+    "word": "জার্মানি",
+    "frequency": 4652,
+    "source": "wikipedia"
+  },
+  {
+    "word": "যুক্তরাষ্ট্র",
+    "frequency": 4651,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ভাস্কর্য",
+    "frequency": 4650,
+    "source": "wikipedia"
+  },
+  {
+    "word": "দেবতা",
+    "frequency": 4649,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ইউনেস্কো",
+    "frequency": 4648,
+    "source": "wikipedia"
+  },
+  {
+    "word": "দেওয়া",
+    "frequency": 4647,
+    "source": "wikipedia"
+  },
+  {
+    "word": "প্রতি",
+    "frequency": 4646,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ভাষায়",
+    "frequency": 4645,
+    "source": "wikipedia"
+  },
+  {
+    "word": "শব্দের",
+    "frequency": 4644,
+    "source": "wikipedia"
+  },
+  {
+    "word": "আবাস",
+    "frequency": 4643,
+    "source": "wikipedia"
+  },
+  {
+    "word": "করেছিলেন",
+    "frequency": 4642,
+    "source": "wikipedia"
+  },
+  {
+    "word": "হিসাবে",
+    "frequency": 4641,
+    "source": "wikipedia"
+  },
+  {
+    "word": "স্থাপনার",
+    "frequency": 4640,
+    "source": "wikipedia"
+  },
+  {
+    "word": "লেখা",
+    "frequency": 4639,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সমসাময়িক",
+    "frequency": 4638,
+    "source": "wikipedia"
+  },
+  {
+    "word": "আদি",
+    "frequency": 4637,
+    "source": "wikipedia"
+  },
+  {
+    "word": "কিমি",
+    "frequency": 4636,
+    "source": "wikipedia"
+  },
+  {
+    "word": "উত্তরে",
+    "frequency": 4635,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সূর্যবর্মণের",
+    "frequency": 4634,
+    "source": "wikipedia"
+  },
+  {
+    "word": "কার্য",
+    "frequency": 4633,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বায়ুন",
+    "frequency": 4632,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ঘটে",
+    "frequency": 4631,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পরিণত",
+    "frequency": 4630,
+    "source": "wikipedia"
+  },
+  {
+    "word": "আরেকটি",
+    "frequency": 4629,
+    "source": "wikipedia"
+  },
+  {
+    "word": "১৬শ",
+    "frequency": 4628,
+    "source": "wikipedia"
+  },
+  {
+    "word": "মতো",
+    "frequency": 4627,
+    "source": "wikipedia"
+  },
+  {
+    "word": "গ্রাস",
+    "frequency": 4626,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পায়",
+    "frequency": 4625,
+    "source": "wikipedia"
+  },
+  {
+    "word": "এসময়",
+    "frequency": 4624,
+    "source": "wikipedia"
+  },
+  {
+    "word": "আধুনিক",
+    "frequency": 4623,
+    "source": "wikipedia"
+  },
+  {
+    "word": "আসলে",
+    "frequency": 4622,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পশ্চিমা",
+    "frequency": 4621,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পরিব্রাজকদের",
+    "frequency": 4620,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সারা",
+    "frequency": 4619,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বিশ্বে",
+    "frequency": 4618,
+    "source": "wikipedia"
+  },
+  {
+    "word": "এরকম",
+    "frequency": 4617,
+    "source": "wikipedia"
+  },
+  {
+    "word": "কারুকার্য",
+    "frequency": 4616,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সৃষ্টি",
+    "frequency": 4615,
+    "source": "wikipedia"
+  },
+  {
+    "word": "কথা",
+    "frequency": 4614,
+    "source": "wikipedia"
+  },
+  {
+    "word": "মন্দিরগুলির",
+    "frequency": 4613,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সুন্দর",
+    "frequency": 4612,
+    "source": "wikipedia"
+  },
+  {
+    "word": "গ্রিস",
+    "frequency": 4611,
+    "source": "wikipedia"
+  },
+  {
+    "word": "রোমের",
+    "frequency": 4610,
+    "source": "wikipedia"
+  },
+  {
+    "word": "কম্বোডিয়া",
+    "frequency": 4609,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বিশ্বাস",
+    "frequency": 4608,
+    "source": "wikipedia"
+  },
+  {
+    "word": "নেয়া",
+    "frequency": 4607,
+    "source": "wikipedia"
+  },
+  {
+    "word": "১৯৭০",
+    "frequency": 4606,
+    "source": "wikipedia"
+  },
+  {
+    "word": "যাওয়া",
+    "frequency": 4605,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ছাড়া",
+    "frequency": 4604,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পরিকল্পনা",
+    "frequency": 4603,
+    "source": "wikipedia"
+  },
+  {
+    "word": "গ্যালারির",
+    "frequency": 4602,
+    "source": "wikipedia"
+  },
+  {
+    "word": "দেয়",
+    "frequency": 4601,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সহ",
+    "frequency": 4600,
+    "source": "wikipedia"
+  },
+  {
+    "word": "প্রতিনিধিত্ব",
+    "frequency": 4599,
+    "source": "wikipedia"
+  },
+  {
+    "word": "মহাসাগরের",
+    "frequency": 4598,
+    "source": "wikipedia"
+  },
+  {
+    "word": "শৈলী",
+    "frequency": 4597,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ওয়তে",
+    "frequency": 4596,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পরবর্তীতে",
+    "frequency": 4595,
+    "source": "wikipedia"
+  },
+  {
+    "word": "রীতির",
+    "frequency": 4594,
+    "source": "wikipedia"
+  },
+  {
+    "word": "যখন",
+    "frequency": 4593,
+    "source": "wikipedia"
+  },
+  {
+    "word": "গুলি",
+    "frequency": 4592,
+    "source": "wikipedia"
+  },
+  {
+    "word": "মরিস",
+    "frequency": 4591,
+    "source": "wikipedia"
+  },
+  {
+    "word": "অবস্থান",
+    "frequency": 4590,
+    "source": "wikipedia"
+  },
+  {
+    "word": "কম্বোডীয়",
+    "frequency": 4589,
+    "source": "wikipedia"
+  },
+  {
+    "word": "করছে",
+    "frequency": 4588,
+    "source": "wikipedia"
+  },
+  {
+    "word": "উচ্চতর",
+    "frequency": 4587,
+    "source": "wikipedia"
+  },
+  {
+    "word": "যেখানে",
+    "frequency": 4586,
+    "source": "wikipedia"
+  },
+  {
+    "word": "মুখ",
+    "frequency": 4585,
+    "source": "wikipedia"
+  },
+  {
+    "word": "কারণ",
+    "frequency": 4584,
+    "source": "wikipedia"
+  },
+  {
+    "word": "উল্টা",
+    "frequency": 4583,
+    "source": "wikipedia"
+  },
+  {
+    "word": "টাওয়ারে",
+    "frequency": 4582,
+    "source": "wikipedia"
+  },
+  {
+    "word": "অনুযায়ী",
+    "frequency": 4581,
+    "source": "wikipedia"
+  },
+  {
+    "word": "উদ্দেশ্যে",
+    "frequency": 4580,
+    "source": "wikipedia"
+  },
+  {
+    "word": "নিবেদিত",
+    "frequency": 4579,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সম্পর্কে",
+    "frequency": 4578,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পুল",
+    "frequency": 4577,
+    "source": "wikipedia"
+  },
+  {
+    "word": "কেন্দ্রের",
+    "frequency": 4576,
+    "source": "wikipedia"
+  },
+  {
+    "word": "এতে",
+    "frequency": 4575,
+    "source": "wikipedia"
+  },
+  {
+    "word": "কার্যক্রম",
+    "frequency": 4574,
+    "source": "wikipedia"
+  },
+  {
+    "word": "আবার",
+    "frequency": 4573,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সংস্কারের",
+    "frequency": 4572,
+    "source": "wikipedia"
+  },
+  {
+    "word": "অপ্সরা",
+    "frequency": 4571,
+    "source": "wikipedia"
+  },
+  {
+    "word": "মেরামত",
+    "frequency": 4570,
+    "source": "wikipedia"
+  },
+  {
+    "word": "১০",
+    "frequency": 4569,
+    "source": "wikipedia"
+  },
+  {
+    "word": "৬১৬",
+    "frequency": 4568,
+    "source": "wikipedia"
+  },
+  {
+    "word": "মিরোস্লাভ",
+    "frequency": 4567,
+    "source": "wikipedia"
+  },
+  {
+    "word": "কোউবেক",
+    "frequency": 4566,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পেশাদার",
+    "frequency": 4565,
+    "source": "wikipedia"
+  },
+  {
+    "word": "খেলোয়াড়",
+    "frequency": 4564,
+    "source": "wikipedia"
+  },
+  {
+    "word": "প্রজাতন্ত্র",
+    "frequency": 4563,
+    "source": "wikipedia"
+  },
+  {
+    "word": "প্লজেন",
+    "frequency": 4562,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সঙ্গে",
+    "frequency": 4561,
+    "source": "wikipedia"
+  },
+  {
+    "word": "জয়",
+    "frequency": 4560,
+    "source": "wikipedia"
+  },
+  {
+    "word": "কোচিং",
+    "frequency": 4559,
+    "source": "wikipedia"
+  },
+  {
+    "word": "প্রজাতন্ত্রের",
+    "frequency": 4558,
+    "source": "wikipedia"
+  },
+  {
+    "word": "এসকে",
+    "frequency": 4557,
+    "source": "wikipedia"
+  },
+  {
+    "word": "লিগ",
+    "frequency": 4556,
+    "source": "wikipedia"
+  },
+  {
+    "word": "জেতান",
+    "frequency": 4555,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ফুটবলে",
+    "frequency": 4554,
+    "source": "wikipedia"
+  },
+  {
+    "word": "যান",
+    "frequency": 4553,
+    "source": "wikipedia"
+  },
+  {
+    "word": "লিগের",
+    "frequency": 4552,
+    "source": "wikipedia"
+  },
+  {
+    "word": "কিন্তু",
+    "frequency": 4551,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বরখাস্ত",
+    "frequency": 4550,
+    "source": "wikipedia"
+  },
+  {
+    "word": "২০১২",
+    "frequency": 4549,
+    "source": "wikipedia"
+  },
+  {
+    "word": "উয়েফা",
+    "frequency": 4548,
+    "source": "wikipedia"
+  },
+  {
+    "word": "যোগ্যতা",
+    "frequency": 4547,
+    "source": "wikipedia"
+  },
+  {
+    "word": "করান",
+    "frequency": 4546,
+    "source": "wikipedia"
+  },
+  {
+    "word": "নিযুক্ত",
+    "frequency": 4545,
+    "source": "wikipedia"
+  },
+  {
+    "word": "আগস্টে",
+    "frequency": 4544,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সুপারকাপ",
+    "frequency": 4543,
+    "source": "wikipedia"
+  },
+  {
+    "word": "চুক্তি",
+    "frequency": 4542,
+    "source": "wikipedia"
+  },
+  {
+    "word": "১৯",
+    "frequency": 4541,
+    "source": "wikipedia"
+  },
+  {
+    "word": "আয়ারল্যান্ড",
+    "frequency": 4540,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ব্যবস্থাপকীয়",
+    "frequency": 4539,
+    "source": "wikipedia"
+  },
+  {
+    "word": "১৫",
+    "frequency": 4538,
+    "source": "wikipedia"
+  },
+  {
+    "word": "স্টিল",
+    "frequency": 4537,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ডায়েরি",
+    "frequency": 4536,
+    "source": "wikipedia"
+  },
+  {
+    "word": "আমেরিকান",
+    "frequency": 4535,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ওক্সানা",
+    "frequency": 4534,
+    "source": "wikipedia"
+  },
+  {
+    "word": "যুক্তরাষ্ট্রে",
+    "frequency": 4533,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ইউনিভার্সিটি",
+    "frequency": 4532,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পিটসবার্গ",
+    "frequency": 4531,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পর্যালোচনা",
+    "frequency": 4530,
+    "source": "wikipedia"
+  },
+  {
+    "word": "যুদ্ধের",
+    "frequency": 4529,
+    "source": "wikipedia"
+  },
+  {
+    "word": "মাক্সিমচুক",
+    "frequency": 4528,
+    "source": "wikipedia"
+  },
+  {
+    "word": "উপর",
+    "frequency": 4527,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পুরস্কার",
+    "frequency": 4526,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পেতে",
+    "frequency": 4525,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ব্র্যালেট",
+    "frequency": 4524,
+    "source": "wikipedia"
+  },
+  {
+    "word": "কখনও",
+    "frequency": 4523,
+    "source": "wikipedia"
+  },
+  {
+    "word": "হিসাবেও",
+    "frequency": 4522,
+    "source": "wikipedia"
+  },
+  {
+    "word": "জনপ্রিয়তা",
+    "frequency": 4521,
+    "source": "wikipedia"
+  },
+  {
+    "word": "কমে",
+    "frequency": 4520,
+    "source": "wikipedia"
+  },
+  {
+    "word": "২০১৭",
+    "frequency": 4519,
+    "source": "wikipedia"
+  },
+  {
+    "word": "কেউ",
+    "frequency": 4518,
+    "source": "wikipedia"
+  },
+  {
+    "word": "চেয়ে",
+    "frequency": 4517,
+    "source": "wikipedia"
+  },
+  {
+    "word": "নির্বাচনী",
+    "frequency": 4516,
+    "source": "wikipedia"
+  },
+  {
+    "word": "থাকে",
+    "frequency": 4515,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ডেমোক্র্যাটিক",
+    "frequency": 4514,
+    "source": "wikipedia"
+  },
+  {
+    "word": "রিপাবলিকান",
+    "frequency": 4513,
+    "source": "wikipedia"
+  },
+  {
+    "word": "কংগ্রেসের",
+    "frequency": 4512,
+    "source": "wikipedia"
+  },
+  {
+    "word": "লোকেরা",
+    "frequency": 4511,
+    "source": "wikipedia"
+  },
+  {
+    "word": "৭৪",
+    "frequency": 4510,
+    "source": "wikipedia"
+  },
+  {
+    "word": "৮৯",
+    "frequency": 4509,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ভোট",
+    "frequency": 4508,
+    "source": "wikipedia"
+  },
+  {
+    "word": "দিয়েছে",
+    "frequency": 4507,
+    "source": "wikipedia"
+  },
+  {
+    "word": "গবেষণায়",
+    "frequency": 4506,
+    "source": "wikipedia"
+  },
+  {
+    "word": "দেবীর",
+    "frequency": 4505,
+    "source": "wikipedia"
+  },
+  {
+    "word": "নেই",
+    "frequency": 4504,
+    "source": "wikipedia"
+  },
+  {
+    "word": "মহামারী",
+    "frequency": 4503,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সাত",
+    "frequency": 4502,
+    "source": "wikipedia"
+  },
+  {
+    "word": "চলে",
+    "frequency": 4501,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সিলমোহরে",
+    "frequency": 4500,
+    "source": "wikipedia"
+  },
+  {
+    "word": "খেলে",
+    "frequency": 4499,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ক্লাবের",
+    "frequency": 4498,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ইয়ানুশ",
+    "frequency": 4497,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ওয়েবসাইট",
+    "frequency": 4496,
+    "source": "wikipedia"
+  },
+  {
+    "word": "টেমপ্লেট",
+    "frequency": 4495,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বলতে",
+    "frequency": 4494,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বোঝায়",
+    "frequency": 4493,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ক্ষমতা",
+    "frequency": 4492,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বৈশিষ্য",
+    "frequency": 4491,
+    "source": "wikipedia"
+  },
+  {
+    "word": "যুক্তিবোধ",
+    "frequency": 4490,
+    "source": "wikipedia"
+  },
+  {
+    "word": "নৈতিকতাবোধ",
+    "frequency": 4489,
+    "source": "wikipedia"
+  },
+  {
+    "word": "আত্ম",
+    "frequency": 4488,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সম্পর্কসমূহের",
+    "frequency": 4487,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সাংস্কৃতিকভাবে",
+    "frequency": 4486,
+    "source": "wikipedia"
+  },
+  {
+    "word": "রূপের",
+    "frequency": 4485,
+    "source": "wikipedia"
+  },
+  {
+    "word": "আত্মীয়তার",
+    "frequency": 4484,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সম্পর্ক",
+    "frequency": 4483,
+    "source": "wikipedia"
+  },
+  {
+    "word": "মালিকানা",
+    "frequency": 4482,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সংজ্ঞানিরূপক",
+    "frequency": 4481,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বৈশিষ্যগুলি",
+    "frequency": 4480,
+    "source": "wikipedia"
+  },
+  {
+    "word": "যুক্তিতে",
+    "frequency": 4479,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পরিপ্রেক্ষিতভেদে",
+    "frequency": 4478,
+    "source": "wikipedia"
+  },
+  {
+    "word": "জিনিস",
+    "frequency": 4477,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সাহায্য",
+    "frequency": 4476,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সেই",
+    "frequency": 4475,
+    "source": "wikipedia"
+  },
+  {
+    "word": "প্রশ্নের",
+    "frequency": 4474,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পাশাপাশি",
+    "frequency": 4473,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পরিচয়",
+    "frequency": 4472,
+    "source": "wikipedia"
+  },
+  {
+    "word": "আত্মসত্তা",
+    "frequency": 4471,
+    "source": "wikipedia"
+  },
+  {
+    "word": "প্রশ্ন",
+    "frequency": 4470,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বিদ্যমান",
+    "frequency": 4469,
+    "source": "wikipedia"
+  },
+  {
+    "word": "অপর",
+    "frequency": 4468,
+    "source": "wikipedia"
+  },
+  {
+    "word": "অতীত",
+    "frequency": 4467,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ভবিষ্যতে",
+    "frequency": 4466,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ঘটা",
+    "frequency": 4465,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সত্ত্বেও",
+    "frequency": 4464,
+    "source": "wikipedia"
+  },
+  {
+    "word": "একই",
+    "frequency": 4463,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সংক্রান্ত",
+    "frequency": 4462,
+    "source": "wikipedia"
+  },
+  {
+    "word": "প্রশ্নাবলী",
+    "frequency": 4461,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ব্যক্তির",
+    "frequency": 4460,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বহুবচন",
+    "frequency": 4459,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ব্যক্তিবর্গ",
+    "frequency": 4458,
+    "source": "wikipedia"
+  },
+  {
+    "word": "প্রায়শই",
+    "frequency": 4457,
+    "source": "wikipedia"
+  },
+  {
+    "word": "দার্শনিক",
+    "frequency": 4456,
+    "source": "wikipedia"
+  },
+  {
+    "word": "রচনায়",
+    "frequency": 4455,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পড়ুন",
+    "frequency": 4454,
+    "source": "wikipedia"
+  },
+  {
+    "word": "০৩১২১৬১৭৬",
+    "frequency": 4453,
+    "source": "wikipedia"
+  },
+  {
+    "word": "০৩১২১২০৭৭",
+    "frequency": 4452,
+    "source": "wikipedia"
+  },
+  {
+    "word": "৩৪৯",
+    "frequency": 4451,
+    "source": "wikipedia"
+  },
+  {
+    "word": "২২১১৬",
+    "frequency": 4450,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সম্পাদকগণ",
+    "frequency": 4449,
+    "source": "wikipedia"
+  },
+  {
+    "word": "১৯৮৭",
+    "frequency": 4448,
+    "source": "wikipedia"
+  },
+  {
+    "word": "৫২১",
+    "frequency": 4447,
+    "source": "wikipedia"
+  },
+  {
+    "word": "২৭৭৫৭",
+    "frequency": 4446,
+    "source": "wikipedia"
+  },
+  {
+    "word": "১৯৬৮",
+    "frequency": 4445,
+    "source": "wikipedia"
+  },
+  {
+    "word": "১৮৪৮১১",
+    "frequency": 4444,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সংগ্রহের",
+    "frequency": 4443,
+    "source": "wikipedia"
+  },
+  {
+    "word": "তারিখ",
+    "frequency": 4442,
+    "source": "wikipedia"
+  },
+  {
+    "word": "তামিলনাড়ু",
+    "frequency": 4441,
+    "source": "wikipedia"
+  },
+  {
+    "word": "রাজ্যে",
+    "frequency": 4440,
+    "source": "wikipedia"
+  },
+  {
+    "word": "চেঙ্গলপট্টু",
+    "frequency": 4439,
+    "source": "wikipedia"
+  },
+  {
+    "word": "জেলায়",
+    "frequency": 4438,
+    "source": "wikipedia"
+  },
+  {
+    "word": "উপকণ্ঠে",
+    "frequency": 4437,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ঘনবসতিপূর্ণ",
+    "frequency": 4436,
+    "source": "wikipedia"
+  },
+  {
+    "word": "অঞ্চল",
+    "frequency": 4435,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বেলাচেরি",
+    "frequency": 4434,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সড়কের",
+    "frequency": 4433,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সিলাইয়ুর",
+    "frequency": 4432,
+    "source": "wikipedia"
+  },
+  {
+    "word": "লোকালয়গুলি",
+    "frequency": 4431,
+    "source": "wikipedia"
+  },
+  {
+    "word": "মাসমবক্কম",
+    "frequency": 4430,
+    "source": "wikipedia"
+  },
+  {
+    "word": "রাজাকীলবক্কম",
+    "frequency": 4429,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সেমবক্কম",
+    "frequency": 4428,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সিদ্ধলবক্কম",
+    "frequency": 4427,
+    "source": "wikipedia"
+  },
+  {
+    "word": "মেটবক্কম৷",
+    "frequency": 4426,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বেস",
+    "frequency": 4425,
+    "source": "wikipedia"
+  },
+  {
+    "word": "লোকালয়ে৷",
+    "frequency": 4424,
+    "source": "wikipedia"
+  },
+  {
+    "word": "অবসরপ্রাপ্ত",
+    "frequency": 4423,
+    "source": "wikipedia"
+  },
+  {
+    "word": "আধিকারিক",
+    "frequency": 4422,
+    "source": "wikipedia"
+  },
+  {
+    "word": "কর্মকর্তাদের",
+    "frequency": 4421,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পছন্দের",
+    "frequency": 4420,
+    "source": "wikipedia"
+  },
+  {
+    "word": "জায়গা",
+    "frequency": 4419,
+    "source": "wikipedia"
+  },
+  {
+    "word": "হওয়ায়",
+    "frequency": 4418,
+    "source": "wikipedia"
+  },
+  {
+    "word": "মিশ্র৷",
+    "frequency": 4417,
+    "source": "wikipedia"
+  },
+  {
+    "word": "অন্ধ্রপ্রদেশ",
+    "frequency": 4416,
+    "source": "wikipedia"
+  },
+  {
+    "word": "কেরালা",
+    "frequency": 4415,
+    "source": "wikipedia"
+  },
+  {
+    "word": "প্রভৃতি",
+    "frequency": 4414,
+    "source": "wikipedia"
+  },
+  {
+    "word": "লোক",
+    "frequency": 4413,
+    "source": "wikipedia"
+  },
+  {
+    "word": "রয়েছেন",
+    "frequency": 4412,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বিপুল",
+    "frequency": 4411,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সংখ্যায়৷",
+    "frequency": 4410,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বিগত",
+    "frequency": 4409,
+    "source": "wikipedia"
+  },
+  {
+    "word": "শহরতলির",
+    "frequency": 4408,
+    "source": "wikipedia"
+  },
+  {
+    "word": "জনতত্ত্বগত",
+    "frequency": 4407,
+    "source": "wikipedia"
+  },
+  {
+    "word": "প্রভূত",
+    "frequency": 4406,
+    "source": "wikipedia"
+  },
+  {
+    "word": "দেশীয়",
+    "frequency": 4405,
+    "source": "wikipedia"
+  },
+  {
+    "word": "একাধিক",
+    "frequency": 4404,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বেসরকারি",
+    "frequency": 4403,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সংস্থা৷",
+    "frequency": 4402,
+    "source": "wikipedia"
+  },
+  {
+    "word": "নিকটবর্তী",
+    "frequency": 4401,
+    "source": "wikipedia"
+  },
+  {
+    "word": "স্টেশনটি",
+    "frequency": 4400,
+    "source": "wikipedia"
+  },
+  {
+    "word": "স্টেশন",
+    "frequency": 4399,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বিমানবন্দর৷",
+    "frequency": 4398,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পরিষেবার",
+    "frequency": 4397,
+    "source": "wikipedia"
+  },
+  {
+    "word": "চেন্নাইয়ের",
+    "frequency": 4396,
+    "source": "wikipedia"
+  },
+  {
+    "word": "টার্মিনাসটি",
+    "frequency": 4395,
+    "source": "wikipedia"
+  },
+  {
+    "word": "তিন",
+    "frequency": 4394,
+    "source": "wikipedia"
+  },
+  {
+    "word": "নিকটস্থ",
+    "frequency": 4393,
+    "source": "wikipedia"
+  },
+  {
+    "word": "হ্রদ",
+    "frequency": 4392,
+    "source": "wikipedia"
+  },
+  {
+    "word": "টি",
+    "frequency": 4391,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ঐতিহাসিকভাবে",
+    "frequency": 4390,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সাম্রাজ্য",
+    "frequency": 4389,
+    "source": "wikipedia"
+  },
+  {
+    "word": "অনুমান",
+    "frequency": 4388,
+    "source": "wikipedia"
+  },
+  {
+    "word": "হয়৷",
+    "frequency": 4387,
+    "source": "wikipedia"
+  },
+  {
+    "word": "চারশ",
+    "frequency": 4386,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পুরাতন৷",
+    "frequency": 4385,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ত্রিভুবন",
+    "frequency": 4384,
+    "source": "wikipedia"
+  },
+  {
+    "word": "চক্রবর্তী",
+    "frequency": 4383,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বিজয়কন্দ",
+    "frequency": 4382,
+    "source": "wikipedia"
+  },
+  {
+    "word": "গোপালনের",
+    "frequency": 4381,
+    "source": "wikipedia"
+  },
+  {
+    "word": "তথ্য",
+    "frequency": 4380,
+    "source": "wikipedia"
+  },
+  {
+    "word": "অংশীভূত৷",
+    "frequency": 4379,
+    "source": "wikipedia"
+  },
+  {
+    "word": "স্কটীয়",
+    "frequency": 4378,
+    "source": "wikipedia"
+  },
+  {
+    "word": "জ্যোতির্বিজ্ঞানী",
+    "frequency": 4377,
+    "source": "wikipedia"
+  },
+  {
+    "word": "প্রতিফলক",
+    "frequency": 4376,
+    "source": "wikipedia"
+  },
+  {
+    "word": "দূরবীক্ষণ",
+    "frequency": 4375,
+    "source": "wikipedia"
+  },
+  {
+    "word": "যন্ত্র",
+    "frequency": 4374,
+    "source": "wikipedia"
+  },
+  {
+    "word": "উদ্ভাবন",
+    "frequency": 4373,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ক্যালকুলাসের",
+    "frequency": 4372,
+    "source": "wikipedia"
+  },
+  {
+    "word": "মৌলিক",
+    "frequency": 4371,
+    "source": "wikipedia"
+  },
+  {
+    "word": "উপপাদ্য",
+    "frequency": 4370,
+    "source": "wikipedia"
+  },
+  {
+    "word": "জীবনী",
+    "frequency": 4369,
+    "source": "wikipedia"
+  },
+  {
+    "word": "এবার্ডিনশায়ারের",
+    "frequency": 4368,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ড্রুমোকে",
+    "frequency": 4367,
+    "source": "wikipedia"
+  },
+  {
+    "word": "জন্মগ্রহণ",
+    "frequency": 4366,
+    "source": "wikipedia"
+  },
+  {
+    "word": "স্কটল্যান্ড",
+    "frequency": 4365,
+    "source": "wikipedia"
+  },
+  {
+    "word": "মিনিস্টারের",
+    "frequency": 4364,
+    "source": "wikipedia"
+  },
+  {
+    "word": "চার্চের",
+    "frequency": 4363,
+    "source": "wikipedia"
+  },
+  {
+    "word": "এপিস্কোপালিয়ান",
+    "frequency": 4362,
+    "source": "wikipedia"
+  },
+  {
+    "word": "জ্যানেট",
+    "frequency": 4361,
+    "source": "wikipedia"
+  },
+  {
+    "word": "অ্যান্ডারসন",
+    "frequency": 4360,
+    "source": "wikipedia"
+  },
+  {
+    "word": "১৬০০",
+    "frequency": 4359,
+    "source": "wikipedia"
+  },
+  {
+    "word": "শৈশবে",
+    "frequency": 4358,
+    "source": "wikipedia"
+  },
+  {
+    "word": "মায়ের",
+    "frequency": 4357,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পাঠ",
+    "frequency": 4356,
+    "source": "wikipedia"
+  },
+  {
+    "word": "গ্রহণ",
+    "frequency": 4355,
+    "source": "wikipedia"
+  },
+  {
+    "word": "জ্যামিতি",
+    "frequency": 4354,
+    "source": "wikipedia"
+  },
+  {
+    "word": "আগ্রহ",
+    "frequency": 4353,
+    "source": "wikipedia"
+  },
+  {
+    "word": "দেখে",
+    "frequency": 4352,
+    "source": "wikipedia"
+  },
+  {
+    "word": "আলেকজান্ডার",
+    "frequency": 4351,
+    "source": "wikipedia"
+  },
+  {
+    "word": "অ্যান্ডারসনের",
+    "frequency": 4350,
+    "source": "wikipedia"
+  },
+  {
+    "word": "১৫৮২",
+    "frequency": 4349,
+    "source": "wikipedia"
+  },
+  {
+    "word": "১৬১৯",
+    "frequency": 4348,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পাঠান",
+    "frequency": 4347,
+    "source": "wikipedia"
+  },
+  {
+    "word": "জেমসের",
+    "frequency": 4346,
+    "source": "wikipedia"
+  },
+  {
+    "word": "১৬৫১",
+    "frequency": 4345,
+    "source": "wikipedia"
+  },
+  {
+    "word": "মারা",
+    "frequency": 4344,
+    "source": "wikipedia"
+  },
+  {
+    "word": "যাওয়ার",
+    "frequency": 4343,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পড়াশুনার",
+    "frequency": 4342,
+    "source": "wikipedia"
+  },
+  {
+    "word": "এবার্ডিন",
+    "frequency": 4341,
+    "source": "wikipedia"
+  },
+  {
+    "word": "গ্রামার",
+    "frequency": 4340,
+    "source": "wikipedia"
+  },
+  {
+    "word": "স্কুলে",
+    "frequency": 4339,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ভর্তি",
+    "frequency": 4338,
+    "source": "wikipedia"
+  },
+  {
+    "word": "মারিশাল",
+    "frequency": 4337,
+    "source": "wikipedia"
+  },
+  {
+    "word": "১৬৫৭",
+    "frequency": 4336,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পাস",
+    "frequency": 4335,
+    "source": "wikipedia"
+  },
+  {
+    "word": "চিত্রকর",
+    "frequency": 4334,
+    "source": "wikipedia"
+  },
+  {
+    "word": "জেমসন",
+    "frequency": 4333,
+    "source": "wikipedia"
+  },
+  {
+    "word": "কন্যা",
+    "frequency": 4332,
+    "source": "wikipedia"
+  },
+  {
+    "word": "এলরিকের",
+    "frequency": 4331,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বার্নেটের",
+    "frequency": 4330,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বিধবা",
+    "frequency": 4329,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ম্যারির",
+    "frequency": 4328,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বিবাহ",
+    "frequency": 4327,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বন্ধনে",
+    "frequency": 4326,
+    "source": "wikipedia"
+  },
+  {
+    "word": "আবদ্ধ",
+    "frequency": 4325,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পুত্র",
+    "frequency": 4324,
+    "source": "wikipedia"
+  },
+  {
+    "word": "কিংস",
+    "frequency": 4323,
+    "source": "wikipedia"
+  },
+  {
+    "word": "এবার্ডিনের",
+    "frequency": 4322,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পদার্থ",
+    "frequency": 4321,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বিজ্ঞানের",
+    "frequency": 4320,
+    "source": "wikipedia"
+  },
+  {
+    "word": "অধ্যাপক",
+    "frequency": 4319,
+    "source": "wikipedia"
+  },
+  {
+    "word": "নীতিশাস্ত্রবিদ",
+    "frequency": 4318,
+    "source": "wikipedia"
+  },
+  {
+    "word": "দাদা",
+    "frequency": 4317,
+    "source": "wikipedia"
+  },
+  {
+    "word": "চিকিৎসক",
+    "frequency": 4316,
+    "source": "wikipedia"
+  },
+  {
+    "word": "উদ্ভাবক",
+    "frequency": 4315,
+    "source": "wikipedia"
+  },
+  {
+    "word": "এডিনবরার",
+    "frequency": 4314,
+    "source": "wikipedia"
+  },
+  {
+    "word": "গণিত",
+    "frequency": 4313,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বিভাগের",
+    "frequency": 4312,
+    "source": "wikipedia"
+  },
+  {
+    "word": "একদিন",
+    "frequency": 4311,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ছাত্রদের",
+    "frequency": 4310,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বৃহস্পতি",
+    "frequency": 4309,
+    "source": "wikipedia"
+  },
+  {
+    "word": "গ্রহের",
+    "frequency": 4308,
+    "source": "wikipedia"
+  },
+  {
+    "word": "চাঁদসমূহ",
+    "frequency": 4307,
+    "source": "wikipedia"
+  },
+  {
+    "word": "দেখানোর",
+    "frequency": 4306,
+    "source": "wikipedia"
+  },
+  {
+    "word": "স্ট্রোক",
+    "frequency": 4305,
+    "source": "wikipedia"
+  },
+  {
+    "word": "কয়েকদিন",
+    "frequency": 4304,
+    "source": "wikipedia"
+  },
+  {
+    "word": "৩৬",
+    "frequency": 4303,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বয়সে",
+    "frequency": 4302,
+    "source": "wikipedia"
+  },
+  {
+    "word": "মৃত্যুবরণ",
+    "frequency": 4301,
+    "source": "wikipedia"
+  },
+  {
+    "word": "রিপে",
+    "frequency": 4300,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বৃহত্তম",
+    "frequency": 4299,
+    "source": "wikipedia"
+  },
+  {
+    "word": "নগরীর",
+    "frequency": 4298,
+    "source": "wikipedia"
+  },
+  {
+    "word": "১৬২",
+    "frequency": 4297,
+    "source": "wikipedia"
+  },
+  {
+    "word": "হেক্টর",
+    "frequency": 4296,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ভূমির",
+    "frequency": 4295,
+    "source": "wikipedia"
+  },
+  {
+    "word": "কমপ্লেক্সটি",
+    "frequency": 4294,
+    "source": "wikipedia"
+  },
+  {
+    "word": "দ্বিতীয়ের",
+    "frequency": 4293,
+    "source": "wikipedia"
+  },
+  {
+    "word": "খ্রিস্টাব্দের",
+    "frequency": 4292,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ত্রয়োদশ",
+    "frequency": 4291,
+    "source": "wikipedia"
+  },
+  {
+    "word": "শতকের",
+    "frequency": 4290,
+    "source": "wikipedia"
+  },
+  {
+    "word": "শেষভাগ",
+    "frequency": 4289,
+    "source": "wikipedia"
+  },
+  {
+    "word": "উপাসনার",
+    "frequency": 4288,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সক্রিয়",
+    "frequency": 4287,
+    "source": "wikipedia"
+  },
+  {
+    "word": "আয়তন",
+    "frequency": 4286,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ভাস্কর্যশোভিত",
+    "frequency": 4285,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ঐক্যবদ্ধ",
+    "frequency": 4284,
+    "source": "wikipedia"
+  },
+  {
+    "word": "প্রসিদ্ধ",
+    "frequency": 4283,
+    "source": "wikipedia"
+  },
+  {
+    "word": "অধিকাংশ",
+    "frequency": 4282,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বিপরীতে",
+    "frequency": 4281,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পশ্চিমমুখীভাবে",
+    "frequency": 4280,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পরিচয়ের",
+    "frequency": 4279,
+    "source": "wikipedia"
+  },
+  {
+    "word": "চিত্র",
+    "frequency": 4278,
+    "source": "wikipedia"
+  },
+  {
+    "word": "যশোধরপুরে",
+    "frequency": 4277,
+    "source": "wikipedia"
+  },
+  {
+    "word": "নির্দেশ",
+    "frequency": 4276,
+    "source": "wikipedia"
+  },
+  {
+    "word": "দেন",
+    "frequency": 4275,
+    "source": "wikipedia"
+  },
+  {
+    "word": "রাষ্ট্র",
+    "frequency": 4274,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সাধারণভাবে",
+    "frequency": 4273,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সমাধিসৌধ",
+    "frequency": 4272,
+    "source": "wikipedia"
+  },
+  {
+    "word": "হিসেবেও",
+    "frequency": 4271,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পরিকল্পিত",
+    "frequency": 4270,
+    "source": "wikipedia"
+  },
+  {
+    "word": "স্থাপত্যে",
+    "frequency": 4269,
+    "source": "wikipedia"
+  },
+  {
+    "word": "দুটি",
+    "frequency": 4268,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বৈশিষ্ট্যপূর্ণ",
+    "frequency": 4267,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পাহাড়",
+    "frequency": 4266,
+    "source": "wikipedia"
+  },
+  {
+    "word": "গ্যালারিবিশিষ্ট",
+    "frequency": 4265,
+    "source": "wikipedia"
+  },
+  {
+    "word": "একত্রিত",
+    "frequency": 4264,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সামগ্রিক",
+    "frequency": 4263,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বিন্যাসকে",
+    "frequency": 4262,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সুমেরু",
+    "frequency": 4261,
+    "source": "wikipedia"
+  },
+  {
+    "word": "প্রতীকী",
+    "frequency": 4260,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ব্যাখ্যা",
+    "frequency": 4259,
+    "source": "wikipedia"
+  },
+  {
+    "word": "উভয়",
+    "frequency": 4258,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বিশ্বতত্ত্বে",
+    "frequency": 4257,
+    "source": "wikipedia"
+  },
+  {
+    "word": "মহাবিশ্বের",
+    "frequency": 4256,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বিবেচিত",
+    "frequency": 4255,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সমগ্রটি",
+    "frequency": 4254,
+    "source": "wikipedia"
+  },
+  {
+    "word": "প্রশস্ত",
+    "frequency": 4253,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বেষ্টিত",
+    "frequency": 4252,
+    "source": "wikipedia"
+  },
+  {
+    "word": "চারপাশে",
+    "frequency": 4251,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বহির্ভাগের",
+    "frequency": 4250,
+    "source": "wikipedia"
+  },
+  {
+    "word": "প্রাচীরের",
+    "frequency": 4249,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ভেতরে",
+    "frequency": 4248,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ধাপে",
+    "frequency": 4247,
+    "source": "wikipedia"
+  },
+  {
+    "word": "উঁচু",
+    "frequency": 4246,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ওঠা",
+    "frequency": 4245,
+    "source": "wikipedia"
+  },
+  {
+    "word": "অংশের",
+    "frequency": 4244,
+    "source": "wikipedia"
+  },
+  {
+    "word": "অগ্রসর",
+    "frequency": 4243,
+    "source": "wikipedia"
+  },
+  {
+    "word": "অংশে",
+    "frequency": 4242,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সুউচ্চ",
+    "frequency": 4241,
+    "source": "wikipedia"
+  },
+  {
+    "word": "মিনার",
+    "frequency": 4240,
+    "source": "wikipedia"
+  },
+  {
+    "word": "এমনভাবে",
+    "frequency": 4239,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বিন্যস্ত",
+    "frequency": 4238,
+    "source": "wikipedia"
+  },
+  {
+    "word": "কোণা",
+    "frequency": 4237,
+    "source": "wikipedia"
+  },
+  {
+    "word": "মধ্যভাগ",
+    "frequency": 4236,
+    "source": "wikipedia"
+  },
+  {
+    "word": "মিলিয়ে",
+    "frequency": 4235,
+    "source": "wikipedia"
+  },
+  {
+    "word": "স্থাপত্যিক",
+    "frequency": 4234,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বিন্যাস",
+    "frequency": 4233,
+    "source": "wikipedia"
+  },
+  {
+    "word": "গঠন",
+    "frequency": 4232,
+    "source": "wikipedia"
+  },
+  {
+    "word": "দীর্ঘ",
+    "frequency": 4231,
+    "source": "wikipedia"
+  },
+  {
+    "word": "আংশিকভাবে",
+    "frequency": 4230,
+    "source": "wikipedia"
+  },
+  {
+    "word": "থাকার",
+    "frequency": 4229,
+    "source": "wikipedia"
+  },
+  {
+    "word": "আওতায়",
+    "frequency": 4228,
+    "source": "wikipedia"
+  },
+  {
+    "word": "কাজে",
+    "frequency": 4227,
+    "source": "wikipedia"
+  },
+  {
+    "word": "১৯৯৩",
+    "frequency": 4226,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ইউনেস্কোর",
+    "frequency": 4225,
+    "source": "wikipedia"
+  },
+  {
+    "word": "উদ্যোগে",
+    "frequency": 4224,
+    "source": "wikipedia"
+  },
+  {
+    "word": "স্থানের",
+    "frequency": 4223,
+    "source": "wikipedia"
+  },
+  {
+    "word": "উন্নয়নের",
+    "frequency": 4222,
+    "source": "wikipedia"
+  },
+  {
+    "word": "কমিটি",
+    "frequency": 4221,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সাধন",
+    "frequency": 4220,
+    "source": "wikipedia"
+  },
+  {
+    "word": "প্রকল্পে",
+    "frequency": 4219,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ফ্রান্স",
+    "frequency": 4218,
+    "source": "wikipedia"
+  },
+  {
+    "word": "জাপান",
+    "frequency": 4217,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ভারত",
+    "frequency": 4216,
+    "source": "wikipedia"
+  },
+  {
+    "word": "কোরিয়া",
+    "frequency": 4215,
+    "source": "wikipedia"
+  },
+  {
+    "word": "চীন",
+    "frequency": 4214,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ইতালিসহ",
+    "frequency": 4213,
+    "source": "wikipedia"
+  },
+  {
+    "word": "অবদান",
+    "frequency": 4212,
+    "source": "wikipedia"
+  },
+  {
+    "word": "রাখে",
+    "frequency": 4211,
+    "source": "wikipedia"
+  },
+  {
+    "word": "মহিমান্বিত",
+    "frequency": 4210,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সুষম",
+    "frequency": 4209,
+    "source": "wikipedia"
+  },
+  {
+    "word": "উৎকীর্ণ",
+    "frequency": 4208,
+    "source": "wikipedia"
+  },
+  {
+    "word": "দেয়ালজুড়ে",
+    "frequency": 4207,
+    "source": "wikipedia"
+  },
+  {
+    "word": "অলংকৃত",
+    "frequency": 4206,
+    "source": "wikipedia"
+  },
+  {
+    "word": "দেবীমূর্তির",
+    "frequency": 4205,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সমাদৃত",
+    "frequency": 4204,
+    "source": "wikipedia"
+  },
+  {
+    "word": "অঞ্চলকে",
+    "frequency": 4203,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ঐতিহ্যবাহী",
+    "frequency": 4202,
+    "source": "wikipedia"
+  },
+  {
+    "word": "স্বীকৃতি",
+    "frequency": 4201,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পর্যটন",
+    "frequency": 4200,
+    "source": "wikipedia"
+  },
+  {
+    "word": "আকর্ষণ",
+    "frequency": 4199,
+    "source": "wikipedia"
+  },
+  {
+    "word": "প্রান্ত",
+    "frequency": 4198,
+    "source": "wikipedia"
+  },
+  {
+    "word": "২৫",
+    "frequency": 4197,
+    "source": "wikipedia"
+  },
+  {
+    "word": "লক্ষেরও",
+    "frequency": 4196,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পর্যটক",
+    "frequency": 4195,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পরিদর্শন",
+    "frequency": 4194,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ব্যুৎপত্তি",
+    "frequency": 4193,
+    "source": "wikipedia"
+  },
+  {
+    "word": "প্রাঙ্গণ",
+    "frequency": 4192,
+    "source": "wikipedia"
+  },
+  {
+    "word": "উৎসও",
+    "frequency": 4191,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পালি",
+    "frequency": 4190,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বেষ্টনী",
+    "frequency": 4189,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ঘেরা",
+    "frequency": 4188,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ব্রহ",
+    "frequency": 4187,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পরম",
+    "frequency": 4186,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পবিত্র",
+    "frequency": 4185,
+    "source": "wikipedia"
+  },
+  {
+    "word": "শাসিত",
+    "frequency": 4184,
+    "source": "wikipedia"
+  },
+  {
+    "word": "খ্রিস্টাব্দ",
+    "frequency": 4183,
+    "source": "wikipedia"
+  },
+  {
+    "word": "১১২২",
+    "frequency": 4182,
+    "source": "wikipedia"
+  },
+  {
+    "word": "দিবাকরপন্ডিত",
+    "frequency": 4181,
+    "source": "wikipedia"
+  },
+  {
+    "word": "১০৪০",
+    "frequency": 4180,
+    "source": "wikipedia"
+  },
+  {
+    "word": "১১২০",
+    "frequency": 4179,
+    "source": "wikipedia"
+  },
+  {
+    "word": "নামের",
+    "frequency": 4178,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ব্রাহ্মণ",
+    "frequency": 4177,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সূর্যবর্মণকে",
+    "frequency": 4176,
+    "source": "wikipedia"
+  },
+  {
+    "word": "অনুরোধ",
+    "frequency": 4175,
+    "source": "wikipedia"
+  },
+  {
+    "word": "মোটিফগুলি",
+    "frequency": 4174,
+    "source": "wikipedia"
+  },
+  {
+    "word": "হিন্দুধর্ম",
+    "frequency": 4173,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পূর্ববর্তী",
+    "frequency": 4172,
+    "source": "wikipedia"
+  },
+  {
+    "word": "রাজাদের",
+    "frequency": 4171,
+    "source": "wikipedia"
+  },
+  {
+    "word": "শৈব",
+    "frequency": 4170,
+    "source": "wikipedia"
+  },
+  {
+    "word": "প্রথা",
+    "frequency": 4169,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ভেঙে",
+    "frequency": 4168,
+    "source": "wikipedia"
+  },
+  {
+    "word": "রাজার",
+    "frequency": 4167,
+    "source": "wikipedia"
+  },
+  {
+    "word": "রাজ্য",
+    "frequency": 4166,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সময়কার",
+    "frequency": 4165,
+    "source": "wikipedia"
+  },
+  {
+    "word": "খুঁজে",
+    "frequency": 4164,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পাওয়া",
+    "frequency": 4163,
+    "source": "wikipedia"
+  },
+  {
+    "word": "অজ্ঞাত",
+    "frequency": 4162,
+    "source": "wikipedia"
+  },
+  {
+    "word": "দেবতার",
+    "frequency": 4161,
+    "source": "wikipedia"
+  },
+  {
+    "word": "নামানুসারে",
+    "frequency": 4160,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বরাহ",
+    "frequency": 4159,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বর্তমানকালের",
+    "frequency": 4158,
+    "source": "wikipedia"
+  },
+  {
+    "word": "রিপ",
+    "frequency": 4157,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বাফুওন",
+    "frequency": 4156,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সামান্য",
+    "frequency": 4155,
+    "source": "wikipedia"
+  },
+  {
+    "word": "মৃত্যুর",
+    "frequency": 4154,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বন্ধ",
+    "frequency": 4153,
+    "source": "wikipedia"
+  },
+  {
+    "word": "কারূকার্য",
+    "frequency": 4152,
+    "source": "wikipedia"
+  },
+  {
+    "word": "অসমাপ্ত",
+    "frequency": 4151,
+    "source": "wikipedia"
+  },
+  {
+    "word": "১১৭৭",
+    "frequency": 4150,
+    "source": "wikipedia"
+  },
+  {
+    "word": "শহরটি",
+    "frequency": 4149,
+    "source": "wikipedia"
+  },
+  {
+    "word": "খমেরদের",
+    "frequency": 4148,
+    "source": "wikipedia"
+  },
+  {
+    "word": "চিরাচরিত",
+    "frequency": 4147,
+    "source": "wikipedia"
+  },
+  {
+    "word": "শত্রু",
+    "frequency": 4146,
+    "source": "wikipedia"
+  },
+  {
+    "word": "চামদের",
+    "frequency": 4145,
+    "source": "wikipedia"
+  },
+  {
+    "word": "হাতে",
+    "frequency": 4144,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পরাজিত",
+    "frequency": 4143,
+    "source": "wikipedia"
+  },
+  {
+    "word": "লুণ্ঠিত",
+    "frequency": 4142,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সপ্তম",
+    "frequency": 4141,
+    "source": "wikipedia"
+  },
+  {
+    "word": "জয়বর্মণ",
+    "frequency": 4140,
+    "source": "wikipedia"
+  },
+  {
+    "word": "রাজ্যটিকে",
+    "frequency": 4139,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পূনর্গঠিত",
+    "frequency": 4138,
+    "source": "wikipedia"
+  },
+  {
+    "word": "কয়েক",
+    "frequency": 4137,
+    "source": "wikipedia"
+  },
+  {
+    "word": "থোম",
+    "frequency": 4136,
+    "source": "wikipedia"
+  },
+  {
+    "word": "নগরে",
+    "frequency": 4135,
+    "source": "wikipedia"
+  },
+  {
+    "word": "স্থাপন",
+    "frequency": 4134,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ওয়াটও",
+    "frequency": 4133,
+    "source": "wikipedia"
+  },
+  {
+    "word": "প্রতিস্থাপিত",
+    "frequency": 4132,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পরিবর্তনের",
+    "frequency": 4131,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ফলশ্রুতিতে",
+    "frequency": 4130,
+    "source": "wikipedia"
+  },
+  {
+    "word": "কম্বোডিয়ায়",
+    "frequency": 4129,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ধর্মের",
+    "frequency": 4128,
+    "source": "wikipedia"
+  },
+  {
+    "word": "প্রচলন",
+    "frequency": 4127,
+    "source": "wikipedia"
+  },
+  {
+    "word": "১৪শ",
+    "frequency": 4126,
+    "source": "wikipedia"
+  },
+  {
+    "word": "১৫শ",
+    "frequency": 4125,
+    "source": "wikipedia"
+  },
+  {
+    "word": "উপাসনা",
+    "frequency": 4124,
+    "source": "wikipedia"
+  },
+  {
+    "word": "আজ",
+    "frequency": 4123,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বজায়",
+    "frequency": 4122,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পার্থক্য",
+    "frequency": 4121,
+    "source": "wikipedia"
+  },
+  {
+    "word": "যদিও",
+    "frequency": 4120,
+    "source": "wikipedia"
+  },
+  {
+    "word": "কিছুটা",
+    "frequency": 4119,
+    "source": "wikipedia"
+  },
+  {
+    "word": "তথাপি",
+    "frequency": 4118,
+    "source": "wikipedia"
+  },
+  {
+    "word": "কখনোই",
+    "frequency": 4117,
+    "source": "wikipedia"
+  },
+  {
+    "word": "চারদিকে",
+    "frequency": 4116,
+    "source": "wikipedia"
+  },
+  {
+    "word": "থাকায়",
+    "frequency": 4115,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বন",
+    "frequency": 4114,
+    "source": "wikipedia"
+  },
+  {
+    "word": "জঙ্গলের",
+    "frequency": 4113,
+    "source": "wikipedia"
+  },
+  {
+    "word": "মরণোত্তর",
+    "frequency": 4112,
+    "source": "wikipedia"
+  },
+  {
+    "word": "উপাধি",
+    "frequency": 4111,
+    "source": "wikipedia"
+  },
+  {
+    "word": "প্রিয়াহ",
+    "frequency": 4110,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পিস্নুলোক",
+    "frequency": 4109,
+    "source": "wikipedia"
+  },
+  {
+    "word": "নামটি",
+    "frequency": 4108,
+    "source": "wikipedia"
+  },
+  {
+    "word": "অর্থাৎ",
+    "frequency": 4107,
+    "source": "wikipedia"
+  },
+  {
+    "word": "শব্দটি",
+    "frequency": 4106,
+    "source": "wikipedia"
+  },
+  {
+    "word": "এসেছে",
+    "frequency": 4105,
+    "source": "wikipedia"
+  },
+  {
+    "word": "অপভ্রংশ",
+    "frequency": 4104,
+    "source": "wikipedia"
+  },
+  {
+    "word": "আগমন",
+    "frequency": 4103,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পর্তুগিজ",
+    "frequency": 4102,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ধর্মপ্রচারক",
+    "frequency": 4101,
+    "source": "wikipedia"
+  },
+  {
+    "word": "আন্তোনিও",
+    "frequency": 4100,
+    "source": "wikipedia"
+  },
+  {
+    "word": "দা",
+    "frequency": 4099,
+    "source": "wikipedia"
+  },
+  {
+    "word": "মাগদালেনার",
+    "frequency": 4098,
+    "source": "wikipedia"
+  },
+  {
+    "word": "১৫৮৬",
+    "frequency": 4097,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ভ্রমণ",
+    "frequency": 4096,
+    "source": "wikipedia"
+  },
+  {
+    "word": "লিখেছেন",
+    "frequency": 4095,
+    "source": "wikipedia"
+  },
+  {
+    "word": "অসাধারণ",
+    "frequency": 4094,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ভাবে",
+    "frequency": 4093,
+    "source": "wikipedia"
+  },
+  {
+    "word": "কঠিন",
+    "frequency": 4092,
+    "source": "wikipedia"
+  },
+  {
+    "word": "অস্তিত্ব",
+    "frequency": 4091,
+    "source": "wikipedia"
+  },
+  {
+    "word": "খিলান",
+    "frequency": 4090,
+    "source": "wikipedia"
+  },
+  {
+    "word": "মানুষের",
+    "frequency": 4089,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পক্ষে",
+    "frequency": 4088,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সম্ভাব্য",
+    "frequency": 4087,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সেরা",
+    "frequency": 4086,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পাশ্চাত্যে",
+    "frequency": 4085,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ছড়িয়ে",
+    "frequency": 4084,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পড়ে",
+    "frequency": 4083,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ঊনবিংশ",
+    "frequency": 4082,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ফরাসি",
+    "frequency": 4081,
+    "source": "wikipedia"
+  },
+  {
+    "word": "অভিযাত্রী",
+    "frequency": 4080,
+    "source": "wikipedia"
+  },
+  {
+    "word": "অনরি",
+    "frequency": 4079,
+    "source": "wikipedia"
+  },
+  {
+    "word": "মৌহত",
+    "frequency": 4078,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ভ্রমণকাহিনীর",
+    "frequency": 4077,
+    "source": "wikipedia"
+  },
+  {
+    "word": "লিখেছিলেন",
+    "frequency": 4076,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সলোমনের",
+    "frequency": 4075,
+    "source": "wikipedia"
+  },
+  {
+    "word": "মন্দিরকেও",
+    "frequency": 4074,
+    "source": "wikipedia"
+  },
+  {
+    "word": "হার",
+    "frequency": 4073,
+    "source": "wikipedia"
+  },
+  {
+    "word": "মানায়",
+    "frequency": 4072,
+    "source": "wikipedia"
+  },
+  {
+    "word": "মাইকেলেঞ্জেলোর",
+    "frequency": 4071,
+    "source": "wikipedia"
+  },
+  {
+    "word": "মতোই",
+    "frequency": 4070,
+    "source": "wikipedia"
+  },
+  {
+    "word": "শিল্পী",
+    "frequency": 4069,
+    "source": "wikipedia"
+  },
+  {
+    "word": "আমাদের",
+    "frequency": 4068,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সমূহের",
+    "frequency": 4067,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সমতূল্য",
+    "frequency": 4066,
+    "source": "wikipedia"
+  },
+  {
+    "word": "এমনকী",
+    "frequency": 4065,
+    "source": "wikipedia"
+  },
+  {
+    "word": "গুলির",
+    "frequency": 4064,
+    "source": "wikipedia"
+  },
+  {
+    "word": "চাইতেও",
+    "frequency": 4063,
+    "source": "wikipedia"
+  },
+  {
+    "word": "দেশটি",
+    "frequency": 4062,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বর্বরতার",
+    "frequency": 4061,
+    "source": "wikipedia"
+  },
+  {
+    "word": "নিমজ্জিত",
+    "frequency": 4060,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বিশালতার",
+    "frequency": 4059,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ফারাক",
+    "frequency": 4058,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পাশ্চাত্যের",
+    "frequency": 4057,
+    "source": "wikipedia"
+  },
+  {
+    "word": "মত",
+    "frequency": 4056,
+    "source": "wikipedia"
+  },
+  {
+    "word": "মৌহতও",
+    "frequency": 4055,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পারেন",
+    "frequency": 4054,
+    "source": "wikipedia"
+  },
+  {
+    "word": "মেররাই",
+    "frequency": 4053,
+    "source": "wikipedia"
+  },
+  {
+    "word": "করেছিল",
+    "frequency": 4052,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ভুলক্রমে",
+    "frequency": 4051,
+    "source": "wikipedia"
+  },
+  {
+    "word": "রোম",
+    "frequency": 4050,
+    "source": "wikipedia"
+  },
+  {
+    "word": "প্রকৃত",
+    "frequency": 4049,
+    "source": "wikipedia"
+  },
+  {
+    "word": "উদঘাটিত",
+    "frequency": 4048,
+    "source": "wikipedia"
+  },
+  {
+    "word": "স্থাপত্যশৈলী",
+    "frequency": 4047,
+    "source": "wikipedia"
+  },
+  {
+    "word": "শিলালিপি",
+    "frequency": 4046,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সমস্ত",
+    "frequency": 4045,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পরিষ্কার",
+    "frequency": 4044,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ব্যাপক",
+    "frequency": 4043,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সম্পন্ন",
+    "frequency": 4042,
+    "source": "wikipedia"
+  },
+  {
+    "word": "প্রধানত",
+    "frequency": 4041,
+    "source": "wikipedia"
+  },
+  {
+    "word": "চারিদিকে",
+    "frequency": 4040,
+    "source": "wikipedia"
+  },
+  {
+    "word": "জঙ্গল",
+    "frequency": 4039,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সাফ",
+    "frequency": 4038,
+    "source": "wikipedia"
+  },
+  {
+    "word": "গৃহযুদ্ধ",
+    "frequency": 4037,
+    "source": "wikipedia"
+  },
+  {
+    "word": "রুজ",
+    "frequency": 4036,
+    "source": "wikipedia"
+  },
+  {
+    "word": "শাসনকালে",
+    "frequency": 4035,
+    "source": "wikipedia"
+  },
+  {
+    "word": "১৯৮০",
+    "frequency": 4034,
+    "source": "wikipedia"
+  },
+  {
+    "word": "দশকগুলিতে",
+    "frequency": 4033,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বাধাগ্রস্ত",
+    "frequency": 4032,
+    "source": "wikipedia"
+  },
+  {
+    "word": "এলাকায়",
+    "frequency": 4031,
+    "source": "wikipedia"
+  },
+  {
+    "word": "স্থাপিত",
+    "frequency": 4030,
+    "source": "wikipedia"
+  },
+  {
+    "word": "মূর্তিগুলি",
+    "frequency": 4029,
+    "source": "wikipedia"
+  },
+  {
+    "word": "চুরি",
+    "frequency": 4028,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ধ্বংস",
+    "frequency": 4027,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ফেলা",
+    "frequency": 4026,
+    "source": "wikipedia"
+  },
+  {
+    "word": "একটা",
+    "frequency": 4025,
+    "source": "wikipedia"
+  },
+  {
+    "word": "প্রতীকে",
+    "frequency": 4024,
+    "source": "wikipedia"
+  },
+  {
+    "word": "দেশবাসীর",
+    "frequency": 4023,
+    "source": "wikipedia"
+  },
+  {
+    "word": "গৌরব",
+    "frequency": 4022,
+    "source": "wikipedia"
+  },
+  {
+    "word": "১৮৬৩",
+    "frequency": 4021,
+    "source": "wikipedia"
+  },
+  {
+    "word": "প্রবর্তনের",
+    "frequency": 4020,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সব",
+    "frequency": 4019,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পতাকাতেই",
+    "frequency": 4018,
+    "source": "wikipedia"
+  },
+  {
+    "word": "প্রতিকৃতি",
+    "frequency": 4017,
+    "source": "wikipedia"
+  },
+  {
+    "word": "এটিই",
+    "frequency": 4016,
+    "source": "wikipedia"
+  },
+  {
+    "word": "একমাত্র",
+    "frequency": 4015,
+    "source": "wikipedia"
+  },
+  {
+    "word": "দেশের",
+    "frequency": 4014,
+    "source": "wikipedia"
+  },
+  {
+    "word": "প্রদর্শিত",
+    "frequency": 4013,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সাইট",
+    "frequency": 4012,
+    "source": "wikipedia"
+  },
+  {
+    "word": "রাষ্ট্রীয়",
+    "frequency": 4011,
+    "source": "wikipedia"
+  },
+  {
+    "word": "আদর্শ",
+    "frequency": 4010,
+    "source": "wikipedia"
+  },
+  {
+    "word": "এককেন্দ্রিক",
+    "frequency": 4009,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পরিকল্পনার",
+    "frequency": 4008,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বেশিরভাগই",
+    "frequency": 4007,
+    "source": "wikipedia"
+  },
+  {
+    "word": "নির্মাণও",
+    "frequency": 4006,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ইঙ্গিত",
+    "frequency": 4005,
+    "source": "wikipedia"
+  },
+  {
+    "word": "স্বর্গীয়",
+    "frequency": 4004,
+    "source": "wikipedia"
+  },
+  {
+    "word": "তাৎপর্য",
+    "frequency": 4003,
+    "source": "wikipedia"
+  },
+  {
+    "word": "অভিমুখে",
+    "frequency": 4002,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পরিলক্ষিত",
+    "frequency": 4001,
+    "source": "wikipedia"
+  },
+  {
+    "word": "অভ্যন্তরে",
+    "frequency": 4000,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সোপানগুলি",
+    "frequency": 3999,
+    "source": "wikipedia"
+  },
+  {
+    "word": "দৃশ্যমান",
+    "frequency": 3998,
+    "source": "wikipedia"
+  },
+  {
+    "word": "রেখা",
+    "frequency": 3997,
+    "source": "wikipedia"
+  },
+  {
+    "word": "টাওয়ারগুলিকে",
+    "frequency": 3996,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সূর্যোদয়ের",
+    "frequency": 3995,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সুনির্দিষ্ট",
+    "frequency": 3994,
+    "source": "wikipedia"
+  },
+  {
+    "word": "অবস্থানে",
+    "frequency": 3993,
+    "source": "wikipedia"
+  },
+  {
+    "word": "দেখায়",
+    "frequency": 3992,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পুরাণ",
+    "frequency": 3991,
+    "source": "wikipedia"
+  },
+  {
+    "word": "কেন্দ্রীয়টাওয়ারের",
+    "frequency": 3990,
+    "source": "wikipedia"
+  },
+  {
+    "word": "কুইনকুনক্স",
+    "frequency": 3989,
+    "source": "wikipedia"
+  },
+  {
+    "word": "শিখরের",
+    "frequency": 3988,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পর্বতশ্রেণী",
+    "frequency": 3987,
+    "source": "wikipedia"
+  },
+  {
+    "word": "স্থাপত্যের",
+    "frequency": 3986,
+    "source": "wikipedia"
+  },
+  {
+    "word": "প্রকৃষ্ট",
+    "frequency": 3985,
+    "source": "wikipedia"
+  },
+  {
+    "word": "নিদর্শন",
+    "frequency": 3984,
+    "source": "wikipedia"
+  },
+  {
+    "word": "এধরনের",
+    "frequency": 3983,
+    "source": "wikipedia"
+  },
+  {
+    "word": "কলাকে",
+    "frequency": 3982,
+    "source": "wikipedia"
+  },
+  {
+    "word": "রীতি",
+    "frequency": 3981,
+    "source": "wikipedia"
+  },
+  {
+    "word": "১২শ",
+    "frequency": 3980,
+    "source": "wikipedia"
+  },
+  {
+    "word": "শতক",
+    "frequency": 3979,
+    "source": "wikipedia"
+  },
+  {
+    "word": "নাগাদ",
+    "frequency": 3978,
+    "source": "wikipedia"
+  },
+  {
+    "word": "স্থপতিরা",
+    "frequency": 3977,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ইটের",
+    "frequency": 3976,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বদলে",
+    "frequency": 3975,
+    "source": "wikipedia"
+  },
+  {
+    "word": "স্যান্ডস্টোন",
+    "frequency": 3974,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ব্যবহারে",
+    "frequency": 3973,
+    "source": "wikipedia"
+  },
+  {
+    "word": "দক্ষতা",
+    "frequency": 3972,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পর্ব",
+    "frequency": 3971,
+    "source": "wikipedia"
+  },
+  {
+    "word": "চাইতে",
+    "frequency": 3970,
+    "source": "wikipedia"
+  },
+  {
+    "word": "আকারের",
+    "frequency": 3969,
+    "source": "wikipedia"
+  },
+  {
+    "word": "গড়াকেই",
+    "frequency": 3968,
+    "source": "wikipedia"
+  },
+  {
+    "word": "প্রাধান্য",
+    "frequency": 3967,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বান্তাই",
+    "frequency": 3966,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সাম্রে",
+    "frequency": 3965,
+    "source": "wikipedia"
+  },
+  {
+    "word": "থোম্মানন",
+    "frequency": 3964,
+    "source": "wikipedia"
+  },
+  {
+    "word": "চাও",
+    "frequency": 3963,
+    "source": "wikipedia"
+  },
+  {
+    "word": "তাভোদা",
+    "frequency": 3962,
+    "source": "wikipedia"
+  },
+  {
+    "word": "প্রিয়া",
+    "frequency": 3961,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পিথুর",
+    "frequency": 3960,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বাইরে",
+    "frequency": 3959,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বেং",
+    "frequency": 3958,
+    "source": "wikipedia"
+  },
+  {
+    "word": "মিয়ালিয়া",
+    "frequency": 3957,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ফানম",
+    "frequency": 3956,
+    "source": "wikipedia"
+  },
+  {
+    "word": "রুং",
+    "frequency": 3955,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ফিমাই",
+    "frequency": 3954,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ধাঁচ",
+    "frequency": 3953,
+    "source": "wikipedia"
+  },
+  {
+    "word": "অণুসরণ",
+    "frequency": 3952,
+    "source": "wikipedia"
+  },
+  {
+    "word": "স্থাপত্যকলার",
+    "frequency": 3951,
+    "source": "wikipedia"
+  },
+  {
+    "word": "প্রশংসিত",
+    "frequency": 3950,
+    "source": "wikipedia"
+  },
+  {
+    "word": "কলার",
+    "frequency": 3949,
+    "source": "wikipedia"
+  },
+  {
+    "word": "তুলনা",
+    "frequency": 3948,
+    "source": "wikipedia"
+  },
+  {
+    "word": "মধ্যভাগে",
+    "frequency": 3947,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সংরক্ষণকারী",
+    "frequency": 3946,
+    "source": "wikipedia"
+  },
+  {
+    "word": "গ্লেইজের",
+    "frequency": 3945,
+    "source": "wikipedia"
+  },
+  {
+    "word": "২৪",
+    "frequency": 3944,
+    "source": "wikipedia"
+  },
+  {
+    "word": "৪৯",
+    "frequency": 3943,
+    "source": "wikipedia"
+  },
+  {
+    "word": "১০৩",
+    "frequency": 3942,
+    "source": "wikipedia"
+  },
+  {
+    "word": "৫২",
+    "frequency": 3941,
+    "source": "wikipedia"
+  },
+  {
+    "word": "প্রথাগত",
+    "frequency": 3940,
+    "source": "wikipedia"
+  },
+  {
+    "word": "গড়ন",
+    "frequency": 3939,
+    "source": "wikipedia"
+  },
+  {
+    "word": "এককেন্দ্রীক",
+    "frequency": 3938,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সংমিশ্রন",
+    "frequency": 3937,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পুরাণে",
+    "frequency": 3936,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বর্ণিত",
+    "frequency": 3935,
+    "source": "wikipedia"
+  },
+  {
+    "word": "আদলে",
+    "frequency": 3934,
+    "source": "wikipedia"
+  },
+  {
+    "word": "গড়া",
+    "frequency": 3933,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পর্বত",
+    "frequency": 3932,
+    "source": "wikipedia"
+  },
+  {
+    "word": "শৃঙ্গের",
+    "frequency": 3931,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পর্বতমালা",
+    "frequency": 3930,
+    "source": "wikipedia"
+  },
+  {
+    "word": "অংশগুলিতে",
+    "frequency": 3929,
+    "source": "wikipedia"
+  },
+  {
+    "word": "দুরুহ",
+    "frequency": 3928,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সাধারণ",
+    "frequency": 3927,
+    "source": "wikipedia"
+  },
+  {
+    "word": "জনতাকে",
+    "frequency": 3926,
+    "source": "wikipedia"
+  },
+  {
+    "word": "কেবল",
+    "frequency": 3925,
+    "source": "wikipedia"
+  },
+  {
+    "word": "নিচের",
+    "frequency": 3924,
+    "source": "wikipedia"
+  },
+  {
+    "word": "অংশেই",
+    "frequency": 3923,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সেখানে",
+    "frequency": 3922,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ব্যতিক্রম",
+    "frequency": 3921,
+    "source": "wikipedia"
+  },
+  {
+    "word": "অনেকের",
+    "frequency": 3920,
+    "source": "wikipedia"
+  },
+  {
+    "word": "গ্লেইজ",
+    "frequency": 3919,
+    "source": "wikipedia"
+  },
+  {
+    "word": "কোয়েদেস",
+    "frequency": 3918,
+    "source": "wikipedia"
+  },
+  {
+    "word": "অন্ত্যেষ্টিক্রিয়ার",
+    "frequency": 3917,
+    "source": "wikipedia"
+  },
+  {
+    "word": "নকশাগুলি",
+    "frequency": 3916,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ঘড়ির",
+    "frequency": 3915,
+    "source": "wikipedia"
+  },
+  {
+    "word": "কাঁটার",
+    "frequency": 3914,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বসানো",
+    "frequency": 3913,
+    "source": "wikipedia"
+  },
+  {
+    "word": "অন্ত্যেষ্টিক্রিয়াতে",
+    "frequency": 3912,
+    "source": "wikipedia"
+  },
+  {
+    "word": "এভাবে",
+    "frequency": 3911,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ক্রমে",
+    "frequency": 3910,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পুরাতত্ত্ববিদ",
+    "frequency": 3909,
+    "source": "wikipedia"
+  },
+  {
+    "word": "চার্লস",
+    "frequency": 3908,
+    "source": "wikipedia"
+  },
+  {
+    "word": "হিগাম",
+    "frequency": 3907,
+    "source": "wikipedia"
+  },
+  {
+    "word": "কলসী",
+    "frequency": 3906,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বস্তু",
+    "frequency": 3905,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পেয়েছেন",
+    "frequency": 3904,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সম্ভবত",
+    "frequency": 3903,
+    "source": "wikipedia"
+  },
+  {
+    "word": "অন্তেষ্টিক্রিয়ার",
+    "frequency": 3902,
+    "source": "wikipedia"
+  },
+  {
+    "word": "চিতাভস্ম",
+    "frequency": 3901,
+    "source": "wikipedia"
+  },
+  {
+    "word": "রাখার",
+    "frequency": 3900,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ফ্রিম্যান",
+    "frequency": 3899,
+    "source": "wikipedia"
+  },
+  {
+    "word": "জাঁকের",
+    "frequency": 3898,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পর্যবেক্ষণ",
+    "frequency": 3897,
+    "source": "wikipedia"
+  },
+  {
+    "word": "মুখী",
+    "frequency": 3896,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বানানো",
+    "frequency": 3895,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পশ্চিমমুখিতার",
+    "frequency": 3894,
+    "source": "wikipedia"
+  },
+  {
+    "word": "উল্লেখ্য",
+    "frequency": 3893,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ধর্মবিশ্বাস",
+    "frequency": 3892,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বিষ্ণু",
+    "frequency": 3891,
+    "source": "wikipedia"
+  },
+  {
+    "word": "জড়িত",
+    "frequency": 3890,
+    "source": "wikipedia"
+  },
+  {
+    "word": "এলেনর",
+    "frequency": 3889,
+    "source": "wikipedia"
+  },
+  {
+    "word": "মান্নিক্কা",
+    "frequency": 3888,
+    "source": "wikipedia"
+  },
+  {
+    "word": "প্রদান",
+    "frequency": 3887,
+    "source": "wikipedia"
+  },
+  {
+    "word": "আকৃতির",
+    "frequency": 3886,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ভিত্তিতে",
+    "frequency": 3885,
+    "source": "wikipedia"
+  },
+  {
+    "word": "চিত্রাবলীর",
+    "frequency": 3884,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বিষয়",
+    "frequency": 3883,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বিন্যাসের",
+    "frequency": 3882,
+    "source": "wikipedia"
+  },
+  {
+    "word": "২য়",
+    "frequency": 3881,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সুর্যবর্মণের",
+    "frequency": 3880,
+    "source": "wikipedia"
+  },
+  {
+    "word": "শাসনামলের",
+    "frequency": 3879,
+    "source": "wikipedia"
+  },
+  {
+    "word": "দীর্ঘস্থায়ী",
+    "frequency": 3878,
+    "source": "wikipedia"
+  },
+  {
+    "word": "শান্তির",
+    "frequency": 3877,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পরিচায়ক",
+    "frequency": 3876,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ধারণাটি",
+    "frequency": 3875,
+    "source": "wikipedia"
+  },
+  {
+    "word": "অবশ্য",
+    "frequency": 3874,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বিশেষজ্ঞদের",
+    "frequency": 3873,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সর্বাঙ্গীনভাবে",
+    "frequency": 3872,
+    "source": "wikipedia"
+  },
+  {
+    "word": "গৃহীত",
+    "frequency": 3871,
+    "source": "wikipedia"
+  },
+  {
+    "word": "গ্রাহাম",
+    "frequency": 3870,
+    "source": "wikipedia"
+  },
+  {
+    "word": "হ্যানককের",
+    "frequency": 3869,
+    "source": "wikipedia"
+  },
+  {
+    "word": "দ্রাকো",
+    "frequency": 3868,
+    "source": "wikipedia"
+  },
+  {
+    "word": "নক্ষত্রপুঞ্জের",
+    "frequency": 3867,
+    "source": "wikipedia"
+  },
+  {
+    "word": "অঙ্গন",
+    "frequency": 3866,
+    "source": "wikipedia"
+  },
+  {
+    "word": "দেয়ালটি",
+    "frequency": 3865,
+    "source": "wikipedia"
+  },
+  {
+    "word": "দৈর্ঘ্যে",
+    "frequency": 3864,
+    "source": "wikipedia"
+  },
+  {
+    "word": "১০২৫",
+    "frequency": 3863,
+    "source": "wikipedia"
+  },
+  {
+    "word": "প্রস্থে",
+    "frequency": 3862,
+    "source": "wikipedia"
+  },
+  {
+    "word": "৮০২",
+    "frequency": 3861,
+    "source": "wikipedia"
+  },
+  {
+    "word": "উচ্চতায়",
+    "frequency": 3860,
+    "source": "wikipedia"
+  },
+  {
+    "word": "দূরত্বে",
+    "frequency": 3859,
+    "source": "wikipedia"
+  },
+  {
+    "word": "১৯০",
+    "frequency": 3858,
+    "source": "wikipedia"
+  },
+  {
+    "word": "চওড়া",
+    "frequency": 3857,
+    "source": "wikipedia"
+  },
+  {
+    "word": "মাটির",
+    "frequency": 3856,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পাড়",
+    "frequency": 3855,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বেলেপাথরের",
+    "frequency": 3854,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পুলটি",
+    "frequency": 3853,
+    "source": "wikipedia"
+  },
+  {
+    "word": "প্রবেশদ্বার",
+    "frequency": 3852,
+    "source": "wikipedia"
+  },
+  {
+    "word": "যোগ",
+    "frequency": 3851,
+    "source": "wikipedia"
+  },
+  {
+    "word": "কাঠের",
+    "frequency": 3850,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ছিলো",
+    "frequency": 3849,
+    "source": "wikipedia"
+  },
+  {
+    "word": "উঁচুতে",
+    "frequency": 3848,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পর্যায়ক্রমে",
+    "frequency": 3847,
+    "source": "wikipedia"
+  },
+  {
+    "word": "চতুষ্কোণ",
+    "frequency": 3846,
+    "source": "wikipedia"
+  },
+  {
+    "word": "শেষ",
+    "frequency": 3845,
+    "source": "wikipedia"
+  },
+  {
+    "word": "মান্নিকার",
+    "frequency": 3844,
+    "source": "wikipedia"
+  },
+  {
+    "word": "গ্যালারিগুলো",
+    "frequency": 3843,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ব্রহ্মা",
+    "frequency": 3842,
+    "source": "wikipedia"
+  },
+  {
+    "word": "প্রতিটি",
+    "frequency": 3841,
+    "source": "wikipedia"
+  },
+  {
+    "word": "কার্ডিনাল",
+    "frequency": 3840,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বিন্দুগুলোতে",
+    "frequency": 3839,
+    "source": "wikipedia"
+  },
+  {
+    "word": "গোপুরা",
+    "frequency": 3838,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ভিতরের",
+    "frequency": 3837,
+    "source": "wikipedia"
+  },
+  {
+    "word": "গ্যালারিগুলোর",
+    "frequency": 3836,
+    "source": "wikipedia"
+  },
+  {
+    "word": "কোণায়",
+    "frequency": 3835,
+    "source": "wikipedia"
+  },
+  {
+    "word": "কোনের",
+    "frequency": 3834,
+    "source": "wikipedia"
+  },
+  {
+    "word": "চারটি",
+    "frequency": 3833,
+    "source": "wikipedia"
+  },
+  {
+    "word": "মিলে",
+    "frequency": 3832,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পঞ্চবিন্দু",
+    "frequency": 3831,
+    "source": "wikipedia"
+  },
+  {
+    "word": "অবস্থা",
+    "frequency": 3830,
+    "source": "wikipedia"
+  },
+  {
+    "word": "১৯৯০",
+    "frequency": 3829,
+    "source": "wikipedia"
+  },
+  {
+    "word": "দশক",
+    "frequency": 3828,
+    "source": "wikipedia"
+  },
+  {
+    "word": "রক্ষণাবেক্ষণ",
+    "frequency": 3827,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পর্যটনশিল্প",
+    "frequency": 3826,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পুরাতাত্তিক",
+    "frequency": 3825,
+    "source": "wikipedia"
+  },
+  {
+    "word": "১৯৮৬",
+    "frequency": 3824,
+    "source": "wikipedia"
+  },
+  {
+    "word": "মন্দিরটিতে",
+    "frequency": 3823,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ঐতিহ্য",
+    "frequency": 3822,
+    "source": "wikipedia"
+  },
+  {
+    "word": "কর্তৃক",
+    "frequency": 3821,
+    "source": "wikipedia"
+  },
+  {
+    "word": "স্বীকৃত",
+    "frequency": 3820,
+    "source": "wikipedia"
+  },
+  {
+    "word": "অর্থায়ন",
+    "frequency": 3819,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সরকারের",
+    "frequency": 3818,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সুরক্ষার",
+    "frequency": 3817,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সহজতর",
+    "frequency": 3816,
+    "source": "wikipedia"
+  },
+  {
+    "word": "জার্মানির",
+    "frequency": 3815,
+    "source": "wikipedia"
+  },
+  {
+    "word": "প্রকল্প",
+    "frequency": 3814,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ছবি",
+    "frequency": 3813,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সংবলিত",
+    "frequency": 3812,
+    "source": "wikipedia"
+  },
+  {
+    "word": "কারুকার্যমন্ডিত",
+    "frequency": 3811,
+    "source": "wikipedia"
+  },
+  {
+    "word": "নকশাকে",
+    "frequency": 3810,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ক্ষতির",
+    "frequency": 3809,
+    "source": "wikipedia"
+  },
+  {
+    "word": "হাত",
+    "frequency": 3808,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সংস্থাটির",
+    "frequency": 3807,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সমীক্ষায়",
+    "frequency": 3806,
+    "source": "wikipedia"
+  },
+  {
+    "word": "প্রাকৃতিকভাবেই",
+    "frequency": 3805,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ক্ষয়ে",
+    "frequency": 3804,
+    "source": "wikipedia"
+  },
+  {
+    "word": "যাওয়ায়",
+    "frequency": 3803,
+    "source": "wikipedia"
+  },
+  {
+    "word": "দেবতামূর্তিগুলির",
+    "frequency": 3802,
+    "source": "wikipedia"
+  },
+  {
+    "word": "২০",
+    "frequency": 3801,
+    "source": "wikipedia"
+  },
+  {
+    "word": "শতাংশেরই",
+    "frequency": 3800,
+    "source": "wikipedia"
+  },
+  {
+    "word": "করুণ",
+    "frequency": 3799,
+    "source": "wikipedia"
+  },
+  {
+    "word": "দশা",
+    "frequency": 3798,
+    "source": "wikipedia"
+  },
+  {
+    "word": "উপরে",
+    "frequency": 3797,
+    "source": "wikipedia"
+  },
+  {
+    "word": "শুরুর",
+    "frequency": 3796,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সংরক্ষণকারীদের",
+    "frequency": 3795,
+    "source": "wikipedia"
+  },
+  {
+    "word": "অনভিজ্ঞতার",
+    "frequency": 3794,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ফলেও",
+    "frequency": 3793,
+    "source": "wikipedia"
+  },
+  {
+    "word": "কার্যের",
+    "frequency": 3792,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ধ্সে",
+    "frequency": 3791,
+    "source": "wikipedia"
+  },
+  {
+    "word": "উপরের",
+    "frequency": 3790,
+    "source": "wikipedia"
+  },
+  {
+    "word": "২০০২",
+    "frequency": 3789,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সাল",
+    "frequency": 3788,
+    "source": "wikipedia"
+  },
+  {
+    "word": "থেকেই",
+    "frequency": 3787,
+    "source": "wikipedia"
+  },
+  {
+    "word": "খুঁটি",
+    "frequency": 3786,
+    "source": "wikipedia"
+  },
+  {
+    "word": "দিয়ে",
+    "frequency": 3785,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ঠেকিয়ে",
+    "frequency": 3784,
+    "source": "wikipedia"
+  },
+  {
+    "word": "রাখা",
+    "frequency": 3783,
+    "source": "wikipedia"
+  },
+  {
+    "word": "জাপানি",
+    "frequency": 3782,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বিশেষজ্ঞ্ররা",
+    "frequency": 3781,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পাঠাগার",
+    "frequency": 3780,
+    "source": "wikipedia"
+  },
+  {
+    "word": "২০০৪",
+    "frequency": 3779,
+    "source": "wikipedia"
+  },
+  {
+    "word": "কম্বোডিয়াতে",
+    "frequency": 3778,
+    "source": "wikipedia"
+  },
+  {
+    "word": "মোট",
+    "frequency": 3777,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পর্যটকের",
+    "frequency": 3776,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সংখ্যা",
+    "frequency": 3775,
+    "source": "wikipedia"
+  },
+  {
+    "word": "লাখের",
+    "frequency": 3774,
+    "source": "wikipedia"
+  },
+  {
+    "word": "অন্তত",
+    "frequency": 3773,
+    "source": "wikipedia"
+  },
+  {
+    "word": "৫৭",
+    "frequency": 3772,
+    "source": "wikipedia"
+  },
+  {
+    "word": "যাবার",
+    "frequency": 3771,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পর্যটকদের",
+    "frequency": 3770,
+    "source": "wikipedia"
+  },
+  {
+    "word": "আনাগোনার",
+    "frequency": 3769,
+    "source": "wikipedia"
+  },
+  {
+    "word": "অল্প",
+    "frequency": 3768,
+    "source": "wikipedia"
+  },
+  {
+    "word": "লিখন",
+    "frequency": 3767,
+    "source": "wikipedia"
+  },
+  {
+    "word": "এলাকার",
+    "frequency": 3766,
+    "source": "wikipedia"
+  },
+  {
+    "word": "কারুকার্যকে",
+    "frequency": 3765,
+    "source": "wikipedia"
+  },
+  {
+    "word": "যথাযথ",
+    "frequency": 3764,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ব্যবস্থা",
+    "frequency": 3763,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পর্যটনশিল্পে",
+    "frequency": 3762,
+    "source": "wikipedia"
+  },
+  {
+    "word": "লব্ধ",
+    "frequency": 3761,
+    "source": "wikipedia"
+  },
+  {
+    "word": "আয়ের",
+    "frequency": 3760,
+    "source": "wikipedia"
+  },
+  {
+    "word": "রক্ষণাবেক্ষণে",
+    "frequency": 3759,
+    "source": "wikipedia"
+  },
+  {
+    "word": "গ্রন্থপঞ্জি",
+    "frequency": 3758,
+    "source": "wikipedia"
+  },
+  {
+    "word": "৮৮",
+    "frequency": 3757,
+    "source": "wikipedia"
+  },
+  {
+    "word": "৫৪৪",
+    "frequency": 3756,
+    "source": "wikipedia"
+  },
+  {
+    "word": "০১১৭",
+    "frequency": 3755,
+    "source": "wikipedia"
+  },
+  {
+    "word": "৯৭৪",
+    "frequency": 3754,
+    "source": "wikipedia"
+  },
+  {
+    "word": "৮৪৩৪",
+    "frequency": 3753,
+    "source": "wikipedia"
+  },
+  {
+    "word": "৯৩",
+    "frequency": 3752,
+    "source": "wikipedia"
+  },
+  {
+    "word": "১১",
+    "frequency": 3751,
+    "source": "wikipedia"
+  },
+  {
+    "word": "০৩৩৫৮৪",
+    "frequency": 3750,
+    "source": "wikipedia"
+  },
+  {
+    "word": "এএসআইএন",
+    "frequency": 3749,
+    "source": "wikipedia"
+  },
+  {
+    "word": "৮৩৪৮",
+    "frequency": 3748,
+    "source": "wikipedia"
+  },
+  {
+    "word": "০৪২৬",
+    "frequency": 3747,
+    "source": "wikipedia"
+  },
+  {
+    "word": "৮৪২১২",
+    "frequency": 3746,
+    "source": "wikipedia"
+  },
+  {
+    "word": "৫৮৪",
+    "frequency": 3745,
+    "source": "wikipedia"
+  },
+  {
+    "word": "৫৮৮৮৬",
+    "frequency": 3744,
+    "source": "wikipedia"
+  },
+  {
+    "word": "০২৮",
+    "frequency": 3743,
+    "source": "wikipedia"
+  },
+  {
+    "word": "৭৩৩৯",
+    "frequency": 3742,
+    "source": "wikipedia"
+  },
+  {
+    "word": "৩০৫",
+    "frequency": 3741,
+    "source": "wikipedia"
+  },
+  {
+    "word": "০৯৬",
+    "frequency": 3740,
+    "source": "wikipedia"
+  },
+  {
+    "word": "৭৪০৫৯",
+    "frequency": 3739,
+    "source": "wikipedia"
+  },
+  {
+    "word": "১১১",
+    "frequency": 3738,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সম্পর্কিত",
+    "frequency": 3737,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ভৌগোলিক",
+    "frequency": 3736,
+    "source": "wikipedia"
+  },
+  {
+    "word": "উপাত্ত",
+    "frequency": 3735,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ওপেন",
+    "frequency": 3734,
+    "source": "wikipedia"
+  },
+  {
+    "word": "স্ট্রিট",
+    "frequency": 3733,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ম্যাপ",
+    "frequency": 3732,
+    "source": "wikipedia"
+  },
+  {
+    "word": "২০১৮",
+    "frequency": 3731,
+    "source": "wikipedia"
+  },
+  {
+    "word": "২০২২",
+    "frequency": 3730,
+    "source": "wikipedia"
+  },
+  {
+    "word": "জন্ম",
+    "frequency": 3729,
+    "source": "wikipedia"
+  },
+  {
+    "word": "১৯৫১",
+    "frequency": 3728,
+    "source": "wikipedia"
+  },
+  {
+    "word": "প্রাক্তন",
+    "frequency": 3727,
+    "source": "wikipedia"
+  },
+  {
+    "word": "যিনি",
+    "frequency": 3726,
+    "source": "wikipedia"
+  },
+  {
+    "word": "গোলরক্ষক",
+    "frequency": 3725,
+    "source": "wikipedia"
+  },
+  {
+    "word": "খেলতেন",
+    "frequency": 3724,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ক্যারিয়ার",
+    "frequency": 3723,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ক্লাবে",
+    "frequency": 3722,
+    "source": "wikipedia"
+  },
+  {
+    "word": "করিয়েছেন",
+    "frequency": 3721,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ক্লাডনোকে",
+    "frequency": 3720,
+    "source": "wikipedia"
+  },
+  {
+    "word": "প্রথমবারের",
+    "frequency": 3719,
+    "source": "wikipedia"
+  },
+  {
+    "word": "২০০৮",
+    "frequency": 3718,
+    "source": "wikipedia"
+  },
+  {
+    "word": "জেনিত",
+    "frequency": 3717,
+    "source": "wikipedia"
+  },
+  {
+    "word": "চাসলাভকে",
+    "frequency": 3716,
+    "source": "wikipedia"
+  },
+  {
+    "word": "লিগে",
+    "frequency": 3715,
+    "source": "wikipedia"
+  },
+  {
+    "word": "উন্নীত",
+    "frequency": 3714,
+    "source": "wikipedia"
+  },
+  {
+    "word": "প্রতিদ্বন্দ্বীদের",
+    "frequency": 3713,
+    "source": "wikipedia"
+  },
+  {
+    "word": "লাইসেন্স",
+    "frequency": 3712,
+    "source": "wikipedia"
+  },
+  {
+    "word": "করায়",
+    "frequency": 3711,
+    "source": "wikipedia"
+  },
+  {
+    "word": "লিগেই",
+    "frequency": 3710,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বানিক",
+    "frequency": 3709,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ওস্ট্রাভার",
+    "frequency": 3708,
+    "source": "wikipedia"
+  },
+  {
+    "word": "তৃতীয়",
+    "frequency": 3707,
+    "source": "wikipedia"
+  },
+  {
+    "word": "মৌসুমের",
+    "frequency": 3706,
+    "source": "wikipedia"
+  },
+  {
+    "word": "শুরুতে",
+    "frequency": 3705,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ফলাফলের",
+    "frequency": 3704,
+    "source": "wikipedia"
+  },
+  {
+    "word": "এমএফকে",
+    "frequency": 3703,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ম্লাদা",
+    "frequency": 3702,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বোলেস্লাভের",
+    "frequency": 3701,
+    "source": "wikipedia"
+  },
+  {
+    "word": "চতুর্থ",
+    "frequency": 3700,
+    "source": "wikipedia"
+  },
+  {
+    "word": "গিয়ে",
+    "frequency": 3699,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ইউরোপা",
+    "frequency": 3698,
+    "source": "wikipedia"
+  },
+  {
+    "word": "খেলার",
+    "frequency": 3697,
+    "source": "wikipedia"
+  },
+  {
+    "word": "টানা",
+    "frequency": 3696,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পরাজয়ের",
+    "frequency": 3695,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পদত্যাগ",
+    "frequency": 3694,
+    "source": "wikipedia"
+  },
+  {
+    "word": "স্লাভিয়া",
+    "frequency": 3693,
+    "source": "wikipedia"
+  },
+  {
+    "word": "প্রাগের",
+    "frequency": 3692,
+    "source": "wikipedia"
+  },
+  {
+    "word": "প্লজেনের",
+    "frequency": 3691,
+    "source": "wikipedia"
+  },
+  {
+    "word": "জুলাইয়ে",
+    "frequency": 3690,
+    "source": "wikipedia"
+  },
+  {
+    "word": "চ্যাম্পিয়নস",
+    "frequency": 3689,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বাছাইপর্ব",
+    "frequency": 3688,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বাদ",
+    "frequency": 3687,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পড়ার",
+    "frequency": 3686,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পারস্পরিক",
+    "frequency": 3685,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সম্মতিতে",
+    "frequency": 3684,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পদ",
+    "frequency": 3683,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ছাড়েন",
+    "frequency": 3682,
+    "source": "wikipedia"
+  },
+  {
+    "word": "২০১৬",
+    "frequency": 3681,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বোহেমিয়ানস",
+    "frequency": 3680,
+    "source": "wikipedia"
+  },
+  {
+    "word": "১৯০৫ের",
+    "frequency": 3679,
+    "source": "wikipedia"
+  },
+  {
+    "word": "২০২১",
+    "frequency": 3678,
+    "source": "wikipedia"
+  },
+  {
+    "word": "হ্রাদেক",
+    "frequency": 3677,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ক্রালোভের",
+    "frequency": 3676,
+    "source": "wikipedia"
+  },
+  {
+    "word": "২০২৩",
+    "frequency": 3675,
+    "source": "wikipedia"
+  },
+  {
+    "word": "প্লজেনে",
+    "frequency": 3674,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বছরের",
+    "frequency": 3673,
+    "source": "wikipedia"
+  },
+  {
+    "word": "স্বাক্ষর",
+    "frequency": 3672,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বয়স্ক",
+    "frequency": 3671,
+    "source": "wikipedia"
+  },
+  {
+    "word": "কোচদের",
+    "frequency": 3670,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ওঠেন",
+    "frequency": 3669,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ডিসেম্বর",
+    "frequency": 3668,
+    "source": "wikipedia"
+  },
+  {
+    "word": "মার্চে",
+    "frequency": 3667,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বিশ্বকাপ",
+    "frequency": 3666,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বাছাইপর্বের",
+    "frequency": 3665,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ইউরোপীয়",
+    "frequency": 3664,
+    "source": "wikipedia"
+  },
+  {
+    "word": "প্লে",
+    "frequency": 3663,
+    "source": "wikipedia"
+  },
+  {
+    "word": "অফে",
+    "frequency": 3662,
+    "source": "wikipedia"
+  },
+  {
+    "word": "দল",
+    "frequency": 3661,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ডেনমার্ক",
+    "frequency": 3660,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বিপক্ষে",
+    "frequency": 3659,
+    "source": "wikipedia"
+  },
+  {
+    "word": "টাই",
+    "frequency": 3658,
+    "source": "wikipedia"
+  },
+  {
+    "word": "জিতে",
+    "frequency": 3657,
+    "source": "wikipedia"
+  },
+  {
+    "word": "দলকে",
+    "frequency": 3656,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ফিফা",
+    "frequency": 3655,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বিশ্বকাপের",
+    "frequency": 3654,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পরিসংখ্যান",
+    "frequency": 3653,
+    "source": "wikipedia"
+  },
+  {
+    "word": "৩১",
+    "frequency": 3652,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সম্মাননা",
+    "frequency": 3651,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ক্লাডনো",
+    "frequency": 3650,
+    "source": "wikipedia"
+  },
+  {
+    "word": "০৬",
+    "frequency": 3649,
+    "source": "wikipedia"
+  },
+  {
+    "word": "লীগের",
+    "frequency": 3648,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বর্ষসেরা",
+    "frequency": 3647,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সিটি",
+    "frequency": 3646,
+    "source": "wikipedia"
+  },
+  {
+    "word": "অ্যান",
+    "frequency": 3645,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ইনভেশন",
+    "frequency": 3644,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ইউক্রেনীয়",
+    "frequency": 3643,
+    "source": "wikipedia"
+  },
+  {
+    "word": "কবি",
+    "frequency": 3642,
+    "source": "wikipedia"
+  },
+  {
+    "word": "অনুবাদক",
+    "frequency": 3641,
+    "source": "wikipedia"
+  },
+  {
+    "word": "মাক্সিমচুকের",
+    "frequency": 3640,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সংকলন",
+    "frequency": 3639,
+    "source": "wikipedia"
+  },
+  {
+    "word": "যুক্তরাজ্যে",
+    "frequency": 3638,
+    "source": "wikipedia"
+  },
+  {
+    "word": "কারকানেট",
+    "frequency": 3637,
+    "source": "wikipedia"
+  },
+  {
+    "word": "নভেম্বরে",
+    "frequency": 3636,
+    "source": "wikipedia"
+  },
+  {
+    "word": "প্রকাশিত",
+    "frequency": 3635,
+    "source": "wikipedia"
+  },
+  {
+    "word": "প্রতিক্রিয়া",
+    "frequency": 3634,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ক্লিভল্যান্ড",
+    "frequency": 3633,
+    "source": "wikipedia"
+  },
+  {
+    "word": "রিভিউ",
+    "frequency": 3632,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বুকসে",
+    "frequency": 3631,
+    "source": "wikipedia"
+  },
+  {
+    "word": "চ্যান",
+    "frequency": 3630,
+    "source": "wikipedia"
+  },
+  {
+    "word": "শ্মিত",
+    "frequency": 3629,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সিটিকে",
+    "frequency": 3628,
+    "source": "wikipedia"
+  },
+  {
+    "word": "অভিজ্ঞতা",
+    "frequency": 3627,
+    "source": "wikipedia"
+  },
+  {
+    "word": "আকার",
+    "frequency": 3626,
+    "source": "wikipedia"
+  },
+  {
+    "word": "নেওয়া",
+    "frequency": 3625,
+    "source": "wikipedia"
+  },
+  {
+    "word": "শিল্পকর্ম",
+    "frequency": 3624,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সংকলনটির",
+    "frequency": 3623,
+    "source": "wikipedia"
+  },
+  {
+    "word": "কাঠামো",
+    "frequency": 3622,
+    "source": "wikipedia"
+  },
+  {
+    "word": "প্রত্যক্ষকরণ",
+    "frequency": 3621,
+    "source": "wikipedia"
+  },
+  {
+    "word": "নথিবদ্ধকরণের",
+    "frequency": 3620,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পদ্ধতির",
+    "frequency": 3619,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ব্যবচ্ছেদ",
+    "frequency": 3618,
+    "source": "wikipedia"
+  },
+  {
+    "word": "দ্য",
+    "frequency": 3617,
+    "source": "wikipedia"
+  },
+  {
+    "word": "গার্ডিয়ানের",
+    "frequency": 3616,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সংকলনে",
+    "frequency": 3615,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ফিলিপ",
+    "frequency": 3614,
+    "source": "wikipedia"
+  },
+  {
+    "word": "টেরি",
+    "frequency": 3613,
+    "source": "wikipedia"
+  },
+  {
+    "word": "এটিকে",
+    "frequency": 3612,
+    "source": "wikipedia"
+  },
+  {
+    "word": "আগ্রাসনের",
+    "frequency": 3611,
+    "source": "wikipedia"
+  },
+  {
+    "word": "কাব্যিক",
+    "frequency": 3610,
+    "source": "wikipedia"
+  },
+  {
+    "word": "অভিহিত",
+    "frequency": 3609,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বাহুল্যবর্জিত",
+    "frequency": 3608,
+    "source": "wikipedia"
+  },
+  {
+    "word": "যুদ্ধকালীন",
+    "frequency": 3607,
+    "source": "wikipedia"
+  },
+  {
+    "word": "দৈনন্দিন",
+    "frequency": 3606,
+    "source": "wikipedia"
+  },
+  {
+    "word": "জীবনের",
+    "frequency": 3605,
+    "source": "wikipedia"
+  },
+  {
+    "word": "খুঁটিনাটি",
+    "frequency": 3604,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বিষয়ের",
+    "frequency": 3603,
+    "source": "wikipedia"
+  },
+  {
+    "word": "মনোযোগের",
+    "frequency": 3602,
+    "source": "wikipedia"
+  },
+  {
+    "word": "প্রশংসা",
+    "frequency": 3601,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পোয়েট্রি",
+    "frequency": 3600,
+    "source": "wikipedia"
+  },
+  {
+    "word": "নর্থওয়েস্টের",
+    "frequency": 3599,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সাক্ষাৎকারে",
+    "frequency": 3598,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ইংরেজিতে",
+    "frequency": 3597,
+    "source": "wikipedia"
+  },
+  {
+    "word": "প্রভাবের",
+    "frequency": 3596,
+    "source": "wikipedia"
+  },
+  {
+    "word": "দলিল",
+    "frequency": 3595,
+    "source": "wikipedia"
+  },
+  {
+    "word": "কবিতাগুলোকে",
+    "frequency": 3594,
+    "source": "wikipedia"
+  },
+  {
+    "word": "তুলে",
+    "frequency": 3593,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ধরার",
+    "frequency": 3592,
+    "source": "wikipedia"
+  },
+  {
+    "word": "গ্রিফিন",
+    "frequency": 3591,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পেন",
+    "frequency": 3590,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ভোলকার",
+    "frequency": 3589,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পুরস্কারের",
+    "frequency": 3588,
+    "source": "wikipedia"
+  },
+  {
+    "word": "তালিকাভুক্ত",
+    "frequency": 3587,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সারসংক্ষেপ",
+    "frequency": 3586,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সংকলনটিকে",
+    "frequency": 3585,
+    "source": "wikipedia"
+  },
+  {
+    "word": "গীতিকবিতা",
+    "frequency": 3584,
+    "source": "wikipedia"
+  },
+  {
+    "word": "তথ্যচিত্রের",
+    "frequency": 3583,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সৈকতের",
+    "frequency": 3582,
+    "source": "wikipedia"
+  },
+  {
+    "word": "আনাগোনা",
+    "frequency": 3581,
+    "source": "wikipedia"
+  },
+  {
+    "word": "কর্ম",
+    "frequency": 3580,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সংকলনটিতে",
+    "frequency": 3579,
+    "source": "wikipedia"
+  },
+  {
+    "word": "উৎস",
+    "frequency": 3578,
+    "source": "wikipedia"
+  },
+  {
+    "word": "উপাদান",
+    "frequency": 3577,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সংগ্রহ",
+    "frequency": 3576,
+    "source": "wikipedia"
+  },
+  {
+    "word": "যোগাযোগ",
+    "frequency": 3575,
+    "source": "wikipedia"
+  },
+  {
+    "word": "মাধ্যমের",
+    "frequency": 3574,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পোস্ট",
+    "frequency": 3573,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সংবাদ",
+    "frequency": 3572,
+    "source": "wikipedia"
+  },
+  {
+    "word": "প্রতিবেদন",
+    "frequency": 3571,
+    "source": "wikipedia"
+  },
+  {
+    "word": "প্রত্যক্ষদর্শীর",
+    "frequency": 3570,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বিবরণ",
+    "frequency": 3569,
+    "source": "wikipedia"
+  },
+  {
+    "word": "রেকর্ডকৃত",
+    "frequency": 3568,
+    "source": "wikipedia"
+  },
+  {
+    "word": "মৌখিক",
+    "frequency": 3567,
+    "source": "wikipedia"
+  },
+  {
+    "word": "আলোকচিত্র",
+    "frequency": 3566,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ড্রোন",
+    "frequency": 3565,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ফুটেজ",
+    "frequency": 3564,
+    "source": "wikipedia"
+  },
+  {
+    "word": "আড়ি",
+    "frequency": 3563,
+    "source": "wikipedia"
+  },
+  {
+    "word": "শোনা",
+    "frequency": 3562,
+    "source": "wikipedia"
+  },
+  {
+    "word": "কথোপকথন",
+    "frequency": 3561,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সরকারি",
+    "frequency": 3560,
+    "source": "wikipedia"
+  },
+  {
+    "word": "নথিপত্র",
+    "frequency": 3559,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বইটির",
+    "frequency": 3558,
+    "source": "wikipedia"
+  },
+  {
+    "word": "লেখিকা",
+    "frequency": 3557,
+    "source": "wikipedia"
+  },
+  {
+    "word": "আন্ডারওয়্যার",
+    "frequency": 3556,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ছাড়াই",
+    "frequency": 3555,
+    "source": "wikipedia"
+  },
+  {
+    "word": "হালকা",
+    "frequency": 3554,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ওজনের",
+    "frequency": 3553,
+    "source": "wikipedia"
+  },
+  {
+    "word": "আরামের",
+    "frequency": 3552,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ব্র্যালেটগুলি",
+    "frequency": 3551,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পোশাকের",
+    "frequency": 3550,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পরা",
+    "frequency": 3549,
+    "source": "wikipedia"
+  },
+  {
+    "word": "স্তন",
+    "frequency": 3548,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বিকাশকারী",
+    "frequency": 3547,
+    "source": "wikipedia"
+  },
+  {
+    "word": "মেয়েদের",
+    "frequency": 3546,
+    "source": "wikipedia"
+  },
+  {
+    "word": "গেঞ্জি",
+    "frequency": 3545,
+    "source": "wikipedia"
+  },
+  {
+    "word": "দশকে",
+    "frequency": 3544,
+    "source": "wikipedia"
+  },
+  {
+    "word": "২০২০",
+    "frequency": 3543,
+    "source": "wikipedia"
+  },
+  {
+    "word": "দশকের",
+    "frequency": 3542,
+    "source": "wikipedia"
+  },
+  {
+    "word": "গোড়ার",
+    "frequency": 3541,
+    "source": "wikipedia"
+  },
+  {
+    "word": "আন্ডারওয়্যারড",
+    "frequency": 3540,
+    "source": "wikipedia"
+  },
+  {
+    "word": "প্যাডেড",
+    "frequency": 3539,
+    "source": "wikipedia"
+  },
+  {
+    "word": "খরচে",
+    "frequency": 3538,
+    "source": "wikipedia"
+  },
+  {
+    "word": "নরম",
+    "frequency": 3537,
+    "source": "wikipedia"
+  },
+  {
+    "word": "মার্কা",
+    "frequency": 3536,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ভিক্টোরিয়াস",
+    "frequency": 3535,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সিক্রেট",
+    "frequency": 3534,
+    "source": "wikipedia"
+  },
+  {
+    "word": "প্রবণতা",
+    "frequency": 3533,
+    "source": "wikipedia"
+  },
+  {
+    "word": "অনুসরণ",
+    "frequency": 3532,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সামঞ্জস্য",
+    "frequency": 3531,
+    "source": "wikipedia"
+  },
+  {
+    "word": "রাখতে",
+    "frequency": 3530,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ব্যর্থ",
+    "frequency": 3529,
+    "source": "wikipedia"
+  },
+  {
+    "word": "উল্লেখযোগ্যভাবে",
+    "frequency": 3528,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ক্লিভেজ",
+    "frequency": 3527,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বর্ধক",
+    "frequency": 3526,
+    "source": "wikipedia"
+  },
+  {
+    "word": "৪৫",
+    "frequency": 3525,
+    "source": "wikipedia"
+  },
+  {
+    "word": "মার্কস",
+    "frequency": 3524,
+    "source": "wikipedia"
+  },
+  {
+    "word": "অ্যান্ড",
+    "frequency": 3523,
+    "source": "wikipedia"
+  },
+  {
+    "word": "স্পেন্সার",
+    "frequency": 3522,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ওয়্যারলেস",
+    "frequency": 3521,
+    "source": "wikipedia"
+  },
+  {
+    "word": "৪০",
+    "frequency": 3520,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বাড়ে",
+    "frequency": 3519,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ব্র্যালেটের",
+    "frequency": 3518,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ক্রমবর্ধমান",
+    "frequency": 3517,
+    "source": "wikipedia"
+  },
+  {
+    "word": "জনপ্রিয়তাকে",
+    "frequency": 3516,
+    "source": "wikipedia"
+  },
+  {
+    "word": "অ্যাথলেটিক",
+    "frequency": 3515,
+    "source": "wikipedia"
+  },
+  {
+    "word": "শরীর",
+    "frequency": 3514,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সুস্থতার",
+    "frequency": 3513,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ফোকাসকে",
+    "frequency": 3512,
+    "source": "wikipedia"
+  },
+  {
+    "word": "দায়ী",
+    "frequency": 3511,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পুরুষের",
+    "frequency": 3510,
+    "source": "wikipedia"
+  },
+  {
+    "word": "দৃষ্টিভঙ্গির",
+    "frequency": 3509,
+    "source": "wikipedia"
+  },
+  {
+    "word": "অন্যরা",
+    "frequency": 3508,
+    "source": "wikipedia"
+  },
+  {
+    "word": "মি",
+    "frequency": 3507,
+    "source": "wikipedia"
+  },
+  {
+    "word": "টু",
+    "frequency": 3506,
+    "source": "wikipedia"
+  },
+  {
+    "word": "আন্দোলনের",
+    "frequency": 3505,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সংযোগের",
+    "frequency": 3504,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বলেছেন",
+    "frequency": 3503,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বাড়ীতে",
+    "frequency": 3502,
+    "source": "wikipedia"
+  },
+  {
+    "word": "স্বাচ্ছন্দ্যের",
+    "frequency": 3501,
+    "source": "wikipedia"
+  },
+  {
+    "word": "মনোযোগ",
+    "frequency": 3500,
+    "source": "wikipedia"
+  },
+  {
+    "word": "দেওয়ার",
+    "frequency": 3499,
+    "source": "wikipedia"
+  },
+  {
+    "word": "কোভিড",
+    "frequency": 3498,
+    "source": "wikipedia"
+  },
+  {
+    "word": "লকডাউনের",
+    "frequency": 3497,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ব্র্যালেটগুলিও",
+    "frequency": 3496,
+    "source": "wikipedia"
+  },
+  {
+    "word": "জনপ্রিয়",
+    "frequency": 3495,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ওঠে",
+    "frequency": 3494,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বুস্টিয়ার",
+    "frequency": 3493,
+    "source": "wikipedia"
+  },
+  {
+    "word": "চোলি",
+    "frequency": 3492,
+    "source": "wikipedia"
+  },
+  {
+    "word": "কাঁচুলি",
+    "frequency": 3491,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বক্ষবন্ধনী",
+    "frequency": 3490,
+    "source": "wikipedia"
+  },
+  {
+    "word": "তালিকা",
+    "frequency": 3489,
+    "source": "wikipedia"
+  },
+  {
+    "word": "হাতাকাটা",
+    "frequency": 3488,
+    "source": "wikipedia"
+  },
+  {
+    "word": "শার্ট",
+    "frequency": 3487,
+    "source": "wikipedia"
+  },
+  {
+    "word": "প্রচারাভিযানের",
+    "frequency": 3486,
+    "source": "wikipedia"
+  },
+  {
+    "word": "গ্যারান্টি",
+    "frequency": 3485,
+    "source": "wikipedia"
+  },
+  {
+    "word": "প্রার্থী",
+    "frequency": 3484,
+    "source": "wikipedia"
+  },
+  {
+    "word": "জনসাধারণের",
+    "frequency": 3483,
+    "source": "wikipedia"
+  },
+  {
+    "word": "নির্বাচনে",
+    "frequency": 3482,
+    "source": "wikipedia"
+  },
+  {
+    "word": "জয়ী",
+    "frequency": 3481,
+    "source": "wikipedia"
+  },
+  {
+    "word": "চেষ্টা",
+    "frequency": 3480,
+    "source": "wikipedia"
+  },
+  {
+    "word": "জুড়ে",
+    "frequency": 3479,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সম্ভাবনা",
+    "frequency": 3478,
+    "source": "wikipedia"
+  },
+  {
+    "word": "অবস্থানগুলি",
+    "frequency": 3477,
+    "source": "wikipedia"
+  },
+  {
+    "word": "নীতিগুলি",
+    "frequency": 3476,
+    "source": "wikipedia"
+  },
+  {
+    "word": "প্রণয়ন",
+    "frequency": 3475,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ইশতেহারে",
+    "frequency": 3474,
+    "source": "wikipedia"
+  },
+  {
+    "word": "গত",
+    "frequency": 3473,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সারিবদ্ধভাবে",
+    "frequency": 3472,
+    "source": "wikipedia"
+  },
+  {
+    "word": "জার্নাল",
+    "frequency": 3471,
+    "source": "wikipedia"
+  },
+  {
+    "word": "অফ",
+    "frequency": 3470,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পলিটিক্যাল",
+    "frequency": 3469,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সায়েন্সে",
+    "frequency": 3468,
+    "source": "wikipedia"
+  },
+  {
+    "word": "১২টি",
+    "frequency": 3467,
+    "source": "wikipedia"
+  },
+  {
+    "word": "দেশে",
+    "frequency": 3466,
+    "source": "wikipedia"
+  },
+  {
+    "word": "অস্ট্রিয়া",
+    "frequency": 3465,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বুলগেরিয়া",
+    "frequency": 3464,
+    "source": "wikipedia"
+  },
+  {
+    "word": "কানাডা",
+    "frequency": 3463,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ইতালি",
+    "frequency": 3462,
+    "source": "wikipedia"
+  },
+  {
+    "word": "নেদারল্যান্ডস",
+    "frequency": 3461,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পর্তুগাল",
+    "frequency": 3460,
+    "source": "wikipedia"
+  },
+  {
+    "word": "স্পেন",
+    "frequency": 3459,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সুইডেন",
+    "frequency": 3458,
+    "source": "wikipedia"
+  },
+  {
+    "word": "যুক্তরাজ্য",
+    "frequency": 3457,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ভোটারদের",
+    "frequency": 3456,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পরিমাণে",
+    "frequency": 3455,
+    "source": "wikipedia"
+  },
+  {
+    "word": "যুক্তরাষ্ট্রের",
+    "frequency": 3454,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সঙ্গতি",
+    "frequency": 3453,
+    "source": "wikipedia"
+  },
+  {
+    "word": "রেখে",
+    "frequency": 3452,
+    "source": "wikipedia"
+  },
+  {
+    "word": "শাসিতদের",
+    "frequency": 3451,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সম্মতি",
+    "frequency": 3450,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ঘোষণাপত্র",
+    "frequency": 3449,
+    "source": "wikipedia"
+  },
+  {
+    "word": "আজগাইবিবি",
+    "frequency": 3448,
+    "source": "wikipedia"
+  },
+  {
+    "word": "হলেন",
+    "frequency": 3447,
+    "source": "wikipedia"
+  },
+  {
+    "word": "লৌকিক",
+    "frequency": 3446,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বিতর্ক",
+    "frequency": 3445,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ধর্মগ্রন্থে",
+    "frequency": 3444,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বিধি",
+    "frequency": 3443,
+    "source": "wikipedia"
+  },
+  {
+    "word": "এগুলো",
+    "frequency": 3442,
+    "source": "wikipedia"
+  },
+  {
+    "word": "রোগ",
+    "frequency": 3441,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ভীত",
+    "frequency": 3440,
+    "source": "wikipedia"
+  },
+  {
+    "word": "এসব",
+    "frequency": 3439,
+    "source": "wikipedia"
+  },
+  {
+    "word": "করতো",
+    "frequency": 3438,
+    "source": "wikipedia"
+  },
+  {
+    "word": "শুধু",
+    "frequency": 3437,
+    "source": "wikipedia"
+  },
+  {
+    "word": "হিন্দুই",
+    "frequency": 3436,
+    "source": "wikipedia"
+  },
+  {
+    "word": "নয়",
+    "frequency": 3435,
+    "source": "wikipedia"
+  },
+  {
+    "word": "প্রবণ",
+    "frequency": 3434,
+    "source": "wikipedia"
+  },
+  {
+    "word": "এলকার",
+    "frequency": 3433,
+    "source": "wikipedia"
+  },
+  {
+    "word": "মুসলিমরাও",
+    "frequency": 3432,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বাংলায়",
+    "frequency": 3431,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ছয়",
+    "frequency": 3430,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ওলাবিবি",
+    "frequency": 3429,
+    "source": "wikipedia"
+  },
+  {
+    "word": "কলেরার",
+    "frequency": 3428,
+    "source": "wikipedia"
+  },
+  {
+    "word": "চাঁদবিবি",
+    "frequency": 3427,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ঝোলাইবিবি",
+    "frequency": 3426,
+    "source": "wikipedia"
+  },
+  {
+    "word": "আসানবিবির",
+    "frequency": 3425,
+    "source": "wikipedia"
+  },
+  {
+    "word": "গবেষকের",
+    "frequency": 3424,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সাতবিবি",
+    "frequency": 3423,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সপ্তমাতৃকার",
+    "frequency": 3422,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ব্রাহ্মী",
+    "frequency": 3421,
+    "source": "wikipedia"
+  },
+  {
+    "word": "মাহেশ্বরী",
+    "frequency": 3420,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বৈষ্ণবী",
+    "frequency": 3419,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বারাহী",
+    "frequency": 3418,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ইন্দ্রাণী",
+    "frequency": 3417,
+    "source": "wikipedia"
+  },
+  {
+    "word": "রূপান্তর",
+    "frequency": 3416,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সপ্তমাতৃকা",
+    "frequency": 3415,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সাতবিবির",
+    "frequency": 3414,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সাদৃশ্য",
+    "frequency": 3413,
+    "source": "wikipedia"
+  },
+  {
+    "word": "বললেই",
+    "frequency": 3412,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ভারতে",
+    "frequency": 3411,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সুপ্রাচীন",
+    "frequency": 3410,
+    "source": "wikipedia"
+  },
+  {
+    "word": "কাল",
+    "frequency": 3409,
+    "source": "wikipedia"
+  },
+  {
+    "word": "অধুনা",
+    "frequency": 3408,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পাকিস্তানের",
+    "frequency": 3407,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সিন্ধুপ্রদেশের",
+    "frequency": 3406,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সিন্ধু",
+    "frequency": 3405,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সভ্যতার",
+    "frequency": 3404,
+    "source": "wikipedia"
+  },
+  {
+    "word": "মহেঞ্জোদাড়ো",
+    "frequency": 3403,
+    "source": "wikipedia"
+  },
+  {
+    "word": "টেরাকোটা",
+    "frequency": 3402,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সাতজন",
+    "frequency": 3401,
+    "source": "wikipedia"
+  },
+  {
+    "word": "নারীকে",
+    "frequency": 3400,
+    "source": "wikipedia"
+  },
+  {
+    "word": "একসঙ্গে",
+    "frequency": 3399,
+    "source": "wikipedia"
+  },
+  {
+    "word": "দণ্ডায়মান",
+    "frequency": 3398,
+    "source": "wikipedia"
+  },
+  {
+    "word": "অবস্থায়",
+    "frequency": 3397,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পাদটীকা",
+    "frequency": 3396,
+    "source": "wikipedia"
+  },
+  {
+    "word": "শুধুমাত্র",
+    "frequency": 3395,
+    "source": "wikipedia"
+  },
+  {
+    "word": "উচ্চারণ",
+    "frequency": 3394,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ক্রাকুফ",
+    "frequency": 3393,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ভিত্তিক",
+    "frequency": 3392,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ক্লাব",
+    "frequency": 3391,
+    "source": "wikipedia"
+  },
+  {
+    "word": "পোল্যান্ডের",
+    "frequency": 3390,
+    "source": "wikipedia"
+  },
+  {
+    "word": "একস্ত্রাকলাসায়",
+    "frequency": 3389,
+    "source": "wikipedia"
+  },
+  {
+    "word": "১৯০৬",
+    "frequency": 3388,
+    "source": "wikipedia"
+  },
+  {
+    "word": "১৩ই",
+    "frequency": 3387,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সকল",
+    "frequency": 3386,
+    "source": "wikipedia"
+  },
+  {
+    "word": "হোম",
+    "frequency": 3385,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ম্যাচ",
+    "frequency": 3384,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ক্রাকুফের",
+    "frequency": 3383,
+    "source": "wikipedia"
+  },
+  {
+    "word": "স্তাদিওন",
+    "frequency": 3382,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ক্রাকোভিতে",
+    "frequency": 3381,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ধারণক্ষমতা",
+    "frequency": 3380,
+    "source": "wikipedia"
+  },
+  {
+    "word": "০১৬",
+    "frequency": 3379,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ম্যানেজারের",
+    "frequency": 3378,
+    "source": "wikipedia"
+  },
+  {
+    "word": "মিখাউ",
+    "frequency": 3377,
+    "source": "wikipedia"
+  },
+  {
+    "word": "প্রোবিয়েজ",
+    "frequency": 3376,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সভাপতির",
+    "frequency": 3375,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ফিলিপিয়াক",
+    "frequency": 3374,
+    "source": "wikipedia"
+  },
+  {
+    "word": "মধ্যমাঠের",
+    "frequency": 3373,
+    "source": "wikipedia"
+  },
+  {
+    "word": "গোল",
+    "frequency": 3372,
+    "source": "wikipedia"
+  },
+  {
+    "word": "অধিনায়কের",
+    "frequency": 3371,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ঘরোয়া",
+    "frequency": 3370,
+    "source": "wikipedia"
+  },
+  {
+    "word": "এপর্যন্ত",
+    "frequency": 3369,
+    "source": "wikipedia"
+  },
+  {
+    "word": "জয়লাভ",
+    "frequency": 3368,
+    "source": "wikipedia"
+  },
+  {
+    "word": "সবগুলো",
+    "frequency": 3367,
+    "source": "wikipedia"
+  },
+  {
+    "word": "চ্যাম্পিয়ন",
+    "frequency": 3366,
+    "source": "wikipedia"
+  },
+  {
+    "word": "১৯২১",
+    "frequency": 3365,
+    "source": "wikipedia"
+  },
+  {
+    "word": "১৯৩০",
+    "frequency": 3364,
+    "source": "wikipedia"
+  },
+  {
+    "word": "১৯৩২",
+    "frequency": 3363,
+    "source": "wikipedia"
+  },
+  {
+    "word": "১৯৩৭",
+    "frequency": 3362,
+    "source": "wikipedia"
+  },
+  {
+    "word": "১৯৪৮",
+    "frequency": 3361,
+    "source": "wikipedia"
+  },
+  {
+    "word": "রানার",
+    "frequency": 3360,
+    "source": "wikipedia"
+  },
+  {
+    "word": "আপ",
+    "frequency": 3359,
+    "source": "wikipedia"
+  },
+  {
+    "word": "১৯৩৪",
+    "frequency": 3358,
+    "source": "wikipedia"
+  },
+  {
+    "word": "১৯৪৯",
+    "frequency": 3357,
+    "source": "wikipedia"
+  },
+  {
+    "word": "দাপ্তরিক",
+    "frequency": 3356,
+    "source": "wikipedia"
+  },
+  {
+    "word": "অপ্রাতিষ্ঠানিক",
+    "frequency": 3355,
+    "source": "wikipedia"
+  },
+  {
+    "word": "উইকিপাসিতে",
+    "frequency": 3354,
+    "source": "wikipedia"
+  },
+  {
+    "word": "ইংরেজি",
+    "frequency": 3353,
+    "source": "wikipedia"
+  },
+  {
+    "word": "হঠাৎ",
+    "frequency": 4000,
+    "source": "core"
+  },
+  {
+    "word": "মহৎ",
+    "frequency": 4000,
+    "source": "core"
+  },
+  {
+    "word": "বৃহৎ",
+    "frequency": 4000,
+    "source": "core"
+  },
+  {
+    "word": "শরৎ",
+    "frequency": 4000,
+    "source": "core"
+  },
+  {
+    "word": "জগৎ",
+    "frequency": 4000,
+    "source": "core"
+  },
+  {
+    "word": "উৎসব",
+    "frequency": 4000,
+    "source": "core"
+  },
+  {
+    "word": "ভবিষ্যৎ",
+    "frequency": 4000,
+    "source": "core"
+  },
+  {
+    "word": "বিদ্যুৎ",
+    "frequency": 4000,
+    "source": "core"
+  },
+  {
+    "word": "চিৎকার",
+    "frequency": 4000,
+    "source": "core"
+  },
+  {
+    "word": "উৎপাদন",
+    "frequency": 4000,
+    "source": "core"
+  }
+]

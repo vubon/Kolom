@@ -1,0 +1,4452 @@
+[
+  {
+    "word": "সিটি",
+    "frequency": 5000,
+    "source": "core"
+  },
+  {
+    "word": "ম্যানচেস্টার",
+    "frequency": 4999,
+    "source": "core"
+  },
+  {
+    "word": "এবং",
+    "frequency": 4998,
+    "source": "core"
+  },
+  {
+    "word": "তারা",
+    "frequency": 4997,
+    "source": "core"
+  },
+  {
+    "word": "লিগ",
+    "frequency": 4996,
+    "source": "core"
+  },
+  {
+    "word": "করে",
+    "frequency": 4995,
+    "source": "core"
+  },
+  {
+    "word": "হয়",
+    "frequency": 4994,
+    "source": "core"
+  },
+  {
+    "word": "সালে",
+    "frequency": 4993,
+    "source": "core"
+  },
+  {
+    "word": "শিরোপা",
+    "frequency": 4992,
+    "source": "core"
+  },
+  {
+    "word": "কাপ",
+    "frequency": 4991,
+    "source": "core"
+  },
+  {
+    "word": "প্রথম",
+    "frequency": 4990,
+    "source": "core"
+  },
+  {
+    "word": "মৌসুমে",
+    "frequency": 4989,
+    "source": "core"
+  },
+  {
+    "word": "তাদের",
+    "frequency": 4988,
+    "source": "core"
+  },
+  {
+    "word": "সালের",
+    "frequency": 4987,
+    "source": "core"
+  },
+  {
+    "word": "ক্লাব",
+    "frequency": 4986,
+    "source": "core"
+  },
+  {
+    "word": "লিগের",
+    "frequency": 4985,
+    "source": "core"
+  },
+  {
+    "word": "এফএ",
+    "frequency": 4984,
+    "source": "core"
+  },
+  {
+    "word": "ফুটবল",
+    "frequency": 4983,
+    "source": "core"
+  },
+  {
+    "word": "এই",
+    "frequency": 4982,
+    "source": "core"
+  },
+  {
+    "word": "সিটির",
+    "frequency": 4981,
+    "source": "core"
+  },
+  {
+    "word": "শেষ",
+    "frequency": 4980,
+    "source": "core"
+  },
+  {
+    "word": "সর্বোচ্চ",
+    "frequency": 4979,
+    "source": "core"
+  },
+  {
+    "word": "বিভাগে",
+    "frequency": 4978,
+    "source": "core"
+  },
+  {
+    "word": "খেলায়",
+    "frequency": 4977,
+    "source": "core"
+  },
+  {
+    "word": "পর",
+    "frequency": 4976,
+    "source": "core"
+  },
+  {
+    "word": "দল",
+    "frequency": 4975,
+    "source": "core"
+  },
+  {
+    "word": "যা",
+    "frequency": 4974,
+    "source": "core"
+  },
+  {
+    "word": "প্রিমিয়ার",
+    "frequency": 4973,
+    "source": "core"
+  },
+  {
+    "word": "দ্বিতীয়",
+    "frequency": 4972,
+    "source": "core"
+  },
+  {
+    "word": "এর",
+    "frequency": 4971,
+    "source": "core"
+  },
+  {
+    "word": "জিতে",
+    "frequency": 4970,
+    "source": "core"
+  },
+  {
+    "word": "খেলোয়াড়দের",
+    "frequency": 4969,
+    "source": "core"
+  },
+  {
+    "word": "একটি",
+    "frequency": 4968,
+    "source": "core"
+  },
+  {
+    "word": "ক্লাবের",
+    "frequency": 4967,
+    "source": "core"
+  },
+  {
+    "word": "মধ্যে",
+    "frequency": 4966,
+    "source": "core"
+  },
+  {
+    "word": "হিসেবে",
+    "frequency": 4965,
+    "source": "core"
+  },
+  {
+    "word": "করা",
+    "frequency": 4964,
+    "source": "core"
+  },
+  {
+    "word": "বিপক্ষে",
+    "frequency": 4963,
+    "source": "core"
+  },
+  {
+    "word": "রেকর্ড",
+    "frequency": 4962,
+    "source": "core"
+  },
+  {
+    "word": "মত",
+    "frequency": 4961,
+    "source": "core"
+  },
+  {
+    "word": "থেকে",
+    "frequency": 4960,
+    "source": "core"
+  },
+  {
+    "word": "ছিল",
+    "frequency": 4959,
+    "source": "core"
+  },
+  {
+    "word": "বনাম",
+    "frequency": 4958,
+    "source": "core"
+  },
+  {
+    "word": "গোলে",
+    "frequency": 4957,
+    "source": "core"
+  },
+  {
+    "word": "নতুন",
+    "frequency": 4956,
+    "source": "core"
+  },
+  {
+    "word": "অবনমন",
+    "frequency": 4955,
+    "source": "core"
+  },
+  {
+    "word": "ঘটে",
+    "frequency": 4954,
+    "source": "core"
+  },
+  {
+    "word": "অধীনে",
+    "frequency": 4953,
+    "source": "core"
+  },
+  {
+    "word": "তবে",
+    "frequency": 4952,
+    "source": "core"
+  },
+  {
+    "word": "ইংরেজ",
+    "frequency": 4951,
+    "source": "core"
+  },
+  {
+    "word": "কোন",
+    "frequency": 4950,
+    "source": "core"
+  },
+  {
+    "word": "ইউনাইটেডের",
+    "frequency": 4949,
+    "source": "core"
+  },
+  {
+    "word": "জন্য",
+    "frequency": 4948,
+    "source": "core"
+  },
+  {
+    "word": "ক্লাবটি",
+    "frequency": 4947,
+    "source": "core"
+  },
+  {
+    "word": "হয়েছে",
+    "frequency": 4946,
+    "source": "core"
+  },
+  {
+    "word": "২৩",
+    "frequency": 4945,
+    "source": "core"
+  },
+  {
+    "word": "আসে",
+    "frequency": 4944,
+    "source": "core"
+  },
+  {
+    "word": "কাপের",
+    "frequency": 4943,
+    "source": "core"
+  },
+  {
+    "word": "ফাইনালে",
+    "frequency": 4942,
+    "source": "core"
+  },
+  {
+    "word": "পৌছায়",
+    "frequency": 4941,
+    "source": "core"
+  },
+  {
+    "word": "ক্লাবটির",
+    "frequency": 4940,
+    "source": "core"
+  },
+  {
+    "word": "ম্যানেজার",
+    "frequency": 4939,
+    "source": "core"
+  },
+  {
+    "word": "জাতীয়",
+    "frequency": 4938,
+    "source": "core"
+  },
+  {
+    "word": "থাকতে",
+    "frequency": 4937,
+    "source": "core"
+  },
+  {
+    "word": "লিগে",
+    "frequency": 4936,
+    "source": "core"
+  },
+  {
+    "word": "খেলোয়াড়",
+    "frequency": 4935,
+    "source": "core"
+  },
+  {
+    "word": "বর্তমান",
+    "frequency": 4934,
+    "source": "core"
+  },
+  {
+    "word": "উয়েফা",
+    "frequency": 4933,
+    "source": "core"
+  },
+  {
+    "word": "মাধ্যমে",
+    "frequency": 4932,
+    "source": "core"
+  },
+  {
+    "word": "পরাজিত",
+    "frequency": 4931,
+    "source": "core"
+  },
+  {
+    "word": "জন",
+    "frequency": 4930,
+    "source": "core"
+  },
+  {
+    "word": "দলের",
+    "frequency": 4929,
+    "source": "core"
+  },
+  {
+    "word": "নির্ধারিত",
+    "frequency": 4928,
+    "source": "core"
+  },
+  {
+    "word": "এক",
+    "frequency": 4927,
+    "source": "core"
+  },
+  {
+    "word": "করেন",
+    "frequency": 4926,
+    "source": "core"
+  },
+  {
+    "word": "২০১১",
+    "frequency": 4925,
+    "source": "core"
+  },
+  {
+    "word": "পারে",
+    "frequency": 4924,
+    "source": "core"
+  },
+  {
+    "word": "ফিফা",
+    "frequency": 4923,
+    "source": "core"
+  },
+  {
+    "word": "২০১৪",
+    "frequency": 4922,
+    "source": "core"
+  },
+  {
+    "word": "দায়িত্ব",
+    "frequency": 4921,
+    "source": "core"
+  },
+  {
+    "word": "যার",
+    "frequency": 4920,
+    "source": "core"
+  },
+  {
+    "word": "চ্যাম্পিয়নস",
+    "frequency": 4919,
+    "source": "core"
+  },
+  {
+    "word": "ফুটবলের",
+    "frequency": 4918,
+    "source": "core"
+  },
+  {
+    "word": "বিভাগ",
+    "frequency": 4917,
+    "source": "core"
+  },
+  {
+    "word": "বড়",
+    "frequency": 4916,
+    "source": "core"
+  },
+  {
+    "word": "বছর",
+    "frequency": 4915,
+    "source": "core"
+  },
+  {
+    "word": "পরবর্তী",
+    "frequency": 4914,
+    "source": "core"
+  },
+  {
+    "word": "চলে",
+    "frequency": 4913,
+    "source": "core"
+  },
+  {
+    "word": "হারিয়ে",
+    "frequency": 4912,
+    "source": "core"
+  },
+  {
+    "word": "মাঠে",
+    "frequency": 4911,
+    "source": "core"
+  },
+  {
+    "word": "দর্শক",
+    "frequency": 4910,
+    "source": "core"
+  },
+  {
+    "word": "পুনরায়",
+    "frequency": 4909,
+    "source": "core"
+  },
+  {
+    "word": "জয়",
+    "frequency": 4908,
+    "source": "core"
+  },
+  {
+    "word": "পয়েন্ট",
+    "frequency": 4907,
+    "source": "core"
+  },
+  {
+    "word": "মৌসুমের",
+    "frequency": 4906,
+    "source": "core"
+  },
+  {
+    "word": "বিজয়",
+    "frequency": 4905,
+    "source": "core"
+  },
+  {
+    "word": "টীকা",
+    "frequency": 4904,
+    "source": "core"
+  },
+  {
+    "word": "পতাকা",
+    "frequency": 4903,
+    "source": "core"
+  },
+  {
+    "word": "নির্দেশ",
+    "frequency": 4902,
+    "source": "core"
+  },
+  {
+    "word": "ফিফার",
+    "frequency": 4901,
+    "source": "core"
+  },
+  {
+    "word": "যোগ্যতার",
+    "frequency": 4900,
+    "source": "core"
+  },
+  {
+    "word": "নিয়মের",
+    "frequency": 4899,
+    "source": "core"
+  },
+  {
+    "word": "একাধিক",
+    "frequency": 4898,
+    "source": "core"
+  },
+  {
+    "word": "জাতীয়তা",
+    "frequency": 4897,
+    "source": "core"
+  },
+  {
+    "word": "ভুক্ত",
+    "frequency": 4896,
+    "source": "core"
+  },
+  {
+    "word": "নয়",
+    "frequency": 4895,
+    "source": "core"
+  },
+  {
+    "word": "মার্ক",
+    "frequency": 4894,
+    "source": "core"
+  },
+  {
+    "word": "থাকে",
+    "frequency": 4893,
+    "source": "core"
+  },
+  {
+    "word": "ইতিহাসে",
+    "frequency": 4892,
+    "source": "core"
+  },
+  {
+    "word": "ঘরোয়া",
+    "frequency": 4891,
+    "source": "core"
+  },
+  {
+    "word": "করেছে",
+    "frequency": 4890,
+    "source": "core"
+  },
+  {
+    "word": "জয়ের",
+    "frequency": 4889,
+    "source": "core"
+  },
+  {
+    "word": "মেইন",
+    "frequency": 4888,
+    "source": "core"
+  },
+  {
+    "word": "রোডে",
+    "frequency": 4887,
+    "source": "core"
+  },
+  {
+    "word": "দুইটি",
+    "frequency": 4886,
+    "source": "core"
+  },
+  {
+    "word": "১৯৩৪",
+    "frequency": 4885,
+    "source": "core"
+  },
+  {
+    "word": "নিজেদের",
+    "frequency": 4884,
+    "source": "core"
+  },
+  {
+    "word": "পরের",
+    "frequency": 4883,
+    "source": "core"
+  },
+  {
+    "word": "তিনি",
+    "frequency": 4882,
+    "source": "core"
+  },
+  {
+    "word": "মাত্র",
+    "frequency": 4881,
+    "source": "core"
+  },
+  {
+    "word": "দলে",
+    "frequency": 4880,
+    "source": "core"
+  },
+  {
+    "word": "মৌসুম",
+    "frequency": 4879,
+    "source": "core"
+  },
+  {
+    "word": "১৯৭০",
+    "frequency": 4878,
+    "source": "core"
+  },
+  {
+    "word": "ইউরোপীয়",
+    "frequency": 4877,
+    "source": "core"
+  },
+  {
+    "word": "গ্রহণ",
+    "frequency": 4876,
+    "source": "core"
+  },
+  {
+    "word": "এরপর",
+    "frequency": 4875,
+    "source": "core"
+  },
+  {
+    "word": "১৯৯২",
+    "frequency": 4874,
+    "source": "core"
+  },
+  {
+    "word": "স্থানে",
+    "frequency": 4873,
+    "source": "core"
+  },
+  {
+    "word": "হয়ে",
+    "frequency": 4872,
+    "source": "core"
+  },
+  {
+    "word": "বছরের",
+    "frequency": 4871,
+    "source": "core"
+  },
+  {
+    "word": "যায়",
+    "frequency": 4870,
+    "source": "core"
+  },
+  {
+    "word": "খেলা",
+    "frequency": 4869,
+    "source": "core"
+  },
+  {
+    "word": "সাথে",
+    "frequency": 4868,
+    "source": "core"
+  },
+  {
+    "word": "উপস্থিতি",
+    "frequency": 4867,
+    "source": "core"
+  },
+  {
+    "word": "মেলবোর্ন",
+    "frequency": 4866,
+    "source": "core"
+  },
+  {
+    "word": "নামে",
+    "frequency": 4865,
+    "source": "core"
+  },
+  {
+    "word": "বর্তমানে",
+    "frequency": 4864,
+    "source": "core"
+  },
+  {
+    "word": "স্টেডিয়ামে",
+    "frequency": 4863,
+    "source": "core"
+  },
+  {
+    "word": "পালন",
+    "frequency": 4862,
+    "source": "core"
+  },
+  {
+    "word": "করছেন",
+    "frequency": 4861,
+    "source": "core"
+  },
+  {
+    "word": "জয়লাভ",
+    "frequency": 4860,
+    "source": "core"
+  },
+  {
+    "word": "রয়েছে",
+    "frequency": 4859,
+    "source": "core"
+  },
+  {
+    "word": "উইনার্স",
+    "frequency": 4858,
+    "source": "core"
+  },
+  {
+    "word": "জো",
+    "frequency": 4857,
+    "source": "core"
+  },
+  {
+    "word": "১৮৯৯",
+    "frequency": 4856,
+    "source": "core"
+  },
+  {
+    "word": "সম্মাননা",
+    "frequency": 4855,
+    "source": "core"
+  },
+  {
+    "word": "অর্জন",
+    "frequency": 4854,
+    "source": "core"
+  },
+  {
+    "word": "উঠে",
+    "frequency": 4853,
+    "source": "core"
+  },
+  {
+    "word": "সে",
+    "frequency": 4852,
+    "source": "core"
+  },
+  {
+    "word": "ছিলেন",
+    "frequency": 4851,
+    "source": "core"
+  },
+  {
+    "word": "টানা",
+    "frequency": 4850,
+    "source": "core"
+  },
+  {
+    "word": "স্টোক",
+    "frequency": 4849,
+    "source": "core"
+  },
+  {
+    "word": "খেলার",
+    "frequency": 4848,
+    "source": "core"
+  },
+  {
+    "word": "পর্যন্ত",
+    "frequency": 4847,
+    "source": "core"
+  },
+  {
+    "word": "কিন্তু",
+    "frequency": 4846,
+    "source": "core"
+  },
+  {
+    "word": "মৌসুমেই",
+    "frequency": 4845,
+    "source": "core"
+  },
+  {
+    "word": "গোল",
+    "frequency": 4844,
+    "source": "core"
+  },
+  {
+    "word": "নিউকাসল",
+    "frequency": 4843,
+    "source": "core"
+  },
+  {
+    "word": "১৯৬৫",
+    "frequency": 4842,
+    "source": "core"
+  },
+  {
+    "word": "দুই",
+    "frequency": 4841,
+    "source": "core"
+  },
+  {
+    "word": "লাভ",
+    "frequency": 4840,
+    "source": "core"
+  },
+  {
+    "word": "জিতার",
+    "frequency": 4839,
+    "source": "core"
+  },
+  {
+    "word": "এছাড়া",
+    "frequency": 4838,
+    "source": "core"
+  },
+  {
+    "word": "কাছে",
+    "frequency": 4837,
+    "source": "core"
+  },
+  {
+    "word": "প্রাক্তন",
+    "frequency": 4836,
+    "source": "core"
+  },
+  {
+    "word": "১৯৭৬",
+    "frequency": 4835,
+    "source": "core"
+  },
+  {
+    "word": "ইউনাইটেডকে",
+    "frequency": 4834,
+    "source": "core"
+  },
+  {
+    "word": "পঞ্চম",
+    "frequency": 4833,
+    "source": "core"
+  },
+  {
+    "word": "তৃতীয়",
+    "frequency": 4832,
+    "source": "core"
+  },
+  {
+    "word": "পায়",
+    "frequency": 4831,
+    "source": "core"
+  },
+  {
+    "word": "২০০১",
+    "frequency": 4830,
+    "source": "core"
+  },
+  {
+    "word": "করার",
+    "frequency": 4829,
+    "source": "core"
+  },
+  {
+    "word": "অংশগ্রহণের",
+    "frequency": 4828,
+    "source": "core"
+  },
+  {
+    "word": "সুযোগ",
+    "frequency": 4827,
+    "source": "core"
+  },
+  {
+    "word": "২০০৩",
+    "frequency": 4826,
+    "source": "core"
+  },
+  {
+    "word": "২০০৮",
+    "frequency": 4825,
+    "source": "core"
+  },
+  {
+    "word": "মিলিয়ন",
+    "frequency": 4824,
+    "source": "core"
+  },
+  {
+    "word": "১১",
+    "frequency": 4823,
+    "source": "core"
+  },
+  {
+    "word": "৩০",
+    "frequency": 4822,
+    "source": "core"
+  },
+  {
+    "word": "১২",
+    "frequency": 4821,
+    "source": "core"
+  },
+  {
+    "word": "সময়ে",
+    "frequency": 4820,
+    "source": "core"
+  },
+  {
+    "word": "আগুয়েরোর",
+    "frequency": 4819,
+    "source": "core"
+  },
+  {
+    "word": "মে",
+    "frequency": 4818,
+    "source": "core"
+  },
+  {
+    "word": "২০১৩",
+    "frequency": 4817,
+    "source": "core"
+  },
+  {
+    "word": "২০১৮",
+    "frequency": 4816,
+    "source": "core"
+  },
+  {
+    "word": "২১",
+    "frequency": 4815,
+    "source": "core"
+  },
+  {
+    "word": "১০",
+    "frequency": 4814,
+    "source": "core"
+  },
+  {
+    "word": "২০১৯",
+    "frequency": 4813,
+    "source": "core"
+  },
+  {
+    "word": "২০২৩",
+    "frequency": 4812,
+    "source": "core"
+  },
+  {
+    "word": "মার্চ",
+    "frequency": 4811,
+    "source": "core"
+  },
+  {
+    "word": "জানুয়ারি",
+    "frequency": 4810,
+    "source": "core"
+  },
+  {
+    "word": "নিউ",
+    "frequency": 4809,
+    "source": "core"
+  },
+  {
+    "word": "ইয়র্ক",
+    "frequency": 4808,
+    "source": "core"
+  },
+  {
+    "word": "ঘোষণা",
+    "frequency": 4807,
+    "source": "core"
+  },
+  {
+    "word": "যে",
+    "frequency": 4806,
+    "source": "core"
+  },
+  {
+    "word": "পরিচিত",
+    "frequency": 4805,
+    "source": "core"
+  },
+  {
+    "word": "হচ্ছে",
+    "frequency": 4804,
+    "source": "core"
+  },
+  {
+    "word": "প্রতিষ্ঠিত",
+    "frequency": 4803,
+    "source": "core"
+  },
+  {
+    "word": "চ্যাম্পিয়ন",
+    "frequency": 4802,
+    "source": "core"
+  },
+  {
+    "word": "২০২২",
+    "frequency": 4801,
+    "source": "core"
+  },
+  {
+    "word": "মতো",
+    "frequency": 4800,
+    "source": "core"
+  },
+  {
+    "word": "করেছিল",
+    "frequency": 4799,
+    "source": "core"
+  },
+  {
+    "word": "ফুটবলে",
+    "frequency": 4798,
+    "source": "core"
+  },
+  {
+    "word": "এপর্যন্ত",
+    "frequency": 4797,
+    "source": "core"
+  },
+  {
+    "word": "অন্যদিকে",
+    "frequency": 4796,
+    "source": "core"
+  },
+  {
+    "word": "প্রতিযোগিতায়",
+    "frequency": 4795,
+    "source": "core"
+  },
+  {
+    "word": "আগুয়েরো",
+    "frequency": 4794,
+    "source": "core"
+  },
+  {
+    "word": "শন",
+    "frequency": 4793,
+    "source": "core"
+  },
+  {
+    "word": "খেলোয়াড়গণ",
+    "frequency": 4792,
+    "source": "core"
+  },
+  {
+    "word": "জার্সি",
+    "frequency": 4791,
+    "source": "core"
+  },
+  {
+    "word": "১৯০৪",
+    "frequency": 4790,
+    "source": "core"
+  },
+  {
+    "word": "ওঠে",
+    "frequency": 4789,
+    "source": "core"
+  },
+  {
+    "word": "১৭",
+    "frequency": 4788,
+    "source": "core"
+  },
+  {
+    "word": "খেলোয়াড়কে",
+    "frequency": 4787,
+    "source": "core"
+  },
+  {
+    "word": "যিনি",
+    "frequency": 4786,
+    "source": "core"
+  },
+  {
+    "word": "ফলে",
+    "frequency": 4785,
+    "source": "core"
+  },
+  {
+    "word": "১৯৩০",
+    "frequency": 4784,
+    "source": "core"
+  },
+  {
+    "word": "দশকে",
+    "frequency": 4783,
+    "source": "core"
+  },
+  {
+    "word": "১৯৩৩",
+    "frequency": 4782,
+    "source": "core"
+  },
+  {
+    "word": "সংখ্যক",
+    "frequency": 4781,
+    "source": "core"
+  },
+  {
+    "word": "উপস্থিতির",
+    "frequency": 4780,
+    "source": "core"
+  },
+  {
+    "word": "৮৪",
+    "frequency": 4779,
+    "source": "core"
+  },
+  {
+    "word": "৫৬৯",
+    "frequency": 4778,
+    "source": "core"
+  },
+  {
+    "word": "উপস্থিত",
+    "frequency": 4777,
+    "source": "core"
+  },
+  {
+    "word": "আছে",
+    "frequency": 4776,
+    "source": "core"
+  },
+  {
+    "word": "১৯৩৭",
+    "frequency": 4775,
+    "source": "core"
+  },
+  {
+    "word": "প্রথমবারের",
+    "frequency": 4774,
+    "source": "core"
+  },
+  {
+    "word": "বিভাগের",
+    "frequency": 4773,
+    "source": "core"
+  },
+  {
+    "word": "অন্য",
+    "frequency": 4772,
+    "source": "core"
+  },
+  {
+    "word": "অধিক",
+    "frequency": 4771,
+    "source": "core"
+  },
+  {
+    "word": "২০",
+    "frequency": 4770,
+    "source": "core"
+  },
+  {
+    "word": "দশকের",
+    "frequency": 4769,
+    "source": "core"
+  },
+  {
+    "word": "১৯৫৬",
+    "frequency": 4768,
+    "source": "core"
+  },
+  {
+    "word": "সিটিকে",
+    "frequency": 4767,
+    "source": "core"
+  },
+  {
+    "word": "সেরা",
+    "frequency": 4766,
+    "source": "core"
+  },
+  {
+    "word": "খেলতে",
+    "frequency": 4765,
+    "source": "core"
+  },
+  {
+    "word": "কথা",
+    "frequency": 4764,
+    "source": "core"
+  },
+  {
+    "word": "এখনও",
+    "frequency": 4763,
+    "source": "core"
+  },
+  {
+    "word": "অবনমনের",
+    "frequency": 4762,
+    "source": "core"
+  },
+  {
+    "word": "গ্রীষ্মে",
+    "frequency": 4761,
+    "source": "core"
+  },
+  {
+    "word": "ম্যালকম",
+    "frequency": 4760,
+    "source": "core"
+  },
+  {
+    "word": "ব্যবস্থাপনা",
+    "frequency": 4759,
+    "source": "core"
+  },
+  {
+    "word": "১৯৬৭",
+    "frequency": 4758,
+    "source": "core"
+  },
+  {
+    "word": "৬৮",
+    "frequency": 4757,
+    "source": "core"
+  },
+  {
+    "word": "দ্বিতীয়বারের",
+    "frequency": 4756,
+    "source": "core"
+  },
+  {
+    "word": "একদম",
+    "frequency": 4755,
+    "source": "core"
+  },
+  {
+    "word": "১৯৬৯",
+    "frequency": 4754,
+    "source": "core"
+  },
+  {
+    "word": "একই",
+    "frequency": 4753,
+    "source": "core"
+  },
+  {
+    "word": "কাটে",
+    "frequency": 4752,
+    "source": "core"
+  },
+  {
+    "word": "স্মরণীয়",
+    "frequency": 4751,
+    "source": "core"
+  },
+  {
+    "word": "প্রতিদ্বন্দী",
+    "frequency": 4750,
+    "source": "core"
+  },
+  {
+    "word": "তাদেরকে",
+    "frequency": 4749,
+    "source": "core"
+  },
+  {
+    "word": "নিশ্চিত",
+    "frequency": 4748,
+    "source": "core"
+  },
+  {
+    "word": "সফলতার",
+    "frequency": 4747,
+    "source": "core"
+  },
+  {
+    "word": "অর্থ",
+    "frequency": 4746,
+    "source": "core"
+  },
+  {
+    "word": "কয়েক",
+    "frequency": 4745,
+    "source": "core"
+  },
+  {
+    "word": "ঘন",
+    "frequency": 4744,
+    "source": "core"
+  },
+  {
+    "word": "পরিবর্তন",
+    "frequency": 4743,
+    "source": "core"
+  },
+  {
+    "word": "১৯৮০",
+    "frequency": 4742,
+    "source": "core"
+  },
+  {
+    "word": "অবশ্য",
+    "frequency": 4741,
+    "source": "core"
+  },
+  {
+    "word": "অর্থাৎ",
+    "frequency": 4740,
+    "source": "core"
+  },
+  {
+    "word": "সহ",
+    "frequency": 4739,
+    "source": "core"
+  },
+  {
+    "word": "হওয়ার",
+    "frequency": 4738,
+    "source": "core"
+  },
+  {
+    "word": "বিজয়ী",
+    "frequency": 4737,
+    "source": "core"
+  },
+  {
+    "word": "রয়লির",
+    "frequency": 4736,
+    "source": "core"
+  },
+  {
+    "word": "০২",
+    "frequency": 4735,
+    "source": "core"
+  },
+  {
+    "word": "চ্যাম্পিয়নশিপ",
+    "frequency": 4734,
+    "source": "core"
+  },
+  {
+    "word": "০৩",
+    "frequency": 4733,
+    "source": "core"
+  },
+  {
+    "word": "টেবিলের",
+    "frequency": 4732,
+    "source": "core"
+  },
+  {
+    "word": "মাঝামাঝি",
+    "frequency": 4731,
+    "source": "core"
+  },
+  {
+    "word": "কোচ",
+    "frequency": 4730,
+    "source": "core"
+  },
+  {
+    "word": "দিন",
+    "frequency": 4729,
+    "source": "core"
+  },
+  {
+    "word": "হিউজস",
+    "frequency": 4728,
+    "source": "core"
+  },
+  {
+    "word": "কারণে",
+    "frequency": 4727,
+    "source": "core"
+  },
+  {
+    "word": "নেয়",
+    "frequency": 4726,
+    "source": "core"
+  },
+  {
+    "word": "গ্রুপ",
+    "frequency": 4725,
+    "source": "core"
+  },
+  {
+    "word": "ক্রয়",
+    "frequency": 4724,
+    "source": "core"
+  },
+  {
+    "word": "পরও",
+    "frequency": 4723,
+    "source": "core"
+  },
+  {
+    "word": "২০০৯",
+    "frequency": 4722,
+    "source": "core"
+  },
+  {
+    "word": "করতে",
+    "frequency": 4721,
+    "source": "core"
+  },
+  {
+    "word": "২০১০",
+    "frequency": 4720,
+    "source": "core"
+  },
+  {
+    "word": "মৌসুমেও",
+    "frequency": 4719,
+    "source": "core"
+  },
+  {
+    "word": "অব্যহত",
+    "frequency": 4718,
+    "source": "core"
+  },
+  {
+    "word": "গোলের",
+    "frequency": 4717,
+    "source": "core"
+  },
+  {
+    "word": "ব্যবধানে",
+    "frequency": 4716,
+    "source": "core"
+  },
+  {
+    "word": "টটেনহাম",
+    "frequency": 4715,
+    "source": "core"
+  },
+  {
+    "word": "হটস্পারকে",
+    "frequency": 4714,
+    "source": "core"
+  },
+  {
+    "word": "হার্ট",
+    "frequency": 4713,
+    "source": "core"
+  },
+  {
+    "word": "বাকি",
+    "frequency": 4712,
+    "source": "core"
+  },
+  {
+    "word": "পিছিয়ে",
+    "frequency": 4711,
+    "source": "core"
+  },
+  {
+    "word": "পার্ক",
+    "frequency": 4710,
+    "source": "core"
+  },
+  {
+    "word": "সেই",
+    "frequency": 4709,
+    "source": "core"
+  },
+  {
+    "word": "কিছু",
+    "frequency": 4708,
+    "source": "core"
+  },
+  {
+    "word": "সংবাদ",
+    "frequency": 4707,
+    "source": "core"
+  },
+  {
+    "word": "ধারে",
+    "frequency": 4706,
+    "source": "core"
+  },
+  {
+    "word": "তুলে",
+    "frequency": 4705,
+    "source": "core"
+  },
+  {
+    "word": "রাখা",
+    "frequency": 4704,
+    "source": "core"
+  },
+  {
+    "word": "জার্সিটি",
+    "frequency": 4703,
+    "source": "core"
+  },
+  {
+    "word": "১৮",
+    "frequency": 4702,
+    "source": "core"
+  },
+  {
+    "word": "২০২০",
+    "frequency": 4701,
+    "source": "core"
+  },
+  {
+    "word": "২০২১",
+    "frequency": 4700,
+    "source": "core"
+  },
+  {
+    "word": "১৯৪৬",
+    "frequency": 4699,
+    "source": "core"
+  },
+  {
+    "word": "ট্রেবল",
+    "frequency": 4698,
+    "source": "core"
+  },
+  {
+    "word": "ওয়ান্ডারার্স",
+    "frequency": 4697,
+    "source": "core"
+  },
+  {
+    "word": "ডিসেম্বর",
+    "frequency": 4696,
+    "source": "core"
+  },
+  {
+    "word": "বদলি",
+    "frequency": 4695,
+    "source": "core"
+  },
+  {
+    "word": "অ্যালান",
+    "frequency": 4694,
+    "source": "core"
+  },
+  {
+    "word": "ওকস",
+    "frequency": 4693,
+    "source": "core"
+  },
+  {
+    "word": "১৯৫৮",
+    "frequency": 4692,
+    "source": "core"
+  },
+  {
+    "word": "৭৬",
+    "frequency": 4691,
+    "source": "core"
+  },
+  {
+    "word": "গোলদাতা",
+    "frequency": 4690,
+    "source": "core"
+  },
+  {
+    "word": "সার্হিও",
+    "frequency": 4689,
+    "source": "core"
+  },
+  {
+    "word": "৩৮",
+    "frequency": 4688,
+    "source": "core"
+  },
+  {
+    "word": "স্থানান্তর",
+    "frequency": 4687,
+    "source": "core"
+  },
+  {
+    "word": "ফি",
+    "frequency": 4686,
+    "source": "core"
+  },
+  {
+    "word": "জুলাই",
+    "frequency": 4685,
+    "source": "core"
+  },
+  {
+    "word": "ফ্রাঞ্চাইজ",
+    "frequency": 4684,
+    "source": "core"
+  },
+  {
+    "word": "অস্ট্রেলিয়ান",
+    "frequency": 4683,
+    "source": "core"
+  },
+  {
+    "word": "ইয়োকোহামা",
+    "frequency": 4682,
+    "source": "core"
+  },
+  {
+    "word": "এফ",
+    "frequency": 4681,
+    "source": "core"
+  },
+  {
+    "word": "ম্যারিনোস",
+    "frequency": 4680,
+    "source": "core"
+  },
+  {
+    "word": "ইংরেজি",
+    "frequency": 4679,
+    "source": "core"
+  },
+  {
+    "word": "সাধারণত",
+    "frequency": 4678,
+    "source": "core"
+  },
+  {
+    "word": "এফসি",
+    "frequency": 4677,
+    "source": "core"
+  },
+  {
+    "word": "সংক্ষেপে",
+    "frequency": 4676,
+    "source": "core"
+  },
+  {
+    "word": "ভিত্তিক",
+    "frequency": 4675,
+    "source": "core"
+  },
+  {
+    "word": "পেশাদার",
+    "frequency": 4674,
+    "source": "core"
+  },
+  {
+    "word": "ইংল্যান্ডের",
+    "frequency": 4673,
+    "source": "core"
+  },
+  {
+    "word": "শীর্ষ",
+    "frequency": 4672,
+    "source": "core"
+  },
+  {
+    "word": "স্তরের",
+    "frequency": 4671,
+    "source": "core"
+  },
+  {
+    "word": "প্রতিযোগিতা",
+    "frequency": 4670,
+    "source": "core"
+  },
+  {
+    "word": "১৮৮০",
+    "frequency": 4669,
+    "source": "core"
+  },
+  {
+    "word": "সেন্ট",
+    "frequency": 4668,
+    "source": "core"
+  },
+  {
+    "word": "৫৩",
+    "frequency": 4667,
+    "source": "core"
+  },
+  {
+    "word": "৪০০",
+    "frequency": 4666,
+    "source": "core"
+  },
+  {
+    "word": "ধারণক্ষমতাবিশিষ্ট",
+    "frequency": 4665,
+    "source": "core"
+  },
+  {
+    "word": "অব",
+    "frequency": 4664,
+    "source": "core"
+  },
+  {
+    "word": "দ্য",
+    "frequency": 4663,
+    "source": "core"
+  },
+  {
+    "word": "সিটিজেনস",
+    "frequency": 4662,
+    "source": "core"
+  },
+  {
+    "word": "সকল",
+    "frequency": 4661,
+    "source": "core"
+  },
+  {
+    "word": "হোম",
+    "frequency": 4660,
+    "source": "core"
+  },
+  {
+    "word": "ম্যাচ",
+    "frequency": 4659,
+    "source": "core"
+  },
+  {
+    "word": "আয়োজন",
+    "frequency": 4658,
+    "source": "core"
+  },
+  {
+    "word": "ম্যানেজারের",
+    "frequency": 4657,
+    "source": "core"
+  },
+  {
+    "word": "স্পেনীয়",
+    "frequency": 4656,
+    "source": "core"
+  },
+  {
+    "word": "সাবেক",
+    "frequency": 4655,
+    "source": "core"
+  },
+  {
+    "word": "পেপ",
+    "frequency": 4654,
+    "source": "core"
+  },
+  {
+    "word": "গার্দিওলা",
+    "frequency": 4653,
+    "source": "core"
+  },
+  {
+    "word": "সভাপতির",
+    "frequency": 4652,
+    "source": "core"
+  },
+  {
+    "word": "খালদুন",
+    "frequency": 4651,
+    "source": "core"
+  },
+  {
+    "word": "আল",
+    "frequency": 4650,
+    "source": "core"
+  },
+  {
+    "word": "মুবারক",
+    "frequency": 4649,
+    "source": "core"
+  },
+  {
+    "word": "রক্ষণভাগের",
+    "frequency": 4648,
+    "source": "core"
+  },
+  {
+    "word": "কাইল",
+    "frequency": 4647,
+    "source": "core"
+  },
+  {
+    "word": "ওয়াকার",
+    "frequency": 4646,
+    "source": "core"
+  },
+  {
+    "word": "অধিনায়কের",
+    "frequency": 4645,
+    "source": "core"
+  },
+  {
+    "word": "যারা",
+    "frequency": 4644,
+    "source": "core"
+  },
+  {
+    "word": "৭ম",
+    "frequency": 4643,
+    "source": "core"
+  },
+  {
+    "word": "বারের",
+    "frequency": 4642,
+    "source": "core"
+  },
+  {
+    "word": "৩৭টি",
+    "frequency": 4641,
+    "source": "core"
+  },
+  {
+    "word": "নয়টি",
+    "frequency": 4640,
+    "source": "core"
+  },
+  {
+    "word": "সাতটি",
+    "frequency": 4639,
+    "source": "core"
+  },
+  {
+    "word": "আটটি",
+    "frequency": 4638,
+    "source": "core"
+  },
+  {
+    "word": "ইএফএল",
+    "frequency": 4637,
+    "source": "core"
+  },
+  {
+    "word": "আন্তর্জাতিক",
+    "frequency": 4636,
+    "source": "core"
+  },
+  {
+    "word": "৩টি",
+    "frequency": 4635,
+    "source": "core"
+  },
+  {
+    "word": "ইউরোপিয়ান",
+    "frequency": 4634,
+    "source": "core"
+  },
+  {
+    "word": "সুপার",
+    "frequency": 4633,
+    "source": "core"
+  },
+  {
+    "word": "দাভিদ",
+    "frequency": 4632,
+    "source": "core"
+  },
+  {
+    "word": "সিলভা",
+    "frequency": 4631,
+    "source": "core"
+  },
+  {
+    "word": "সার্জিও",
+    "frequency": 4630,
+    "source": "core"
+  },
+  {
+    "word": "করিগান",
+    "frequency": 4629,
+    "source": "core"
+  },
+  {
+    "word": "রহিম",
+    "frequency": 4628,
+    "source": "core"
+  },
+  {
+    "word": "স্টার্লিং",
+    "frequency": 4627,
+    "source": "core"
+  },
+  {
+    "word": "গোটারের",
+    "frequency": 4626,
+    "source": "core"
+  },
+  {
+    "word": "গায়ে",
+    "frequency": 4625,
+    "source": "core"
+  },
+  {
+    "word": "মাঠ",
+    "frequency": 4624,
+    "source": "core"
+  },
+  {
+    "word": "কাঁপিয়েছেন",
+    "frequency": 4623,
+    "source": "core"
+  },
+  {
+    "word": "ইতিহাস",
+    "frequency": 4622,
+    "source": "core"
+  },
+  {
+    "word": "আসর",
+    "frequency": 4621,
+    "source": "core"
+  },
+  {
+    "word": "এপ্রিল",
+    "frequency": 4620,
+    "source": "core"
+  },
+  {
+    "word": "ক্রিস্টাল",
+    "frequency": 4619,
+    "source": "core"
+  },
+  {
+    "word": "প্যালেসে",
+    "frequency": 4618,
+    "source": "core"
+  },
+  {
+    "word": "বোল্টন",
+    "frequency": 4617,
+    "source": "core"
+  },
+  {
+    "word": "ওয়ান্ডারার্সকে",
+    "frequency": 4616,
+    "source": "core"
+  },
+  {
+    "word": "রানার",
+    "frequency": 4615,
+    "source": "core"
+  },
+  {
+    "word": "আপ",
+    "frequency": 4614,
+    "source": "core"
+  },
+  {
+    "word": "সিটিই",
+    "frequency": 4613,
+    "source": "core"
+  },
+  {
+    "word": "শহরের",
+    "frequency": 4612,
+    "source": "core"
+  },
+  {
+    "word": "বিরুদ্ধে",
+    "frequency": 4611,
+    "source": "core"
+  },
+  {
+    "word": "আর্থিক",
+    "frequency": 4610,
+    "source": "core"
+  },
+  {
+    "word": "অনিয়মের",
+    "frequency": 4609,
+    "source": "core"
+  },
+  {
+    "word": "অভিযোগ",
+    "frequency": 4608,
+    "source": "core"
+  },
+  {
+    "word": "পরিণতিস্বরূপ",
+    "frequency": 4607,
+    "source": "core"
+  },
+  {
+    "word": "ছাটাই",
+    "frequency": 4606,
+    "source": "core"
+  },
+  {
+    "word": "অধিনায়ক",
+    "frequency": 4605,
+    "source": "core"
+  },
+  {
+    "word": "বিলি",
+    "frequency": 4604,
+    "source": "core"
+  },
+  {
+    "word": "মেরেডিথও",
+    "frequency": 4603,
+    "source": "core"
+  },
+  {
+    "word": "পরবর্তীতে",
+    "frequency": 4602,
+    "source": "core"
+  },
+  {
+    "word": "ইউনাইটেডে",
+    "frequency": 4601,
+    "source": "core"
+  },
+  {
+    "word": "যান",
+    "frequency": 4600,
+    "source": "core"
+  },
+  {
+    "word": "১৯২০",
+    "frequency": 4599,
+    "source": "core"
+  },
+  {
+    "word": "হাইড",
+    "frequency": 4598,
+    "source": "core"
+  },
+  {
+    "word": "রোডের",
+    "frequency": 4597,
+    "source": "core"
+  },
+  {
+    "word": "অগ্নিকান্ডে",
+    "frequency": 4596,
+    "source": "core"
+  },
+  {
+    "word": "প্রধান",
+    "frequency": 4595,
+    "source": "core"
+  },
+  {
+    "word": "স্ট্যান্ড",
+    "frequency": 4594,
+    "source": "core"
+  },
+  {
+    "word": "ধ্বংসপ্রাপ্ত",
+    "frequency": 4593,
+    "source": "core"
+  },
+  {
+    "word": "১৯২৩",
+    "frequency": 4592,
+    "source": "core"
+  },
+  {
+    "word": "মস",
+    "frequency": 4591,
+    "source": "core"
+  },
+  {
+    "word": "সাইডে",
+    "frequency": 4590,
+    "source": "core"
+  },
+  {
+    "word": "বিশেষভাবে",
+    "frequency": 4589,
+    "source": "core"
+  },
+  {
+    "word": "নির্মিত",
+    "frequency": 4588,
+    "source": "core"
+  },
+  {
+    "word": "স্টেডিয়াম",
+    "frequency": 4587,
+    "source": "core"
+  },
+  {
+    "word": "স্থানান্তরিত",
+    "frequency": 4586,
+    "source": "core"
+  },
+  {
+    "word": "এভারটনের",
+    "frequency": 4585,
+    "source": "core"
+  },
+  {
+    "word": "পোর্টসমাউকে",
+    "frequency": 4584,
+    "source": "core"
+  },
+  {
+    "word": "৬ষ্ঠ",
+    "frequency": 4583,
+    "source": "core"
+  },
+  {
+    "word": "পর্বে",
+    "frequency": 4582,
+    "source": "core"
+  },
+  {
+    "word": "গঠিত",
+    "frequency": 4581,
+    "source": "core"
+  },
+  {
+    "word": "সময়",
+    "frequency": 4580,
+    "source": "core"
+  },
+  {
+    "word": "রেকর্ডটি",
+    "frequency": 4579,
+    "source": "core"
+  },
+  {
+    "word": "এখন",
+    "frequency": 4578,
+    "source": "core"
+  },
+  {
+    "word": "টিকে",
+    "frequency": 4577,
+    "source": "core"
+  },
+  {
+    "word": "যদিও",
+    "frequency": 4576,
+    "source": "core"
+  },
+  {
+    "word": "যেকোন",
+    "frequency": 4575,
+    "source": "core"
+  },
+  {
+    "word": "চেয়ে",
+    "frequency": 4574,
+    "source": "core"
+  },
+  {
+    "word": "রিভি",
+    "frequency": 4573,
+    "source": "core"
+  },
+  {
+    "word": "প্ল্যান",
+    "frequency": 4572,
+    "source": "core"
+  },
+  {
+    "word": "নামক",
+    "frequency": 4571,
+    "source": "core"
+  },
+  {
+    "word": "কৌশলে",
+    "frequency": 4570,
+    "source": "core"
+  },
+  {
+    "word": "পরিকল্পিত",
+    "frequency": 4569,
+    "source": "core"
+  },
+  {
+    "word": "এবারও",
+    "frequency": 4568,
+    "source": "core"
+  },
+  {
+    "word": "প্রথমটিতে",
+    "frequency": 4567,
+    "source": "core"
+  },
+  {
+    "word": "১৯৫৫",
+    "frequency": 4566,
+    "source": "core"
+  },
+  {
+    "word": "বার্মিংহাম",
+    "frequency": 4565,
+    "source": "core"
+  },
+  {
+    "word": "ফাইনালটি",
+    "frequency": 4564,
+    "source": "core"
+  },
+  {
+    "word": "সর্বকালের",
+    "frequency": 4563,
+    "source": "core"
+  },
+  {
+    "word": "ফাইনালগুলোর",
+    "frequency": 4562,
+    "source": "core"
+  },
+  {
+    "word": "অন্যতম",
+    "frequency": 4561,
+    "source": "core"
+  },
+  {
+    "word": "গোলরক্ষক",
+    "frequency": 4560,
+    "source": "core"
+  },
+  {
+    "word": "বার্ট",
+    "frequency": 4559,
+    "source": "core"
+  },
+  {
+    "word": "টাউটমানের",
+    "frequency": 4558,
+    "source": "core"
+  },
+  {
+    "word": "ঘাড়",
+    "frequency": 4557,
+    "source": "core"
+  },
+  {
+    "word": "ভেঙ্গে",
+    "frequency": 4556,
+    "source": "core"
+  },
+  {
+    "word": "গেলেও",
+    "frequency": 4555,
+    "source": "core"
+  },
+  {
+    "word": "অজ্ঞাতসারে",
+    "frequency": 4554,
+    "source": "core"
+  },
+  {
+    "word": "থাকেন",
+    "frequency": 4553,
+    "source": "core"
+  },
+  {
+    "word": "খেলাটির",
+    "frequency": 4552,
+    "source": "core"
+  },
+  {
+    "word": "স্মরণ",
+    "frequency": 4551,
+    "source": "core"
+  },
+  {
+    "word": "১৯৬৩",
+    "frequency": 4550,
+    "source": "core"
+  },
+  {
+    "word": "বিবর্ণ",
+    "frequency": 4549,
+    "source": "core"
+  },
+  {
+    "word": "ভবিষ্যতের",
+    "frequency": 4548,
+    "source": "core"
+  },
+  {
+    "word": "শঙ্কা",
+    "frequency": 4547,
+    "source": "core"
+  },
+  {
+    "word": "দেখা",
+    "frequency": 4546,
+    "source": "core"
+  },
+  {
+    "word": "দেয়",
+    "frequency": 4545,
+    "source": "core"
+  },
+  {
+    "word": "জানুয়ারিতে",
+    "frequency": 4544,
+    "source": "core"
+  },
+  {
+    "word": "সুইনডাউন",
+    "frequency": 4543,
+    "source": "core"
+  },
+  {
+    "word": "টাউনের",
+    "frequency": 4542,
+    "source": "core"
+  },
+  {
+    "word": "০১৫",
+    "frequency": 4541,
+    "source": "core"
+  },
+  {
+    "word": "সর্বনিম্ন",
+    "frequency": 4540,
+    "source": "core"
+  },
+  {
+    "word": "মার্সার",
+    "frequency": 4539,
+    "source": "core"
+  },
+  {
+    "word": "অ্যালিসনের",
+    "frequency": 4538,
+    "source": "core"
+  },
+  {
+    "word": "দলকে",
+    "frequency": 4537,
+    "source": "core"
+  },
+  {
+    "word": "নিযুক্ত",
+    "frequency": 4536,
+    "source": "core"
+  },
+  {
+    "word": "মার্সারের",
+    "frequency": 4535,
+    "source": "core"
+  },
+  {
+    "word": "মাইক",
+    "frequency": 4534,
+    "source": "core"
+  },
+  {
+    "word": "সামারবি",
+    "frequency": 4533,
+    "source": "core"
+  },
+  {
+    "word": "কলিন",
+    "frequency": 4532,
+    "source": "core"
+  },
+  {
+    "word": "বেলের",
+    "frequency": 4531,
+    "source": "core"
+  },
+  {
+    "word": "গুরুত্বপূর্ণ",
+    "frequency": 4530,
+    "source": "core"
+  },
+  {
+    "word": "ভিড়ায়",
+    "frequency": 4529,
+    "source": "core"
+  },
+  {
+    "word": "তে",
+    "frequency": 4528,
+    "source": "core"
+  },
+  {
+    "word": "জিতা",
+    "frequency": 4527,
+    "source": "core"
+  },
+  {
+    "word": "শিরোপাগুলোর",
+    "frequency": 4526,
+    "source": "core"
+  },
+  {
+    "word": "শিরোপাও",
+    "frequency": 4525,
+    "source": "core"
+  },
+  {
+    "word": "গৌরব",
+    "frequency": 4524,
+    "source": "core"
+  },
+  {
+    "word": "দশক",
+    "frequency": 4523,
+    "source": "core"
+  },
+  {
+    "word": "ভালোই",
+    "frequency": 4522,
+    "source": "core"
+  },
+  {
+    "word": "চ্যাম্পিয়নদের",
+    "frequency": 4521,
+    "source": "core"
+  },
+  {
+    "word": "পেছনে",
+    "frequency": 4520,
+    "source": "core"
+  },
+  {
+    "word": "১৯৭৪",
+    "frequency": 4519,
+    "source": "core"
+  },
+  {
+    "word": "এসময়",
+    "frequency": 4518,
+    "source": "core"
+  },
+  {
+    "word": "সমর্থকদের",
+    "frequency": 4517,
+    "source": "core"
+  },
+  {
+    "word": "অতি",
+    "frequency": 4516,
+    "source": "core"
+  },
+  {
+    "word": "একটা",
+    "frequency": 4515,
+    "source": "core"
+  },
+  {
+    "word": "খেলাও",
+    "frequency": 4514,
+    "source": "core"
+  },
+  {
+    "word": "অনুষ্ঠিত",
+    "frequency": 4513,
+    "source": "core"
+  },
+  {
+    "word": "১৯৭৩",
+    "frequency": 4512,
+    "source": "core"
+  },
+  {
+    "word": "৭৪",
+    "frequency": 4511,
+    "source": "core"
+  },
+  {
+    "word": "ওল্ড",
+    "frequency": 4510,
+    "source": "core"
+  },
+  {
+    "word": "ট্রাফোর্ডে",
+    "frequency": 4509,
+    "source": "core"
+  },
+  {
+    "word": "ঘোর",
+    "frequency": 4508,
+    "source": "core"
+  },
+  {
+    "word": "মুখোমুখী",
+    "frequency": 4507,
+    "source": "core"
+  },
+  {
+    "word": "ঠেকানোর",
+    "frequency": 4506,
+    "source": "core"
+  },
+  {
+    "word": "বিকল্প",
+    "frequency": 4505,
+    "source": "core"
+  },
+  {
+    "word": "না",
+    "frequency": 4504,
+    "source": "core"
+  },
+  {
+    "word": "হতাশায়",
+    "frequency": 4503,
+    "source": "core"
+  },
+  {
+    "word": "ডুবায়",
+    "frequency": 4502,
+    "source": "core"
+  },
+  {
+    "word": "তাদেরই",
+    "frequency": 4501,
+    "source": "core"
+  },
+  {
+    "word": "ডেনিস",
+    "frequency": 4500,
+    "source": "core"
+  },
+  {
+    "word": "তার",
+    "frequency": 4499,
+    "source": "core"
+  },
+  {
+    "word": "একমাত্র",
+    "frequency": 4498,
+    "source": "core"
+  },
+  {
+    "word": "গোলেই",
+    "frequency": 4497,
+    "source": "core"
+  },
+  {
+    "word": "এতে",
+    "frequency": 4496,
+    "source": "core"
+  },
+  {
+    "word": "সবচেয়ে",
+    "frequency": 4495,
+    "source": "core"
+  },
+  {
+    "word": "সফল",
+    "frequency": 4494,
+    "source": "core"
+  },
+  {
+    "word": "সময়ের",
+    "frequency": 4493,
+    "source": "core"
+  },
+  {
+    "word": "জিতেছিল",
+    "frequency": 4492,
+    "source": "core"
+  },
+  {
+    "word": "১৯৬০",
+    "frequency": 4491,
+    "source": "core"
+  },
+  {
+    "word": "৭০",
+    "frequency": 4490,
+    "source": "core"
+  },
+  {
+    "word": "দীর্ঘকালীন",
+    "frequency": 4489,
+    "source": "core"
+  },
+  {
+    "word": "অধঃপতন",
+    "frequency": 4488,
+    "source": "core"
+  },
+  {
+    "word": "১৯৭৯",
+    "frequency": 4487,
+    "source": "core"
+  },
+  {
+    "word": "অ্যালিসন",
+    "frequency": 4486,
+    "source": "core"
+  },
+  {
+    "word": "স্টিভ",
+    "frequency": 4485,
+    "source": "core"
+  },
+  {
+    "word": "ড্যালের",
+    "frequency": 4484,
+    "source": "core"
+  },
+  {
+    "word": "অসফল",
+    "frequency": 4483,
+    "source": "core"
+  },
+  {
+    "word": "ভিড়িয়ে",
+    "frequency": 4482,
+    "source": "core"
+  },
+  {
+    "word": "মোটা",
+    "frequency": 4481,
+    "source": "core"
+  },
+  {
+    "word": "অঙ্কের",
+    "frequency": 4480,
+    "source": "core"
+  },
+  {
+    "word": "নষ্ট",
+    "frequency": 4479,
+    "source": "core"
+  },
+  {
+    "word": "দশকেই",
+    "frequency": 4478,
+    "source": "core"
+  },
+  {
+    "word": "সাত",
+    "frequency": 4477,
+    "source": "core"
+  },
+  {
+    "word": "ম্যানেজারকে",
+    "frequency": 4476,
+    "source": "core"
+  },
+  {
+    "word": "১৯৮১",
+    "frequency": 4475,
+    "source": "core"
+  },
+  {
+    "word": "বন্ডের",
+    "frequency": 4474,
+    "source": "core"
+  },
+  {
+    "word": "ফাইনালের",
+    "frequency": 4473,
+    "source": "core"
+  },
+  {
+    "word": "রিপ্লে",
+    "frequency": 4472,
+    "source": "core"
+  },
+  {
+    "word": "টটেনহামের",
+    "frequency": 4471,
+    "source": "core"
+  },
+  {
+    "word": "দুইবার",
+    "frequency": 4470,
+    "source": "core"
+  },
+  {
+    "word": "১৯৮৩",
+    "frequency": 4469,
+    "source": "core"
+  },
+  {
+    "word": "১৯৮৭",
+    "frequency": 4468,
+    "source": "core"
+  },
+  {
+    "word": "১৯৮৯",
+    "frequency": 4467,
+    "source": "core"
+  },
+  {
+    "word": "ফিরে",
+    "frequency": 4466,
+    "source": "core"
+  },
+  {
+    "word": "১৯৯১",
+    "frequency": 4465,
+    "source": "core"
+  },
+  {
+    "word": "পিটার",
+    "frequency": 4464,
+    "source": "core"
+  },
+  {
+    "word": "রেইডের",
+    "frequency": 4463,
+    "source": "core"
+  },
+  {
+    "word": "এটি",
+    "frequency": 4462,
+    "source": "core"
+  },
+  {
+    "word": "কেবলমাত্র",
+    "frequency": 4461,
+    "source": "core"
+  },
+  {
+    "word": "অস্থায়ী",
+    "frequency": 4460,
+    "source": "core"
+  },
+  {
+    "word": "অবকাশ",
+    "frequency": 4459,
+    "source": "core"
+  },
+  {
+    "word": "রেইড",
+    "frequency": 4458,
+    "source": "core"
+  },
+  {
+    "word": "যাওয়ার",
+    "frequency": 4457,
+    "source": "core"
+  },
+  {
+    "word": "নিষ্প্রভ",
+    "frequency": 4456,
+    "source": "core"
+  },
+  {
+    "word": "পড়ে",
+    "frequency": 4455,
+    "source": "core"
+  },
+  {
+    "word": "প্রতিষ্ঠা",
+    "frequency": 4454,
+    "source": "core"
+  },
+  {
+    "word": "হলে",
+    "frequency": 4453,
+    "source": "core"
+  },
+  {
+    "word": "তাতে",
+    "frequency": 4452,
+    "source": "core"
+  },
+  {
+    "word": "অংশগ্রহণ",
+    "frequency": 4451,
+    "source": "core"
+  },
+  {
+    "word": "প্রতিষ্ঠাতা",
+    "frequency": 4450,
+    "source": "core"
+  },
+  {
+    "word": "নবম",
+    "frequency": 4449,
+    "source": "core"
+  },
+  {
+    "word": "তিনটি",
+    "frequency": 4448,
+    "source": "core"
+  },
+  {
+    "word": "অনেক",
+    "frequency": 4447,
+    "source": "core"
+  },
+  {
+    "word": "প্রতিকূল",
+    "frequency": 4446,
+    "source": "core"
+  },
+  {
+    "word": "পরিস্থিতির",
+    "frequency": 4445,
+    "source": "core"
+  },
+  {
+    "word": "যেতে",
+    "frequency": 4444,
+    "source": "core"
+  },
+  {
+    "word": "১৯৯৬",
+    "frequency": 4443,
+    "source": "core"
+  },
+  {
+    "word": "সময়কার",
+    "frequency": 4442,
+    "source": "core"
+  },
+  {
+    "word": "কাটানোর",
+    "frequency": 4441,
+    "source": "core"
+  },
+  {
+    "word": "নিজ",
+    "frequency": 4440,
+    "source": "core"
+  },
+  {
+    "word": "দেশের",
+    "frequency": 4439,
+    "source": "core"
+  },
+  {
+    "word": "চেয়ারম্যান",
+    "frequency": 4438,
+    "source": "core"
+  },
+  {
+    "word": "ডেভিড",
+    "frequency": 4437,
+    "source": "core"
+  },
+  {
+    "word": "বার্নস্টাইন",
+    "frequency": 4436,
+    "source": "core"
+  },
+  {
+    "word": "ধরনের",
+    "frequency": 4435,
+    "source": "core"
+  },
+  {
+    "word": "আর্থনৈতিক",
+    "frequency": 4434,
+    "source": "core"
+  },
+  {
+    "word": "শৃঙ্খলা",
+    "frequency": 4433,
+    "source": "core"
+  },
+  {
+    "word": "প্রবর্তন",
+    "frequency": 4432,
+    "source": "core"
+  },
+  {
+    "word": "গিলিংহ্যামের",
+    "frequency": 4431,
+    "source": "core"
+  },
+  {
+    "word": "প্লে",
+    "frequency": 4430,
+    "source": "core"
+  },
+  {
+    "word": "অফে",
+    "frequency": 4429,
+    "source": "core"
+  },
+  {
+    "word": "নাটকীয়",
+    "frequency": 4428,
+    "source": "core"
+  },
+  {
+    "word": "স্থলাভিষিক্ত",
+    "frequency": 4427,
+    "source": "core"
+  },
+  {
+    "word": "হন",
+    "frequency": 4426,
+    "source": "core"
+  },
+  {
+    "word": "কেভিন",
+    "frequency": 4425,
+    "source": "core"
+  },
+  {
+    "word": "কিগান",
+    "frequency": 4424,
+    "source": "core"
+  },
+  {
+    "word": "ডিভিশন",
+    "frequency": 4423,
+    "source": "core"
+  },
+  {
+    "word": "রেকর্ডও",
+    "frequency": 4422,
+    "source": "core"
+  },
+  {
+    "word": "২০০২",
+    "frequency": 4421,
+    "source": "core"
+  },
+  {
+    "word": "ডার্বি",
+    "frequency": 4420,
+    "source": "core"
+  },
+  {
+    "word": "১৩",
+    "frequency": 4419,
+    "source": "core"
+  },
+  {
+    "word": "ক্ষরার",
+    "frequency": 4418,
+    "source": "core"
+  },
+  {
+    "word": "অবসান",
+    "frequency": 4417,
+    "source": "core"
+  },
+  {
+    "word": "২৫",
+    "frequency": 4416,
+    "source": "core"
+  },
+  {
+    "word": "ক্লোজ",
+    "frequency": 4415,
+    "source": "core"
+  },
+  {
+    "word": "অফ",
+    "frequency": 4414,
+    "source": "core"
+  },
+  {
+    "word": "আসার",
+    "frequency": 4413,
+    "source": "core"
+  },
+  {
+    "word": "চার",
+    "frequency": 4412,
+    "source": "core"
+  },
+  {
+    "word": "অবস্থানে",
+    "frequency": 4411,
+    "source": "core"
+  },
+  {
+    "word": "ইংল্যান্ড",
+    "frequency": 4410,
+    "source": "core"
+  },
+  {
+    "word": "স্ভেন",
+    "frequency": 4409,
+    "source": "core"
+  },
+  {
+    "word": "ইয়োরান",
+    "frequency": 4408,
+    "source": "core"
+  },
+  {
+    "word": "ইয়েরিকসন",
+    "frequency": 4407,
+    "source": "core"
+  },
+  {
+    "word": "২০০৭",
+    "frequency": 4406,
+    "source": "core"
+  },
+  {
+    "word": "বিদেশী",
+    "frequency": 4405,
+    "source": "core"
+  },
+  {
+    "word": "প্রথমার্ধ",
+    "frequency": 4404,
+    "source": "core"
+  },
+  {
+    "word": "খুব",
+    "frequency": 4403,
+    "source": "core"
+  },
+  {
+    "word": "ভালোভাবে",
+    "frequency": 4402,
+    "source": "core"
+  },
+  {
+    "word": "কাটালেও",
+    "frequency": 4401,
+    "source": "core"
+  },
+  {
+    "word": "শেষার্ধে",
+    "frequency": 4400,
+    "source": "core"
+  },
+  {
+    "word": "গিয়ে",
+    "frequency": 4399,
+    "source": "core"
+  },
+  {
+    "word": "ছন্দপতন",
+    "frequency": 4398,
+    "source": "core"
+  },
+  {
+    "word": "জুনে",
+    "frequency": 4397,
+    "source": "core"
+  },
+  {
+    "word": "ইয়েরিকসনকে",
+    "frequency": 4396,
+    "source": "core"
+  },
+  {
+    "word": "পদচ্যুত",
+    "frequency": 4395,
+    "source": "core"
+  },
+  {
+    "word": "যোগ",
+    "frequency": 4394,
+    "source": "core"
+  },
+  {
+    "word": "দেন",
+    "frequency": 4393,
+    "source": "core"
+  },
+  {
+    "word": "দিকে",
+    "frequency": 4392,
+    "source": "core"
+  },
+  {
+    "word": "অর্থনৈতিক",
+    "frequency": 4391,
+    "source": "core"
+  },
+  {
+    "word": "নিরাপত্তাহীনতায়",
+    "frequency": 4390,
+    "source": "core"
+  },
+  {
+    "word": "ভুগছিল",
+    "frequency": 4389,
+    "source": "core"
+  },
+  {
+    "word": "আগে",
+    "frequency": 4388,
+    "source": "core"
+  },
+  {
+    "word": "নিয়ন্ত্রণ",
+    "frequency": 4387,
+    "source": "core"
+  },
+  {
+    "word": "নিয়েছিলেন",
+    "frequency": 4386,
+    "source": "core"
+  },
+  {
+    "word": "থাসকিন",
+    "frequency": 4385,
+    "source": "core"
+  },
+  {
+    "word": "সিনাওয়াত্রা",
+    "frequency": 4384,
+    "source": "core"
+  },
+  {
+    "word": "রাজনৈতিক",
+    "frequency": 4383,
+    "source": "core"
+  },
+  {
+    "word": "তিনিও",
+    "frequency": 4382,
+    "source": "core"
+  },
+  {
+    "word": "ভাগ্য",
+    "frequency": 4381,
+    "source": "core"
+  },
+  {
+    "word": "বদলাতে",
+    "frequency": 4380,
+    "source": "core"
+  },
+  {
+    "word": "পারেননি",
+    "frequency": 4379,
+    "source": "core"
+  },
+  {
+    "word": "আগস্টে",
+    "frequency": 4378,
+    "source": "core"
+  },
+  {
+    "word": "ক্লাবটিকে",
+    "frequency": 4377,
+    "source": "core"
+  },
+  {
+    "word": "কিনে",
+    "frequency": 4376,
+    "source": "core"
+  },
+  {
+    "word": "আবু",
+    "frequency": 4375,
+    "source": "core"
+  },
+  {
+    "word": "ধাবি",
+    "frequency": 4374,
+    "source": "core"
+  },
+  {
+    "word": "ইউনাইটেড",
+    "frequency": 4373,
+    "source": "core"
+  },
+  {
+    "word": "অধিগ্রহণের",
+    "frequency": 4372,
+    "source": "core"
+  },
+  {
+    "word": "মাপের",
+    "frequency": 4371,
+    "source": "core"
+  },
+  {
+    "word": "প্রস্তাবের",
+    "frequency": 4370,
+    "source": "core"
+  },
+  {
+    "word": "ফুলঝুড়ি",
+    "frequency": 4369,
+    "source": "core"
+  },
+  {
+    "word": "ছুটতে",
+    "frequency": 4368,
+    "source": "core"
+  },
+  {
+    "word": "রিয়াল",
+    "frequency": 4367,
+    "source": "core"
+  },
+  {
+    "word": "মাদ্রিদ",
+    "frequency": 4366,
+    "source": "core"
+  },
+  {
+    "word": "৩২",
+    "frequency": 4365,
+    "source": "core"
+  },
+  {
+    "word": "ইউরোর",
+    "frequency": 4364,
+    "source": "core"
+  },
+  {
+    "word": "বিনিময়ে",
+    "frequency": 4363,
+    "source": "core"
+  },
+  {
+    "word": "রবিনিয়োকে",
+    "frequency": 4362,
+    "source": "core"
+  },
+  {
+    "word": "ব্রিটিশ",
+    "frequency": 4361,
+    "source": "core"
+  },
+  {
+    "word": "গড়ে",
+    "frequency": 4360,
+    "source": "core"
+  },
+  {
+    "word": "এত",
+    "frequency": 4359,
+    "source": "core"
+  },
+  {
+    "word": "ব্যয়ের",
+    "frequency": 4358,
+    "source": "core"
+  },
+  {
+    "word": "সফলতা",
+    "frequency": 4357,
+    "source": "core"
+  },
+  {
+    "word": "অধরাই",
+    "frequency": 4356,
+    "source": "core"
+  },
+  {
+    "word": "রয়ে",
+    "frequency": 4355,
+    "source": "core"
+  },
+  {
+    "word": "১০ম",
+    "frequency": 4354,
+    "source": "core"
+  },
+  {
+    "word": "কাপে",
+    "frequency": 4353,
+    "source": "core"
+  },
+  {
+    "word": "কোয়ার্টার",
+    "frequency": 4352,
+    "source": "core"
+  },
+  {
+    "word": "ফাইনাল",
+    "frequency": 4351,
+    "source": "core"
+  },
+  {
+    "word": "গ্যারেথ",
+    "frequency": 4350,
+    "source": "core"
+  },
+  {
+    "word": "ব্যারি",
+    "frequency": 4349,
+    "source": "core"
+  },
+  {
+    "word": "রোকে",
+    "frequency": 4348,
+    "source": "core"
+  },
+  {
+    "word": "সান্তা",
+    "frequency": 4347,
+    "source": "core"
+  },
+  {
+    "word": "ক্রুজ",
+    "frequency": 4346,
+    "source": "core"
+  },
+  {
+    "word": "কোলো",
+    "frequency": 4345,
+    "source": "core"
+  },
+  {
+    "word": "টোরে",
+    "frequency": 4344,
+    "source": "core"
+  },
+  {
+    "word": "এমানুয়েল",
+    "frequency": 4343,
+    "source": "core"
+  },
+  {
+    "word": "আদাবায়ের",
+    "frequency": 4342,
+    "source": "core"
+  },
+  {
+    "word": "কার্লোস",
+    "frequency": 4341,
+    "source": "core"
+  },
+  {
+    "word": "তেবেস",
+    "frequency": 4340,
+    "source": "core"
+  },
+  {
+    "word": "জোলিয়ন",
+    "frequency": 4339,
+    "source": "core"
+  },
+  {
+    "word": "লেসকটের",
+    "frequency": 4338,
+    "source": "core"
+  },
+  {
+    "word": "১০০",
+    "frequency": 4337,
+    "source": "core"
+  },
+  {
+    "word": "মিলিয়নেরও",
+    "frequency": 4336,
+    "source": "core"
+  },
+  {
+    "word": "ইউরো",
+    "frequency": 4335,
+    "source": "core"
+  },
+  {
+    "word": "খরচ",
+    "frequency": 4334,
+    "source": "core"
+  },
+  {
+    "word": "ডিসেম্বরে",
+    "frequency": 4333,
+    "source": "core"
+  },
+  {
+    "word": "কে",
+    "frequency": 4332,
+    "source": "core"
+  },
+  {
+    "word": "সরিয়ে",
+    "frequency": 4331,
+    "source": "core"
+  },
+  {
+    "word": "নিয়োগ",
+    "frequency": 4330,
+    "source": "core"
+  },
+  {
+    "word": "দেওয়া",
+    "frequency": 4329,
+    "source": "core"
+  },
+  {
+    "word": "রবের্তো",
+    "frequency": 4328,
+    "source": "core"
+  },
+  {
+    "word": "মানচিনিকে",
+    "frequency": 4327,
+    "source": "core"
+  },
+  {
+    "word": "অল্পের",
+    "frequency": 4326,
+    "source": "core"
+  },
+  {
+    "word": "হাতছাড়া",
+    "frequency": 4325,
+    "source": "core"
+  },
+  {
+    "word": "ইউরোপা",
+    "frequency": 4324,
+    "source": "core"
+  },
+  {
+    "word": "বিনিয়োগ",
+    "frequency": 4323,
+    "source": "core"
+  },
+  {
+    "word": "নগর",
+    "frequency": 4322,
+    "source": "core"
+  },
+  {
+    "word": "প্রতিযোগিতার",
+    "frequency": 4321,
+    "source": "core"
+  },
+  {
+    "word": "পঞ্চমবারের",
+    "frequency": 4320,
+    "source": "core"
+  },
+  {
+    "word": "এটিই",
+    "frequency": 4319,
+    "source": "core"
+  },
+  {
+    "word": "সপ্তাহে",
+    "frequency": 4318,
+    "source": "core"
+  },
+  {
+    "word": "লিগেও",
+    "frequency": 4317,
+    "source": "core"
+  },
+  {
+    "word": "জায়গা",
+    "frequency": 4316,
+    "source": "core"
+  },
+  {
+    "word": "দিনে",
+    "frequency": 4315,
+    "source": "core"
+  },
+  {
+    "word": "আর্সেনালকে",
+    "frequency": 4314,
+    "source": "core"
+  },
+  {
+    "word": "ছাড়িয়ে",
+    "frequency": 4313,
+    "source": "core"
+  },
+  {
+    "word": "সরাসরি",
+    "frequency": 4312,
+    "source": "core"
+  },
+  {
+    "word": "পর্ব",
+    "frequency": 4311,
+    "source": "core"
+  },
+  {
+    "word": "ধারা",
+    "frequency": 4310,
+    "source": "core"
+  },
+  {
+    "word": "হোয়াইট",
+    "frequency": 4309,
+    "source": "core"
+  },
+  {
+    "word": "লেনে",
+    "frequency": 4308,
+    "source": "core"
+  },
+  {
+    "word": "স্টেডিয়ামেই",
+    "frequency": 4307,
+    "source": "core"
+  },
+  {
+    "word": "বিধ্বস্ত",
+    "frequency": 4306,
+    "source": "core"
+  },
+  {
+    "word": "দূর্দান্ত",
+    "frequency": 4305,
+    "source": "core"
+  },
+  {
+    "word": "ফর্ম",
+    "frequency": 4304,
+    "source": "core"
+  },
+  {
+    "word": "এসে",
+    "frequency": 4303,
+    "source": "core"
+  },
+  {
+    "word": "হ্রাস",
+    "frequency": 4302,
+    "source": "core"
+  },
+  {
+    "word": "পেয়ে",
+    "frequency": 4301,
+    "source": "core"
+  },
+  {
+    "word": "ছয়টি",
+    "frequency": 4300,
+    "source": "core"
+  },
+  {
+    "word": "প্রতিদ্বন্দীর",
+    "frequency": 4299,
+    "source": "core"
+  },
+  {
+    "word": "আট",
+    "frequency": 4298,
+    "source": "core"
+  },
+  {
+    "word": "সমতায়",
+    "frequency": 4297,
+    "source": "core"
+  },
+  {
+    "word": "এমনকি",
+    "frequency": 4296,
+    "source": "core"
+  },
+  {
+    "word": "সমান",
+    "frequency": 4295,
+    "source": "core"
+  },
+  {
+    "word": "শুধু",
+    "frequency": 4294,
+    "source": "core"
+  },
+  {
+    "word": "প্রয়োজন",
+    "frequency": 4293,
+    "source": "core"
+  },
+  {
+    "word": "শঙ্কায়",
+    "frequency": 4292,
+    "source": "core"
+  },
+  {
+    "word": "ভূগতে",
+    "frequency": 4291,
+    "source": "core"
+  },
+  {
+    "word": "থাকা",
+    "frequency": 4290,
+    "source": "core"
+  },
+  {
+    "word": "কুইন্স",
+    "frequency": 4289,
+    "source": "core"
+  },
+  {
+    "word": "রেঞ্জার্সের",
+    "frequency": 4288,
+    "source": "core"
+  },
+  {
+    "word": "৯০",
+    "frequency": 4287,
+    "source": "core"
+  },
+  {
+    "word": "মিনিট",
+    "frequency": 4286,
+    "source": "core"
+  },
+  {
+    "word": "শেষে",
+    "frequency": 4285,
+    "source": "core"
+  },
+  {
+    "word": "ভেবে",
+    "frequency": 4284,
+    "source": "core"
+  },
+  {
+    "word": "উল্লাস",
+    "frequency": 4283,
+    "source": "core"
+  },
+  {
+    "word": "করছিল",
+    "frequency": 4282,
+    "source": "core"
+  },
+  {
+    "word": "ইনজুরি",
+    "frequency": 4281,
+    "source": "core"
+  },
+  {
+    "word": "জেকো",
+    "frequency": 4280,
+    "source": "core"
+  },
+  {
+    "word": "এগিয়ে",
+    "frequency": 4279,
+    "source": "core"
+  },
+  {
+    "word": "গোলটি",
+    "frequency": 4278,
+    "source": "core"
+  },
+  {
+    "word": "মিনিটে",
+    "frequency": 4277,
+    "source": "core"
+  },
+  {
+    "word": "মিনিটের",
+    "frequency": 4276,
+    "source": "core"
+  },
+  {
+    "word": "জয়ে",
+    "frequency": 4275,
+    "source": "core"
+  },
+  {
+    "word": "৪৪",
+    "frequency": 4274,
+    "source": "core"
+  },
+  {
+    "word": "প্রতিষ্ঠার",
+    "frequency": 4273,
+    "source": "core"
+  },
+  {
+    "word": "যুক্তরাজ্য",
+    "frequency": 4272,
+    "source": "core"
+  },
+  {
+    "word": "সারা",
+    "frequency": 4271,
+    "source": "core"
+  },
+  {
+    "word": "বিশ্বের",
+    "frequency": 4270,
+    "source": "core"
+  },
+  {
+    "word": "মাধ্যম",
+    "frequency": 4269,
+    "source": "core"
+  },
+  {
+    "word": "এটিকে",
+    "frequency": 4268,
+    "source": "core"
+  },
+  {
+    "word": "ইতিহাসের",
+    "frequency": 4267,
+    "source": "core"
+  },
+  {
+    "word": "মুহূর্ত",
+    "frequency": 4266,
+    "source": "core"
+  },
+  {
+    "word": "অভিহিত",
+    "frequency": 4265,
+    "source": "core"
+  },
+  {
+    "word": "খেলাটি",
+    "frequency": 4264,
+    "source": "core"
+  },
+  {
+    "word": "আরও",
+    "frequency": 4263,
+    "source": "core"
+  },
+  {
+    "word": "জোই",
+    "frequency": 4262,
+    "source": "core"
+  },
+  {
+    "word": "বার্টনের",
+    "frequency": 4261,
+    "source": "core"
+  },
+  {
+    "word": "সেকেন্ডের",
+    "frequency": 4260,
+    "source": "core"
+  },
+  {
+    "word": "ব্যবধানেই",
+    "frequency": 4259,
+    "source": "core"
+  },
+  {
+    "word": "তিন",
+    "frequency": 4258,
+    "source": "core"
+  },
+  {
+    "word": "আলাদা",
+    "frequency": 4257,
+    "source": "core"
+  },
+  {
+    "word": "ট্যাকল",
+    "frequency": 4256,
+    "source": "core"
+  },
+  {
+    "word": "সবগুলোই",
+    "frequency": 4255,
+    "source": "core"
+  },
+  {
+    "word": "লাল",
+    "frequency": 4254,
+    "source": "core"
+  },
+  {
+    "word": "কার্ড",
+    "frequency": 4253,
+    "source": "core"
+  },
+  {
+    "word": "পাওয়ার",
+    "frequency": 4252,
+    "source": "core"
+  },
+  {
+    "word": "তাকে",
+    "frequency": 4251,
+    "source": "core"
+  },
+  {
+    "word": "১২টি",
+    "frequency": 4250,
+    "source": "core"
+  },
+  {
+    "word": "নিষিদ্ধ",
+    "frequency": 4249,
+    "source": "core"
+  },
+  {
+    "word": "উপস্থিতিসহ",
+    "frequency": 4248,
+    "source": "core"
+  },
+  {
+    "word": "অন্যান্য",
+    "frequency": 4247,
+    "source": "core"
+  },
+  {
+    "word": "বহিষ্কৃত",
+    "frequency": 4246,
+    "source": "core"
+  },
+  {
+    "word": "সাল",
+    "frequency": 4245,
+    "source": "core"
+  },
+  {
+    "word": "নাম্বার",
+    "frequency": 4244,
+    "source": "core"
+  },
+  {
+    "word": "কাউকে",
+    "frequency": 4243,
+    "source": "core"
+  },
+  {
+    "word": "দেয়নি",
+    "frequency": 4242,
+    "source": "core"
+  },
+  {
+    "word": "লিওঁতে",
+    "frequency": 4241,
+    "source": "core"
+  },
+  {
+    "word": "যাওয়া",
+    "frequency": 4240,
+    "source": "core"
+  },
+  {
+    "word": "ক্যামেরুনিয়ান",
+    "frequency": 4239,
+    "source": "core"
+  },
+  {
+    "word": "মিডফিল্ডার",
+    "frequency": 4238,
+    "source": "core"
+  },
+  {
+    "word": "ভিভিয়েন",
+    "frequency": 4237,
+    "source": "core"
+  },
+  {
+    "word": "ফোয়ের",
+    "frequency": 4236,
+    "source": "core"
+  },
+  {
+    "word": "সম্মানে",
+    "frequency": 4235,
+    "source": "core"
+  },
+  {
+    "word": "কনফেডারেশন্স",
+    "frequency": 4234,
+    "source": "core"
+  },
+  {
+    "word": "সেমিফাইনাল",
+    "frequency": 4233,
+    "source": "core"
+  },
+  {
+    "word": "ম্যাচে",
+    "frequency": 4232,
+    "source": "core"
+  },
+  {
+    "word": "কলম্বিয়ার",
+    "frequency": 4231,
+    "source": "core"
+  },
+  {
+    "word": "চলাকালীন",
+    "frequency": 4230,
+    "source": "core"
+  },
+  {
+    "word": "আকস্মিকভাবে",
+    "frequency": 4229,
+    "source": "core"
+  },
+  {
+    "word": "হৃদযন্ত্রের",
+    "frequency": 4228,
+    "source": "core"
+  },
+  {
+    "word": "ক্রিয়া",
+    "frequency": 4227,
+    "source": "core"
+  },
+  {
+    "word": "বন্ধ",
+    "frequency": 4226,
+    "source": "core"
+  },
+  {
+    "word": "মৃত্যুবরণ",
+    "frequency": 4225,
+    "source": "core"
+  },
+  {
+    "word": "কর্মকর্তাগণ",
+    "frequency": 4224,
+    "source": "core"
+  },
+  {
+    "word": "পরিচালনা",
+    "frequency": 4223,
+    "source": "core"
+  },
+  {
+    "word": "পরিষদ",
+    "frequency": 4222,
+    "source": "core"
+  },
+  {
+    "word": "যৌথ",
+    "frequency": 4221,
+    "source": "core"
+  },
+  {
+    "word": "পরিচালন",
+    "frequency": 4220,
+    "source": "core"
+  },
+  {
+    "word": "উল্লেখযোগ্য",
+    "frequency": 4219,
+    "source": "core"
+  },
+  {
+    "word": "অনুসারে",
+    "frequency": 4218,
+    "source": "core"
+  },
+  {
+    "word": "১৮৮৯",
+    "frequency": 4217,
+    "source": "core"
+  },
+  {
+    "word": "১৯৯৩",
+    "frequency": 4216,
+    "source": "core"
+  },
+  {
+    "word": "১৯৩৬",
+    "frequency": 4215,
+    "source": "core"
+  },
+  {
+    "word": "৩৭",
+    "frequency": 4214,
+    "source": "core"
+  },
+  {
+    "word": "১৪",
+    "frequency": 4213,
+    "source": "core"
+  },
+  {
+    "word": "২০১৭",
+    "frequency": 4212,
+    "source": "core"
+  },
+  {
+    "word": "১৯",
+    "frequency": 4211,
+    "source": "core"
+  },
+  {
+    "word": "২২",
+    "frequency": 4210,
+    "source": "core"
+  },
+  {
+    "word": "১৮৯৮",
+    "frequency": 4209,
+    "source": "core"
+  },
+  {
+    "word": "৯৯",
+    "frequency": 4208,
+    "source": "core"
+  },
+  {
+    "word": "১৯০২",
+    "frequency": 4207,
+    "source": "core"
+  },
+  {
+    "word": "১৯০৯",
+    "frequency": 4206,
+    "source": "core"
+  },
+  {
+    "word": "১৯২৭",
+    "frequency": 4205,
+    "source": "core"
+  },
+  {
+    "word": "২৮",
+    "frequency": 4204,
+    "source": "core"
+  },
+  {
+    "word": "৪৭",
+    "frequency": 4203,
+    "source": "core"
+  },
+  {
+    "word": "৬৬",
+    "frequency": 4202,
+    "source": "core"
+  },
+  {
+    "word": "২০১৬",
+    "frequency": 4201,
+    "source": "core"
+  },
+  {
+    "word": "কমিউনিটি",
+    "frequency": 4200,
+    "source": "core"
+  },
+  {
+    "word": "শিল্ড",
+    "frequency": 4199,
+    "source": "core"
+  },
+  {
+    "word": "১৯৬৮",
+    "frequency": 4198,
+    "source": "core"
+  },
+  {
+    "word": "১৯৭২",
+    "frequency": 4197,
+    "source": "core"
+  },
+  {
+    "word": "২০১২",
+    "frequency": 4196,
+    "source": "core"
+  },
+  {
+    "word": "ইউরোপ",
+    "frequency": 4195,
+    "source": "core"
+  },
+  {
+    "word": "ডাবল",
+    "frequency": 4194,
+    "source": "core"
+  },
+  {
+    "word": "মহাদেশীয়",
+    "frequency": 4193,
+    "source": "core"
+  },
+  {
+    "word": "চ্যাম্পিয়ন্স",
+    "frequency": 4192,
+    "source": "core"
+  },
+  {
+    "word": "লিংকন",
+    "frequency": 4191,
+    "source": "core"
+  },
+  {
+    "word": "১৮৯৫",
+    "frequency": 4190,
+    "source": "core"
+  },
+  {
+    "word": "ডারউইন",
+    "frequency": 4189,
+    "source": "core"
+  },
+  {
+    "word": "ফেব্রুয়ারি",
+    "frequency": 4188,
+    "source": "core"
+  },
+  {
+    "word": "লিভারপুল",
+    "frequency": 4187,
+    "source": "core"
+  },
+  {
+    "word": "স্ট্যানলি",
+    "frequency": 4186,
+    "source": "core"
+  },
+  {
+    "word": "অক্টোবর",
+    "frequency": 4185,
+    "source": "core"
+  },
+  {
+    "word": "পরাজয়",
+    "frequency": 4184,
+    "source": "core"
+  },
+  {
+    "word": "বার্টন",
+    "frequency": 4183,
+    "source": "core"
+  },
+  {
+    "word": "২৬",
+    "frequency": 4182,
+    "source": "core"
+  },
+  {
+    "word": "১৮৯৪",
+    "frequency": 4181,
+    "source": "core"
+  },
+  {
+    "word": "উল্ভারহাম্পটন",
+    "frequency": 4180,
+    "source": "core"
+  },
+  {
+    "word": "এভারটন",
+    "frequency": 4179,
+    "source": "core"
+  },
+  {
+    "word": "সেপ্টেম্বর",
+    "frequency": 4178,
+    "source": "core"
+  },
+  {
+    "word": "১৯০৬",
+    "frequency": 4177,
+    "source": "core"
+  },
+  {
+    "word": "স্মল",
+    "frequency": 4176,
+    "source": "core"
+  },
+  {
+    "word": "হিথ",
+    "frequency": 4175,
+    "source": "core"
+  },
+  {
+    "word": "১৮৯৩",
+    "frequency": 4174,
+    "source": "core"
+  },
+  {
+    "word": "প্রেস্টন",
+    "frequency": 4173,
+    "source": "core"
+  },
+  {
+    "word": "নর্থ",
+    "frequency": 4172,
+    "source": "core"
+  },
+  {
+    "word": "ইনড",
+    "frequency": 4171,
+    "source": "core"
+  },
+  {
+    "word": "১৮৯৭",
+    "frequency": 4170,
+    "source": "core"
+  },
+  {
+    "word": "ব্র্যাডফর্ড",
+    "frequency": 4169,
+    "source": "core"
+  },
+  {
+    "word": "এভিনিউ",
+    "frequency": 4168,
+    "source": "core"
+  },
+  {
+    "word": "ঘরের",
+    "frequency": 4167,
+    "source": "core"
+  },
+  {
+    "word": "স্থায়ী",
+    "frequency": 4166,
+    "source": "core"
+  },
+  {
+    "word": "৫৬১",
+    "frequency": 4165,
+    "source": "core"
+  },
+  {
+    "word": "সর্বমোট",
+    "frequency": 4164,
+    "source": "core"
+  },
+  {
+    "word": "৬৭৬",
+    "frequency": 4163,
+    "source": "core"
+  },
+  {
+    "word": "১৯৯",
+    "frequency": 4162,
+    "source": "core"
+  },
+  {
+    "word": "টমি",
+    "frequency": 4161,
+    "source": "core"
+  },
+  {
+    "word": "জনসন",
+    "frequency": 4160,
+    "source": "core"
+  },
+  {
+    "word": "পরিশোধিত",
+    "frequency": 4159,
+    "source": "core"
+  },
+  {
+    "word": "আতলেতিকো",
+    "frequency": 4158,
+    "source": "core"
+  },
+  {
+    "word": "মাদ্রিদে",
+    "frequency": 4157,
+    "source": "core"
+  },
+  {
+    "word": "প্রাপ্ত",
+    "frequency": 4156,
+    "source": "core"
+  },
+  {
+    "word": "রাইট",
+    "frequency": 4155,
+    "source": "core"
+  },
+  {
+    "word": "ফিলিপসের",
+    "frequency": 4154,
+    "source": "core"
+  },
+  {
+    "word": "চেলসির",
+    "frequency": 4153,
+    "source": "core"
+  },
+  {
+    "word": "২০০৫",
+    "frequency": 4152,
+    "source": "core"
+  },
+  {
+    "word": "সংসৃষ্ট",
+    "frequency": 4151,
+    "source": "core"
+  },
+  {
+    "word": "ক্লাবসমূহ",
+    "frequency": 4150,
+    "source": "core"
+  },
+  {
+    "word": "মালিকানা",
+    "frequency": 4149,
+    "source": "core"
+  },
+  {
+    "word": "মার্কিন",
+    "frequency": 4148,
+    "source": "core"
+  },
+  {
+    "word": "বেসবল",
+    "frequency": 4147,
+    "source": "core"
+  },
+  {
+    "word": "ইয়াঙ্কিসের",
+    "frequency": 4146,
+    "source": "core"
+  },
+  {
+    "word": "অংশীদারিত্বের",
+    "frequency": 4145,
+    "source": "core"
+  },
+  {
+    "word": "ভিত্তিতে",
+    "frequency": 4144,
+    "source": "core"
+  },
+  {
+    "word": "মেজর",
+    "frequency": 4143,
+    "source": "core"
+  },
+  {
+    "word": "সকারের",
+    "frequency": 4142,
+    "source": "core"
+  },
+  {
+    "word": "২০তম",
+    "frequency": 4141,
+    "source": "core"
+  },
+  {
+    "word": "চালু",
+    "frequency": 4140,
+    "source": "core"
+  },
+  {
+    "word": "যাচ্ছে",
+    "frequency": 4139,
+    "source": "core"
+  },
+  {
+    "word": "ক্লাবকে",
+    "frequency": 4138,
+    "source": "core"
+  },
+  {
+    "word": "অধিগ্রহণ",
+    "frequency": 4137,
+    "source": "core"
+  },
+  {
+    "word": "রাগবি",
+    "frequency": 4136,
+    "source": "core"
+  },
+  {
+    "word": "স্টোর্মের",
+    "frequency": 4135,
+    "source": "core"
+  },
+  {
+    "word": "অংশীদারিত্ব",
+    "frequency": 4134,
+    "source": "core"
+  },
+  {
+    "word": "নাম",
+    "frequency": 4133,
+    "source": "core"
+  },
+  {
+    "word": "হতে",
+    "frequency": 4132,
+    "source": "core"
+  },
+  {
+    "word": "বরতমান",
+    "frequency": 4131,
+    "source": "core"
+  },
+  {
+    "word": "জাপানের",
+    "frequency": 4130,
+    "source": "core"
+  },
+  {
+    "word": "গাড়ি",
+    "frequency": 4129,
+    "source": "core"
+  },
+  {
+    "word": "প্রস্তুতকারক",
+    "frequency": 4128,
+    "source": "core"
+  },
+  {
+    "word": "প্রতিষ্ঠান",
+    "frequency": 4127,
+    "source": "core"
+  },
+  {
+    "word": "নিশান",
+    "frequency": 4126,
+    "source": "core"
+  },
+  {
+    "word": "অংশিদারিত্তের",
+    "frequency": 4125,
+    "source": "core"
+  },
+  {
+    "word": "সুত্রে",
+    "frequency": 4124,
+    "source": "core"
+  },
+  {
+    "word": "জে",
+    "frequency": 4123,
+    "source": "core"
+  },
+  {
+    "word": "অংশীদারত্ব",
+    "frequency": 4122,
+    "source": "core"
+  },
+  {
+    "word": "তথ্যসূত্র",
+    "frequency": 4121,
+    "source": "core"
+  },
+  {
+    "word": "বহিঃসংযোগ",
+    "frequency": 4120,
+    "source": "core"
+  },
+  {
+    "word": "দাপ্তরিক",
+    "frequency": 4119,
+    "source": "core"
+  },
+  {
+    "word": "ওয়েবসাইট",
+    "frequency": 4118,
+    "source": "core"
+  },
+  {
+    "word": "বিবিসি",
+    "frequency": 4117,
+    "source": "core"
+  },
+  {
+    "word": "স্পোর্টস",
+    "frequency": 4116,
+    "source": "core"
+  },
+  {
+    "word": "সাম্প্রতিক",
+    "frequency": 4115,
+    "source": "core"
+  },
+  {
+    "word": "ফলাফল",
+    "frequency": 4114,
+    "source": "core"
+  },
+  {
+    "word": "সময়সূচী",
+    "frequency": 4113,
+    "source": "core"
+  },
+  {
+    "word": "তারকাবৃন্দ",
+    "frequency": 4112,
+    "source": "core"
+  },
+  {
+    "word": "ফেসবুকে",
+    "frequency": 4111,
+    "source": "core"
+  }
+]

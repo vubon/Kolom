@@ -1,0 +1,29 @@
+name: CI
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  build-and-test:
+    runs-on: macos-14 # Ensures an Apple Silicon (M1/M2) environment or at least a modern macOS environment
+    
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v4
+
+    - name: Install XcodeGen
+      run: brew install xcodegen
+
+    - name: Generate Xcode Project
+      run: xcodegen generate --spec project.yml
+
+    - name: Build and Test Kolom
+      run: |
+        xcodebuild test \
+          -project Kolom.xcodeproj \
+          -scheme KolomTests \
+          -destination 'platform=macOS' \
+          | xcpretty && exit ${PIPESTATUS[0]}

@@ -1,0 +1,47 @@
+#!/bin/bash
+
+# Post-install script for Kolom macOS Installer (.pkg)
+# This script runs as root after the payload is extracted to /tmp/KolomInstall
+
+# Get the current logged-in console user
+CURRENT_USER=$(stat -f "%Su" /dev/console)
+CURRENT_UID=$(id -u "$CURRENT_USER")
+
+# Define paths
+USER_HOME=$(eval echo "~$CURRENT_USER")
+TARGET_DIR="$USER_HOME/Library/Input Methods"
+APP_TARGET="$TARGET_DIR/Kolom.app"
+SRC_APP="/tmp/KolomInstall/Kolom.app"
+
+if [ -d "$SRC_APP" ]; then
+    # Create the user directory if it doesn't exist
+    su "$CURRENT_USER" -c "mkdir -p \"$TARGET_DIR\""
+    
+    # Remove any existing copy
+    rm -rf "$APP_TARGET"
+    
+    # Move the newly installed app into the user's directory
+    mv "$SRC_APP" "$APP_TARGET"
+    
+    # Change ownership so the user owns it, not root
+    chown -R "$CURRENT_USER:staff" "$APP_TARGET"
+    
+    # Register with LaunchServices for the current user
+    su "$CURRENT_USER" -c "/System/Library/Frameworks/CoreServices.framework/Frameworks/LaunchServices.framework/Support/lsregister -f \"$APP_TARGET\""
+    
+    # Open the app once in the background to ensure macOS Input Method subsystem registers it
+    su "$CURRENT_USER" -c "open -g \"$APP_TARGET\""
+    
+    # Clear system intl cache (must search /private/var/folders as in deploy.sh)
+    find /private/var/folders -name "*IntlDataCache*" -delete 2>/dev/null || true
+    
+    # Restart the input UI agents (running as root will successfully kill them for all users)
+    killall -9 TextInputMenuAgent TextInputSwitcher 2>/dev/null || true
+    killall -HUP ControlCenter 2>/dev/null || true
+    killall -9 SystemSettings 2>/dev/null || true
+fi
+
+# Clean up the temporary install location
+rm -rf /tmp/KolomInstall
+
+exit 0

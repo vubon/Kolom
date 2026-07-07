@@ -1,0 +1,86 @@
+name: Kolom
+options:
+  bundleIdPrefix: com.kolom.inputmethod
+  deploymentTarget:
+    macOS: "13.0"
+  createIntermediateGroups: true
+  xcodeVersion: "15.0"
+
+settings:
+  base:
+    SWIFT_VERSION: "6.0"
+    MACOSX_DEPLOYMENT_TARGET: "13.0"
+    ARCHS: arm64
+    ONLY_ACTIVE_ARCH: YES
+    ENABLE_HARDENED_RUNTIME: NO
+    MARKETING_VERSION: "1.0.0"
+    CURRENT_PROJECT_VERSION: 1
+  configs:
+    Debug:
+      # Embed debug info directly into the binary — no separate .dSYM generated.
+      # This eliminates the "empty dSYM file detected" warning during Debug runs.
+      DEBUG_INFORMATION_FORMAT: dwarf
+      SWIFT_OPTIMIZATION_LEVEL: "-Onone"
+    Release:
+      # Separate .dSYM for crash symbolication in distribution builds.
+      DEBUG_INFORMATION_FORMAT: dwarf-with-dsym
+      SWIFT_OPTIMIZATION_LEVEL: "-O"
+
+targets:
+  Kolom:
+    type: application
+    platform: macOS
+    sources:
+      - path: KolomApp/Sources
+      - path: KolomInputMethod
+      - path: KolomEngine
+      - path: KolomDictionary
+        excludes:
+          - "Resources/**"
+      - path: KolomSettings
+      - path: KolomApp/Resources/en.lproj/InfoPlist.strings
+      - path: KolomApp/Resources/bn.lproj/InfoPlist.strings
+      - path: KolomApp/Resources/BengaliIconTemplate.tiff
+      - path: KolomDictionary/Resources/kolom-dictionary.json
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: com.kolom.inputmethod.Kolom
+        PRODUCT_NAME: Kolom
+        INFOPLIST_FILE: KolomApp/Resources/Info.plist
+        CODE_SIGN_ENTITLEMENTS: KolomApp/Resources/Kolom.entitlements
+        LD_RUNPATH_SEARCH_PATHS: "$(inherited) @executable_path/../Frameworks"
+
+  KolomTests:
+    type: bundle.unit-test
+    platform: macOS
+    sources:
+      - path: Tests
+    dependencies:
+      - target: Kolom
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: com.kolom.inputmethod.KolomTests
+        MACOSX_DEPLOYMENT_TARGET: "13.0"
+        TEST_HOST: "$(BUILT_PRODUCTS_DIR)/Kolom.app/Contents/MacOS/Kolom"
+        BUNDLE_LOADER: "$(TEST_HOST)"
+
+schemes:
+  Kolom:
+    build:
+      targets:
+        Kolom: all
+    run:
+      config: Debug
+    test:
+      config: Debug
+      targets:
+        - KolomTests
+
+  KolomTests:
+    build:
+      targets:
+        KolomTests: all
+    test:
+      config: Debug
+      targets:
+        - KolomTests
