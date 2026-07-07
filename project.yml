@@ -4,6 +4,7 @@ options:
   deploymentTarget:
     macOS: "13.0"
   createIntermediateGroups: true
+  xcodeVersion: "14.0"
 
 settings:
   base:
