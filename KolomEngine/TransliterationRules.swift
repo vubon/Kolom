@@ -43,8 +43,8 @@ enum TransliterationRules {
         rules += [
             // kSh → ক্ষ (ksha conjunct — very common in Bengali)
             TransliterationRule(pattern: "kSh", kind: .consonant("ক্ষ")),
-            // jNG → ঞ্জ
-            TransliterationRule(pattern: "jNG", kind: .consonant("ঞ্জ")),
+            // jNG → জ্ঞ (jnya conjunct)
+            TransliterationRule(pattern: "jNG", kind: .consonant("জ্ঞ")),
             // chh → ছ
             TransliterationRule(pattern: "chh", kind: .consonant("ছ")),
         ]

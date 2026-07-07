@@ -13,8 +13,8 @@ settings:
     ARCHS: arm64
     ONLY_ACTIVE_ARCH: YES
     ENABLE_HARDENED_RUNTIME: NO
-    MARKETING_VERSION: "1.0.0"
-    CURRENT_PROJECT_VERSION: 1
+    MARKETING_VERSION: "1.0.1"
+    CURRENT_PROJECT_VERSION: 2
   configs:
     Debug:
       # Embed debug info directly into the binary — no separate .dSYM generated.

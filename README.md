@@ -197,7 +197,23 @@ Kolom uses a standard phonetic mapping (similar to Avro) to transliterate Englis
 
 **Typing Conjuncts (যুক্তাক্ষর):**
 To combine two consonants, simply type them consecutively. The engine automatically inserts a Hasanta (`্`) between them.
-*Example:* `s` + `t` + `r` + `I` = `strI` ➔ **স্ত্রী**
+If you need to separate two consonants so they *don't* form a conjunct, use `o` (which acts as an invisible inherent vowel separator).
+
+**Examples of Complex Words:**
+
+| Bengali Word | English (Pronunciation) | Phonetic Typing | Explanation / Note |
+|--------------|------------------------|-----------------|--------------------|
+| **স্ত্রী**       | Stri                   | `strI`          | Consecutive consonants (`str`) join automatically |
+| **বঙ্গ**       | Banga                  | `boNgg`         | The `o` separates `b` and `Ng` to prevent `ব্ঙ` |
+| **বাঙালি**     | Bangali                | `baNgali`       | Capital `N` is required to get `ঙ` |
+| **বিজ্ঞান**    | Biggan                 | `bijNGan`       | `jNG` is a built-in shortcut for `জ্ঞ` |
+| **ক্ষমা**      | Kkhoma                 | `kShoma`        | `kSh` is a built-in shortcut for `ক্ষ` |
+| **শিক্ষক**     | Shikkhok               | `shikShok`      | Standard use of the `kSh` conjunct |
+| **বাংলা**     | Bangla                 | `bangla`         | `ng` naturally produces the Anusvara (`ং`) |
+| **কৃষ্ণ**      | Krishno                 | `krriShN`       | `krri` gets you `কৃ` (k + rri), and `N` gets you `ণ` |
+| **কৃষ্ণা**     | Krishnaa                | `krriShNa`      | Adding `a` at the end attaches the `া` to the conjunct |
+| **গঞ্জ**     | Gonj                     | `goNGj`      | `NG` is used for `ঞ`. `ng` would wrongly produce `গংজ` |
+
 
 **Auto-Learning & Ambiguity:**
 If a typed word matches multiple spellings (like typing `t` at the end of a word when you meant `ৎ`), the candidate window will intelligently suggest words from the dictionary. Kolom also learns your unique words automatically!
