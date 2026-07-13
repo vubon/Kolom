@@ -152,6 +152,10 @@ final class KolomInputController: IMKInputController, @unchecked Sendable {
             return
         }
 
+        // SYNC: setMarkedText MUST be called synchronously on the same call stack
+        // that returned `true` from handle(_:client:). Chrome's out-of-process text
+        // input model blocks waiting for this update — dispatching it async causes
+        // the browser to freeze until the next run-loop tick.
         let attrs: [NSAttributedString.Key: Any] = [
             .underlineStyle: NSUnderlineStyle.single.rawValue,
             .underlineColor: NSColor.gray
@@ -163,11 +167,12 @@ final class KolomInputController: IMKInputController, @unchecked Sendable {
             replacementRange: NSRange(location: NSNotFound, length: 0)
         )
 
+        // The candidate window is cosmetic-only — it is safe to update async.
         let candidates = session.currentCandidates
         if candidates.isEmpty {
-            Task { @MainActor [weak self] in
-                self?.candidateWindow.hide()
-            }
+            // IMK always invokes handle() on the main thread, so we can call
+            // candidateWindow directly without dispatching.
+            MainActor.assumeIsolated { candidateWindow.hide() }
         } else {
             let selectedIndex = self.session.selectedCandidateIndex
             let sendableClient = SendableClient(client)
@@ -175,7 +180,6 @@ final class KolomInputController: IMKInputController, @unchecked Sendable {
                 guard let self = self else { return }
                 var cursorRect = NSRect.zero
                 sendableClient.client.attributes(forCharacterIndex: 0, lineHeightRectangle: &cursorRect)
-                
                 self.candidateWindow.show(
                     candidates: candidates,
                     selectedIndex: selectedIndex,
@@ -187,42 +191,50 @@ final class KolomInputController: IMKInputController, @unchecked Sendable {
 
     private func clearCompositionDisplay(client: IMKTextInput) {
         session.reset()
+        // SYNC: clear the marked text immediately so the host application
+        // (especially Chrome) does not see a stale preedit region.
         client.setMarkedText(
             "",
             selectionRange: NSRange(location: 0, length: 0),
             replacementRange: NSRange(location: NSNotFound, length: 0)
         )
-        Task { @MainActor [weak self] in
-            self?.candidateWindow.hide()
-        }
+        // Hide window synchronously — we are on the main thread here.
+        MainActor.assumeIsolated { candidateWindow.hide() }
     }
 
     private func commitText(_ text: String, client: IMKTextInput) {
         client.insertText(text, replacementRange: NSRange(location: NSNotFound, length: 0))
-        
+
         let trimmed = text.trimmingCharacters(in: .whitespacesAndNewlines)
         if !trimmed.isEmpty {
             UserDictionaryStore.shared.saveWord(trimmed)
         }
-        
+
         session.reset()
-        Task { @MainActor [weak self] in
-            self?.candidateWindow.hide()
-        }
+        // SYNC: hide immediately so state (session.isComposing == false) and
+        // the UI (window hidden) are always in sync. Async hiding caused a
+        // brief window where a fast-typed next character arrived with the
+        // window still visible but the session already reset.
+        MainActor.assumeIsolated { candidateWindow.hide() }
     }
 
     override func activateServer(_ sender: Any!) {
-        super.activateServer(sender)
+        // FIX: Reset session BEFORE calling super so any stale preedit state
+        // from a previous deactivateServer (e.g., tab-switch race in Chrome)
+        // is fully cleared before the new client starts receiving events.
         session.reset()
+        MainActor.assumeIsolated { candidateWindow.hide() }
+        super.activateServer(sender)
     }
 
     override func deactivateServer(_ sender: Any!) {
+        // Commit any pending preedit before handing control back to the system.
         if let client = sender as? IMKTextInput, session.isComposing {
             commitText(session.currentComposition, client: client)
         }
-        Task { @MainActor [weak self] in
-            self?.candidateWindow.hide()
-        }
+        // SYNC: hide window synchronously so the state is clean before
+        // activateServer fires on the next focused client.
+        MainActor.assumeIsolated { candidateWindow.hide() }
         super.deactivateServer(sender)
     }
 
