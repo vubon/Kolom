@@ -78,7 +78,8 @@ final class KolomInputController: IMKInputController, @unchecked Sendable {
         default:
             guard let characters = event.characters, !characters.isEmpty else { return false }
             
-            if session.hasCandidates, let num = Int(characters), num >= 1 && num <= 9 {
+            let isNumericComposition = !session.rawBuffer.isEmpty && session.rawBuffer.allSatisfy { $0.isNumber }
+            if !isNumericComposition, session.hasCandidates, let num = Int(characters), num >= 1 && num <= 9 {
                 let index = num - 1
                 if index < session.currentCandidates.count {
                     let candidate = session.currentCandidates[index]
