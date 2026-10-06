@@ -73,6 +73,13 @@ cask "kolom" do
     "~/Library/Preferences/com.kolom.inputmethod.plist",
     "~/Library/Application Support/Kolom",
   ]
+
+  caveats <<~EOS
+    Kolom is open-source and not signed with an Apple Developer ID ($99/yr).
+    If macOS displays "Apple could not verify Kolom", run:
+      xattr -cr "#{Dir.home}/Library/Input Methods/Kolom.app"
+    Or go to: System Settings -> Privacy & Security and click "Open Anyway".
+  EOS
 end
 EOF
 
