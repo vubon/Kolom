@@ -69,11 +69,6 @@ cask "kolom" do
 
   input_method "Kolom.app"
 
-  postflight do
-    system_command "/System/Library/Frameworks/CoreServices.framework/Frameworks/LaunchServices.framework/Support/lsregister",
-                   args: ["-f", "#{Dir.home}/Library/Input Methods/Kolom.app"]
-  end
-
   zap trash: [
     "~/Library/Preferences/com.kolom.inputmethod.plist",
     "~/Library/Application Support/Kolom",
