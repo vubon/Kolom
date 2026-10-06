@@ -19,8 +19,7 @@ DerivedData
 *.ipa
 *.xcuserstate
 *.pkg
-*.zip
-build_release_out/
+
 
 # XcodeGen (Generated Project File)
 Kolom.xcodeproj/

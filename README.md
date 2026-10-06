@@ -6,15 +6,7 @@
 
 > **A native Bengali keyboard for Apple Silicon Macs.**
 
-## Installation
-
-### Via Homebrew (Recommended)
-
-```bash
-brew install vubon/kolom/kolom
-```
-
-### Building from Source
+## Building from Source
 
 For developers or open-source users who want to compile Kolom directly from source:
 
